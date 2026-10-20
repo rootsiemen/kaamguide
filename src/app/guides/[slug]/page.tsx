@@ -28,11 +28,11 @@ export async function generateMetadata({
       type: "article",
       publishedTime: guide.date,
       modifiedTime: guide.date,
-      images: [{ url: "/og-image.jpg", width: 1200, height: 630, alt: guide.title }],
+      images: [{ url: `/images/${guide.slug}.jpg`, width: 1200, height: 675, alt: guide.title }],
     },
     twitter: {
       card: "summary_large_image",
-      images: ["/og-image.jpg"],
+      images: [`/images/${guide.slug}.jpg`],
       title: guide.title,
       description: guide.description,
     },
@@ -137,6 +137,13 @@ export default async function GuidePage({
           })}{" "}
           · {guide.readingMinutes} min padhai · KaamGuide
         </p>
+        <img
+          src={`/images/${guide.slug}.jpg`}
+          alt={guide.title}
+          className="mt-6 w-full rounded-2xl border border-zinc-200"
+          width={1200}
+          height={675}
+        />
         <div
           className="prose-article mt-4"
           dangerouslySetInnerHTML={{ __html: guide.contentHtml }}
