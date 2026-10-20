@@ -28,9 +28,11 @@ export async function generateMetadata({
       type: "article",
       publishedTime: guide.date,
       modifiedTime: guide.date,
+      images: [{ url: "/og-image.jpg", width: 1200, height: 630, alt: guide.title }],
     },
     twitter: {
-      card: "summary",
+      card: "summary_large_image",
+      images: ["/og-image.jpg"],
       title: guide.title,
       description: guide.description,
     },
@@ -60,7 +62,12 @@ export default async function GuidePage({
     dateModified: guide.date,
     inLanguage: "ur-PK",
     author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
-    publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+    publisher: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: SITE_URL,
+      logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
+    },
     mainEntityOfPage: { "@type": "WebPage", "@id": url },
   };
 
@@ -79,6 +86,19 @@ export default async function GuidePage({
     ],
   };
 
+
+  const faqLd = guide.faqs.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: guide.faqs.map((f) => ({
+          "@type": "Question",
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
+      }
+    : null;
+
   return (
     <>
       <script
@@ -89,6 +109,12 @@ export default async function GuidePage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
+      {faqLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+        />
+      )}
       <article className="mx-auto max-w-3xl px-4 py-10">
         <p className="text-sm font-semibold text-green-700">
           <a href="/guides" className="hover:underline">

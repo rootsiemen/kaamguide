@@ -21,9 +21,18 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     type: "website",
     locale: "ur_PK",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "KaamGuide — Pakistan Ke Sarkari Kaam, Asaan Roman Urdu Me",
+      },
+    ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
+    images: ["/og-image.jpg"],
     title: "KaamGuide — Sarkari Kaam Asaan Urdu Me",
     description:
       "Passport, CNIC, license, bill aur tax — har sarkari kaam ki mukammal guide, official fees ke saath.",
@@ -45,6 +54,7 @@ const orgLd = {
   "@type": "Organization",
   name: SITE_NAME,
   url: SITE_URL,
+  logo: `${SITE_URL}/logo.png`,
   description:
     "Roman Urdu me sarkari kaamon ki guides — official sources se verified fees, documents aur process.",
 };

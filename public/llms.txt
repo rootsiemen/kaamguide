@@ -1,0 +1,28 @@
+# KaamGuide
+
+> KaamGuide (https://igaf.me) publishes step-by-step guides in easy Roman Urdu for Pakistani government services. Fees, documents and processes are verified against official sources (DGIP, NADRA, FBR, excise departments). It is a private guidance website, not a government website.
+
+## Main pages
+
+- [Home](https://igaf.me)
+- [All guides](https://igaf.me/guides)
+- [About](https://igaf.me/about)
+- [Contact](https://igaf.me/contact)
+
+## Guides
+
+- [pakistan-passport-banane-ka-tareeqa](https://igaf.me/guides/pakistan-passport-banane-ka-tareeqa)
+- [nadra-cnic-banane-ka-tareeqa](https://igaf.me/guides/nadra-cnic-banane-ka-tareeqa)
+- [b-form-banane-ka-tareeqa](https://igaf.me/guides/b-form-banane-ka-tareeqa)
+- [driving-license-banane-ka-tareeqa](https://igaf.me/guides/driving-license-banane-ka-tareeqa)
+- [bijli-ka-bill-online-check](https://igaf.me/guides/bijli-ka-bill-online-check)
+- [gas-ka-bill-online-check](https://igaf.me/guides/gas-ka-bill-online-check)
+- [fbr-filer-banne-ka-tareeqa](https://igaf.me/guides/fbr-filer-banne-ka-tareeqa)
+- [domicile-certificate-banane-ka-tareeqa](https://igaf.me/guides/domicile-certificate-banane-ka-tareeqa)
+- [birth-certificate-banane-ka-tareeqa](https://igaf.me/guides/birth-certificate-banane-ka-tareeqa)
+- [nadra-marriage-certificate](https://igaf.me/guides/nadra-marriage-certificate)
+- [police-character-certificate](https://igaf.me/guides/police-character-certificate)
+- [hec-degree-attestation](https://igaf.me/guides/hec-degree-attestation)
+- [gaari-verification-mtmis](https://igaf.me/guides/gaari-verification-mtmis)
+- [gaari-transfer-karne-ka-tareeqa](https://igaf.me/guides/gaari-transfer-karne-ka-tareeqa)
+- [pta-mobile-registration-dirbs](https://igaf.me/guides/pta-mobile-registration-dirbs)

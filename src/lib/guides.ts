@@ -9,6 +9,7 @@ export interface Guide {
   category: string;
   readingMinutes: number;
   contentHtml: string;
+  faqs: { q: string; a: string }[];
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content", "guides");
@@ -153,6 +154,28 @@ function countWords(md: string): number {
   return md.split(/\s+/).filter(Boolean).length;
 }
 
+
+function extractFaqs(body: string): { q: string; a: string }[] {
+  const m = body.match(/^##\s+.*(Aksar Poche Jane Wale Sawal|FAQ).*$/im);
+  if (!m || m.index === undefined) return [];
+  const section = body.slice(m.index + m[0].length);
+  const parts = section.split(/\*\*([^*]+)\*\*/);
+  const faqs: { q: string; a: string }[] = [];
+  for (let i = 1; i < parts.length - 1; i += 2) {
+    const q = parts[i].trim();
+    if (!q.endsWith("?")) continue;
+    const a = (parts[i + 1] ?? "")
+      .split(/^##\s/m)[0]
+      .split(/^\s*---\s*$/m)[0]
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+      .replace(/\*\*/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+    if (a.length > 15) faqs.push({ q, a });
+  }
+  return faqs.slice(0, 10);
+}
+
 export function getAllGuides(): Guide[] {
   if (!fs.existsSync(CONTENT_DIR)) return [];
   return fs
@@ -169,6 +192,7 @@ export function getAllGuides(): Guide[] {
         category: meta.category ?? "General",
         readingMinutes: Math.max(1, Math.round(countWords(body) / 180)),
         contentHtml: mdToHtml(body),
+        faqs: extractFaqs(body),
       };
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1));
