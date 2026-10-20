@@ -103,6 +103,7 @@ function Footer() {
           <a href="/guides" className="hover:text-green-700">Sari Guides</a>
           <a href="/about" className="hover:text-green-700">Hamare Baare Me</a>
           <a href="/contact" className="hover:text-green-700">Rabta</a>
+          <a href="/privacy-policy" className="hover:text-green-700">Privacy Policy</a>
         </div>
         <p className="mt-4 text-xs">© 2026 KaamGuide. Jami haqooq mehfooz hain.</p>
       </div>
