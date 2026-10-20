@@ -186,7 +186,10 @@ export const CATEGORIES = [
   { name: "Passport", blurb: "Naya passport, renewal aur khoya hua passport" },
   { name: "NADRA / CNIC", blurb: "CNIC, B-Form aur family registration" },
   { name: "Driving License", blurb: "Learner, permanent license aur renewal" },
-  { name: "Bills", blurb: "Bijli, gas aur PTCL bill check karna" },
+  { name: "Bills", blurb: "Bijli, gas aur utility bill check karna" },
   { name: "Tax / FBR", blurb: "Filer banana, tax return aur ATL check" },
   { name: "Domicile", blurb: "Domicile aur PRC certificate ka tareeqa" },
+  { name: "Gaari / Vehicle", blurb: "Gaari verification, transfer aur token tax" },
+  { name: "Certificates", blurb: "Birth, marriage, character aur degree attestation" },
+  { name: "Mobile / PTA", blurb: "PTA registration, mobile tax aur DIRBS" },
 ];
