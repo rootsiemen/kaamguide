@@ -59,9 +59,12 @@ function Header() {
   return (
     <header className="border-b border-zinc-200 bg-white/95 backdrop-blur sticky top-0 z-10">
       <div className="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between gap-3">
-        <a href="/" className="text-xl font-extrabold tracking-tight shrink-0">
-          <span className="text-green-700">Kaam</span>
-          <span className="text-zinc-900">Guide</span>
+        <a href="/" className="flex items-center gap-2 shrink-0">
+          <img src="/logo.png" alt="KaamGuide logo" className="h-9 w-9 rounded-lg" />
+          <span className="text-xl font-extrabold tracking-tight">
+            <span className="text-green-700">Kaam</span>
+            <span className="text-zinc-900">Guide</span>
+          </span>
         </a>
         <nav className="flex flex-wrap gap-x-4 gap-y-1 text-sm font-medium text-zinc-600 justify-end">
           {links.map((l) => (
