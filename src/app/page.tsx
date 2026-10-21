@@ -1,4 +1,4 @@
-import { CATEGORIES, getAllGuides } from "@/lib/guides";
+import { CATEGORIES, categoryAnchor, getAllGuides } from "@/lib/guides";
 
 export default function Home() {
   const guides = getAllGuides();
@@ -33,15 +33,19 @@ export default function Home() {
         <h2 className="text-xl font-extrabold text-zinc-900">Categories</h2>
         <div className="mt-4 grid grid-cols-2 md:grid-cols-3 gap-3">
           {CATEGORIES.map((c) => (
-            <div
+            <a
               key={c.name}
-              className="rounded-2xl border border-zinc-200 bg-white p-4"
+              href={`/guides#${categoryAnchor(c.name)}`}
+              className="block rounded-2xl border border-zinc-200 bg-white p-4 hover:border-green-500 hover:shadow-md transition"
             >
               <p className="font-bold text-green-800">{c.name}</p>
               <p className="mt-1 text-sm text-zinc-500 leading-relaxed">
                 {c.blurb}
               </p>
-            </div>
+              <p className="mt-2 text-sm font-semibold text-green-700">
+                Guides dekhein →
+              </p>
+            </a>
           ))}
         </div>
       </section>

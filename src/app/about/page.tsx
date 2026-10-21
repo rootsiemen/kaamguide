@@ -28,7 +28,16 @@ export default function AboutPage() {
           kaam ki mukammal guide Roman Urdu me di jati hai — wo zuban jo
           Pakistan ke aksar log roz boltay aur parhtay hain.
         </p>
-        <h2>Hamari policy</h2>
+        <h2>Kaun likhta hai?</h2>
+        <p>
+          KaamGuide aik chhoti si team chalati hai jo sarkari kaamon ke
+          process ko pehle khud official sources se parhti aur samajhti hai —
+          mutaliqa idaray ki website, published fee chart aur notifications —
+          phir usi maloomat ko asaan Roman Urdu me guide ki surat me likhti
+          hai. Hamara kaam maloomat ko asaan banana hai; sarkari faislay aur
+          services sirf mutaliqa idaray ke ikhtiyar me hain.
+        </p>
+        <h2>Editorial policy: hum maloomat kaise verify karte hain</h2>
         <ul>
           <li>
             <strong>Official sources pehle:</strong> fees, documents aur
@@ -47,6 +56,12 @@ export default function AboutPage() {
           <li>
             <strong>Koi agent culture nahi:</strong> hamara maqsad hai ke aap
             apna kaam khud, sahi tareeqe se, baghair kisi agent ke kar sakein.
+          </li>
+          <li>
+            <strong>Ghalti ki durustgi:</strong> agar kisi guide me ghalti
+            nazar aye to Contact page se humein bata dein — hum official
+            source se verify karke guide theek kar dete hain aur update ki
+            tareekh bhi badal di jati hai.
           </li>
         </ul>
         <h2>Ahem note</h2>

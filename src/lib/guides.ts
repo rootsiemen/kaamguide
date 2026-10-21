@@ -10,6 +10,19 @@ export interface Guide {
   readingMinutes: number;
   contentHtml: string;
   faqs: { q: string; a: string }[];
+  headings: { id: string; text: string }[];
+}
+
+export function slugifyHeading(text: string): string {
+  return text
+    .replace(/\*\*/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function categoryAnchor(name: string): string {
+  return "cat-" + slugifyHeading(name);
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content", "guides");
@@ -54,7 +67,13 @@ function inline(s: string): string {
 }
 
 /** Minimal markdown → HTML: headings, paragraphs, lists, tables, quotes, hr. */
-export function mdToHtml(md: string): string {
+export interface RenderedMd {
+  html: string;
+  headings: { id: string; text: string }[];
+}
+
+export function mdToHtml(md: string): RenderedMd {
+  const headings: { id: string; text: string }[] = [];
   const lines = md.split(/\r?\n/);
   const out: string[] = [];
   let i = 0;
@@ -97,7 +116,13 @@ export function mdToHtml(md: string): string {
     if (h) {
       closeList();
       const level = h[1].length;
-      out.push(`<h${level}>${inline(h[2])}</h${level}>`);
+      if (level === 2) {
+        const id = slugifyHeading(h[2]);
+        headings.push({ id, text: h[2].replace(/\*\*/g, "") });
+        out.push(`<h2 id="${id}" class="scroll-mt-28">${inline(h[2])}</h2>`);
+      } else {
+        out.push(`<h${level}>${inline(h[2])}</h${level}>`);
+      }
       i++;
       continue;
     }
@@ -147,7 +172,7 @@ export function mdToHtml(md: string): string {
     out.push(`<p>${inline(para.join(" "))}</p>`);
   }
   closeList();
-  return out.join("\n");
+  return { html: out.join("\n"), headings };
 }
 
 function countWords(md: string): number {
@@ -184,6 +209,7 @@ export function getAllGuides(): Guide[] {
     .map((file) => {
       const raw = fs.readFileSync(path.join(CONTENT_DIR, file), "utf8");
       const { meta, body } = parseFrontmatter(raw);
+      const rendered = mdToHtml(body);
       return {
         slug: file.replace(/\.md$/, ""),
         title: meta.title ?? file,
@@ -191,7 +217,8 @@ export function getAllGuides(): Guide[] {
         date: meta.date ?? "1970-01-01",
         category: meta.category ?? "General",
         readingMinutes: Math.max(1, Math.round(countWords(body) / 180)),
-        contentHtml: mdToHtml(body),
+        contentHtml: rendered.html,
+        headings: rendered.headings,
         faqs: extractFaqs(body),
       };
     })

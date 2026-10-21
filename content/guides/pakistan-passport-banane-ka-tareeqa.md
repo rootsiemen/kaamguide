@@ -1,7 +1,7 @@
 ---
 title: "Pakistan Me Passport Banane Ka Tareeqa (2026): Fees, Kagzaat Aur Poora Process"
 description: "Pakistan me naya passport banwane ka mukammal tareeqa — zaroori kagzaat, 2026 ki official fees (normal/urgent, 36/72/100 pages), online aur office dono tareeqe, step-by-step process aur aksar poche jane wale sawal."
-date: "2026-10-19"
+date: "2026-10-21"
 category: "Passport"
 ---
 
@@ -10,7 +10,7 @@ category: "Passport"
 Pakistan me passport banwane se pehle aksar log seedha office chale jate hain aur wahan pohnch kar pata chalta hai ke unhon ne galat category ya galat validity ka form bhar diya hai. Waqt zaya hone se bachne ke liye **teen faislay ghar beth kar kar lein**:
 
 1. **Kaunsa type:** Aaj kal Pakistan me do qisam ke passport jari ho rahe hain — **Machine Readable Passport (MRP)** aur **e-passport** (jis me electronic chip hoti hai). E-passport zyada mehfooz hai lekin fee lagbhag dugni hai. Jo log saal me aik-do dafa travel karte hain, un ke liye MRP kaafi hai; jo aksar safar karte hain ya lambay arsay ke liye soch rahe hain, un ke liye e-passport behtar hai.
-2. **Kitne saal ki validity:** 18 saal ya us se zyada umar ke afrad **5 saal ya 10 saal** ki validity chun sakte hain. 10 saal wala option aik dafa me zyada fee leta hai lekin har 5 saal baad renewal ki pareshani se bacha leta hai. **15 saal se kam umar ke bachon ke liye sirf 5 saal ki validity milti hai** — ye DGIP ka qanoon hai.
+2. **Kitne saal ki validity:** **15 saal ya us se zyada umar** ke afrad (15 se 18 saal ke naujawan bhi isi me shamil hain) **5 saal ya 10 saal** ki validity chun sakte hain. 10 saal wala option aik dafa me zyada fee leta hai lekin har 5 saal baad renewal ki pareshani se bacha leta hai. **Pabandi sirf 15 saal se kam umar ke bachon par hai — un ke liye sirf 5 saal ki validity milti hai**, ye DGIP ka qanoon hai.
 3. **Kitne pages:** **36 pages** aam musafiron ke liye kaafi hain. Jo log mulazmat, karobar ya parhai ke liye aksar bahir jate hain, un ke liye **72 pages** behtar hai. **100 pages** wala passport bohat zyada safar karne walon ke liye hai.
 
 Ye teenon faislay fee par asar dalte hain, is liye fee table parhne se pehle in ka faisla kar lein.
@@ -38,6 +38,12 @@ Kagzaat na-mukammal hona sab se aam wajah hai jis ki bina par logon ka aik din z
 - Walid ya walida me se aik ka CNIC (jo bache ke saath office aye ga)
 - Agar aik walid ghair-mulki hai to mutaliqa additional documents
 
+**15 se 18 saal ke naujawan ka passport:**
+
+- Is umar me CNIC nahi bana hota, is liye bache ka **B-Form (CRC)** le kar jayein
+- Walid ya walida ka CNIC (jo saath office aye ga)
+- Validity 5 saal ya 10 saal — dono options dastiyab hain (upar wali tafseel dekhein)
+
 **Khoya ya chori hua passport (duplicate):**
 
 - **Police FIR** ki copy — ye lazmi hai, is ke baghair duplicate passport jari nahi hota
@@ -50,7 +56,7 @@ Kagzaat na-mukammal hona sab se aam wajah hai jis ki bina par logon ka aik din z
 
 ## Passport Fees 2026: Mukammal Table
 
-Fees ka inhisaar teen cheezon par hai: passport ki qisam (MRP ya e-passport), pages ki tadad, aur processing speed (normal ya urgent). Ye fees Directorate General of Immigration & Passports (DGIP) ke published fee chart ke mutabiq hain — **19 October 2026 ko verify ki gayi hain**. Fees waqt ke saath badal sakti hain, is liye adaigi se pehle [dgip.gov.pk](https://dgip.gov.pk/) par zaroor tasdeeq kar lein.
+Fees ka inhisaar teen cheezon par hai: passport ki qisam (MRP ya e-passport), pages ki tadad, aur processing speed (normal ya urgent). Ye fees Directorate General of Immigration & Passports (DGIP) ke published fee chart ke mutabiq hain — **21 October 2026 ko dobara verify ki gayi hain**. Fees waqt ke saath badal sakti hain, is liye adaigi se pehle [dgip.gov.pk](https://dgip.gov.pk/) par zaroor tasdeeq kar lein.
 
 **Machine Readable Passport (MRP) fees:**
 
@@ -130,8 +136,18 @@ Pakistan bhar me **Regional Passport Offices (RPOs)** hain — aap apne qareebi 
 3. **Ghalat mobile number:** aik digit ghalat ho to status SMS nahi milte aur aap andhere me rehte hain.
 4. **Agenton par bharosa:** office ke bahir khare agent "kaam jaldi karwane" ke naam par hazaaron le lete hain. Poora process aap khud kar sakte hain — is guide me sab likha hai.
 5. **Purani tasveer ya ghalat format (online):** online apply karte waqt portal par di gayi tasveer ki requirements parhein, warna form wapas bhej diya jata hai.
-6. **Aakhri waqt me apply karna:** normal me 21 working days lagte hain — flight se aik hafta pehle apply karna aur phir urgent ki zyada fee dena bewakoofi hai. Pehle se plan karein.
+6. **Aakhri waqt me apply karna:** normal me 21 working days lagte hain — flight se aik hafta pehle apply karna aur phir urgent ki zyada fee deni par jati hai — ye ghalti aap ko mehngi par sakti hai. Pehle se plan karein.
 7. **Fee ki raseed gum karna:** adaigi ki raseed ya reference number mehfooz rakhein — yehi aap ka saboot hai.
+
+## Official Sources: Khud Bhi Tasdeeq Kar Lein
+
+Fees aur rules ki sab se bharose-wali jagah hamesha official websites hain. Is guide ki maloomat inhi sources se li aur verify ki gayi hai:
+
+- **DGIP (passport department):** [dgip.gov.pk](https://dgip.gov.pk/) — fee chart, office locations aur announcements
+- **Online passport portal:** [onlinemrp.dgip.gov.pk](https://onlinemrp.dgip.gov.pk/) — online apply aur renewal
+- **NADRA:** [nadra.gov.pk](https://www.nadra.gov.pk/) — CNIC aur B-Form ki maloomat
+- **Pak-ID:** [id.nadra.gov.pk](https://id.nadra.gov.pk/) — online CNIC services aur fingerprint verification
+- **DGIP helpline:** 051-111-344-777
 
 ## Aksar Poche Jane Wale Sawal
 
@@ -161,4 +177,8 @@ DGIP ke online portal se mukammal online renewal ho sakti hai — fingerprints P
 
 ---
 
-**Akhri note:** Ye guide 19 October 2026 ko DGIP ki official website ([dgip.gov.pk](https://dgip.gov.pk/)) aur DGIP ke published fee chart ki bunyad par tayyar ki gayi hai. Fees, timings aur rules waqt ke saath tabdeel ho sakte hain — apply karne se pehle hamesha official website ya helpline (051-111-344-777) se tasdeeq kar lein.
+**Akhri note:** Ye guide 21 October 2026 ko DGIP ki official website ([dgip.gov.pk](https://dgip.gov.pk/)) aur DGIP ke published fee chart ki bunyad par tayyar ki gayi hai. Fees, timings aur rules waqt ke saath tabdeel ho sakte hain — apply karne se pehle hamesha official website ya helpline (051-111-344-777) se tasdeeq kar lein.
+
+**How to apply for a passport in Pakistan?**
+
+You can apply at your nearest passport office or start online at onlinemrp.dgip.gov.pk. Pehle apni category ke mutabiq fee ada karein, phir asal CNIC (ya 18 saal se kam ke liye B-Form) aur baqi kagzaat ke saath office jayein — mukammal step-by-step tareeqa, fees aur documents ki list upar is guide me di gayi hai.

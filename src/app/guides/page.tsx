@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { CATEGORIES, getAllGuides } from "@/lib/guides";
+import { CATEGORIES, categoryAnchor, getAllGuides } from "@/lib/guides";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -29,7 +29,7 @@ export default function GuidesPage() {
       {byCategory.map(
         (c) =>
           c.guides.length > 0 && (
-            <section key={c.name} className="mt-10">
+            <section key={c.name} id={categoryAnchor(c.name)} className="mt-10 scroll-mt-24">
               <h2 className="text-xl font-extrabold text-green-800">{c.name}</h2>
               <div className="mt-4 grid md:grid-cols-2 gap-4">
                 {c.guides.map((g) => (

@@ -16,6 +16,7 @@ export async function generateMetadata({
   const guide = getGuide(slug);
   if (!guide) return {};
   const url = `${SITE_URL}/guides/${guide.slug}`;
+  const heroAlt = `${guide.title} — KaamGuide ki mukammal guide: fees, zaroori kagzaat aur step-by-step process`;
   return {
     title: guide.title,
     description: guide.description,
@@ -28,7 +29,7 @@ export async function generateMetadata({
       type: "article",
       publishedTime: guide.date,
       modifiedTime: guide.date,
-      images: [{ url: `/images/${guide.slug}.jpg`, width: 1200, height: 675, alt: guide.title }],
+      images: [{ url: `/images/${guide.slug}.jpg`, width: 1200, height: 675, alt: heroAlt }],
     },
     twitter: {
       card: "summary_large_image",
@@ -130,20 +131,34 @@ export default async function GuidePage({
         <p className="mt-3 text-zinc-600 leading-relaxed">{guide.description}</p>
         <p className="mt-3 text-sm text-zinc-500">
           Akhri update:{" "}
-          {new Date(guide.date + "T00:00:00").toLocaleDateString("ur-PK", {
+          {new Date(guide.date + "T00:00:00").toLocaleDateString("en-GB", {
             day: "numeric",
             month: "long",
             year: "numeric",
           })}{" "}
-          · {guide.readingMinutes} min padhai · KaamGuide
+          · {guide.readingMinutes} min padhai · Tehreer o tehqeeq: KaamGuide Team
         </p>
         <img
           src={`/images/${guide.slug}.jpg`}
-          alt={guide.title}
+          alt={`${guide.title} — KaamGuide ki mukammal guide: fees, zaroori kagzaat aur step-by-step process`}
           className="mt-6 w-full rounded-2xl border border-zinc-200"
           width={1200}
           height={675}
         />
+        {guide.headings.length >= 3 && (
+          <nav className="mt-8 rounded-2xl border border-zinc-200 bg-zinc-50 p-5">
+            <p className="font-bold text-zinc-900">Is Guide Me Kya Hai</p>
+            <ul className="mt-2 space-y-1 text-sm">
+              {guide.headings.map((h) => (
+                <li key={h.id}>
+                  <a href={`#${h.id}`} className="text-green-800 hover:underline">
+                    {h.text}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )}
         <div
           className="prose-article mt-4"
           dangerouslySetInnerHTML={{ __html: guide.contentHtml }}

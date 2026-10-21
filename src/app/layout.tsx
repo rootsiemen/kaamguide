@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     images: ["/og-image.jpg"],
-    title: "KaamGuide — Sarkari Kaam Asaan Urdu Me",
+    title: "KaamGuide — Sarkari Kaam Asaan Roman Urdu Me",
     description:
       "Passport, CNIC, license, bill aur tax — har sarkari kaam ki mukammal guide, official fees ke saath.",
   },
@@ -63,6 +63,8 @@ function Header() {
   const links = [
     { href: "/guides", label: "Sari Guides" },
     { href: "/guides/pakistan-passport-banane-ka-tareeqa", label: "Passport" },
+    { href: "/guides/nadra-cnic-banane-ka-tareeqa", label: "CNIC" },
+    { href: "/guides/driving-license-banane-ka-tareeqa", label: "License" },
     { href: "/about", label: "Hamare Baare Me" },
     { href: "/contact", label: "Rabta" },
   ];
