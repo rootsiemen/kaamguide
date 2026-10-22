@@ -179,3 +179,9 @@ Agar aap **Canada/USA immigration (WES, IQAS, CES)** ke liye ja rahe hain to att
 - Application ke waqt **sealed envelope ka option** select karein.
 - Envelope **khud na kholain** — khula envelope ECA idarah reject kar deta hai.
 - Courier se seedha mutaliqa idare ko bhejne ka intizam karein.
+
+## HEC Aur Attestation Ki Mazeed Guides
+
+- [IBCC Attestation Ka Tareeqa](/guides/ibcc-attestation-ka-tareeqa) — Matric aur Inter certificates ki attestation, fee Rs 1,200
+- [HEC Equivalence Certificate](/guides/hec-equivalence-certificate) — bahir ki degree Pakistan me chalani ho to, fee Rs 5,000
+- [HEC Degree Verification Online](/guides/hec-degree-verification-online) — attested degree ki asliyat QR code aur portal se check karna
