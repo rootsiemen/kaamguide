@@ -129,6 +129,9 @@ The HEC attestation process in Pakistan is fully online: create an account on es
 **How long does HEC Pakistan attestation take?**
 Most applications complete in about 2 to 4 weeks. University verification takes the longest — if your university responds quickly, the whole HEC Pakistan attestation finishes sooner. Start at least 6-8 weeks before any visa or admission deadline.
 
+**What documents are needed for HEC degree attestation?**
+For HEC degree attestation you need the original degree and transcript/DMC you want attested, your CNIC, and clear scanned copies of all of them for upload on eservices.hec.gov.pk. Your name and details must match exactly across your CNIC, Matric certificate and degree — a spelling mismatch is the most common reason an HEC degree attestation application is returned.
+
 ## HEC Ke Baad Ka Silsila: MOFA Aur Embassy Attestation
 
 Bahir mulk ke liye aksar sirf HEC kaafi nahi hoti — poora silsila ye hai:
