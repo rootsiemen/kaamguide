@@ -16,6 +16,8 @@ Police character certificate (police clearance certificate) aap ke **saaf record
 
 Punjab me ye kaam ab bohat asaan hai — **Police Khidmat Markaz (PKM)** se online ya counter par ho jata hai, aur certificate me **QR code** hota hai jis se duniya me kahi bhi verify ho sakta hai.
 
+**Foreign job ya study ke liye ja rahe hain to** character certificate ke sath degree ki tasdeeq bhi mangi jati hai — [HEC attestation process guide](/guides/hec-degree-attestation) me step-by-step tareeqa maujood hai.
+
 > **Note:** Is guide ki fees Police Khidmat Markaz ke published rates se li gayi hain aur **October 2026 me check ki gayi thin**. Doosre soobon ke rates mukhtalif hain — apply se pehle pkm.punjab.gov.pk ya apne soobe ke police portal par maujooda fee zaroor confirm kar lein.
 
 ## Punjab Me Fee Aur Waqt (Official)

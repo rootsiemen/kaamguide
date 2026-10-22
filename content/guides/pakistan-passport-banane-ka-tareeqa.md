@@ -15,6 +15,8 @@ Pakistan me passport banwane se pehle aksar log seedha office chale jate hain au
 
 Ye teenon faislay fee par asar dalte hain, is liye fee table parhne se pehle in ka faisla kar lein.
 
+**Agar bahir parhai ya nokri ke liye ja rahe hain:** Passport ke sath aksar degree ki attestation bhi lazmi hoti hai — [HEC Degree Attestation guide](/guides/hec-degree-attestation) me poora online process aur fee di hui hai.
+
 ## Zaroori Kagzaat: Kaunsi Category Me Kya Chahiye
 
 Kagzaat na-mukammal hona sab se aam wajah hai jis ki bina par logon ka aik din zaya ho jata hai. Apni category ke mutabiq ye kagzaat tayyar kar lein:

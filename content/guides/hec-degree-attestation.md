@@ -17,6 +17,18 @@ Sab se bari tabdeeli: HEC ne **fully online, paperless Degree Attestation System
 
 > **Note:** Is guide ki fee HEC ke naye online system ke rates se li gayi hai aur **October 2026 me check ki gayi thi**. Portal par fee system **khud-ba-khud calculate** karta hai — payment se pehle portal ke displayed amount ko hi final samjhein.
 
+## HEC Attestation Process in Pakistan — Quick English Summary
+
+If you searched for the **HEC attestation process** or **HEC Pakistan attestation**, here is the short version:
+
+1. Create an account on **eservices.hec.gov.pk** and complete your academic profile (Matric to your last degree).
+2. Upload clear scans of the degree and transcript you want attested, and select only those documents — the fee is calculated automatically.
+3. Pay the fee online via 1-Link (1-Bill): **Rs 3,000 per document** — a degree plus transcript costs Rs 6,000 in total.
+4. HEC sends your documents to your university for **electronic verification** — this is usually the slowest step.
+5. After verification and scrutiny, download your **e-attestation certificate** from the portal. No office visit is needed.
+
+The full step-by-step process in Roman Urdu is given in the sections below.
+
 ## Fee (Naya Online System)
 
 | Document | Fee |
@@ -110,6 +122,12 @@ Online system me aap **khud apne account** se apply karte hain — CNIC ki maloo
 
 **Attested document ki verification baad me kaise hoti hai?**
 E-attestation certificate **QR/portal par verifiable** hai — employer ya embassy online tasdeeq kar sakte hain.
+
+**What is the HEC attestation process in Pakistan?**
+The HEC attestation process in Pakistan is fully online: create an account on eservices.hec.gov.pk, complete your academic profile, upload your degree and transcript, pay Rs 3,000 per document via 1-Link (1-Bill), wait for your university's electronic verification, and download the e-attestation certificate from the portal — no office visit is needed.
+
+**How long does HEC Pakistan attestation take?**
+Most applications complete in about 2 to 4 weeks. University verification takes the longest — if your university responds quickly, the whole HEC Pakistan attestation finishes sooner. Start at least 6-8 weeks before any visa or admission deadline.
 
 ## HEC Ke Baad Ka Silsila: MOFA Aur Embassy Attestation
 
