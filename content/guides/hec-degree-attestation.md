@@ -185,3 +185,6 @@ Agar aap **Canada/USA immigration (WES, IQAS, CES)** ke liye ja rahe hain to att
 - [IBCC Attestation Ka Tareeqa](/guides/ibcc-attestation-ka-tareeqa) — Matric aur Inter certificates ki attestation, fee Rs 1,200
 - [HEC Equivalence Certificate](/guides/hec-equivalence-certificate) — bahir ki degree Pakistan me chalani ho to, fee Rs 5,000
 - [HEC Degree Verification Online](/guides/hec-degree-verification-online) — attested degree ki asliyat QR code aur portal se check karna
+- [HEC Sealed Envelope WES Ke Liye](/guides/hec-sealed-envelope-wes) — Canada/USA ECA ke liye attested copies ka sealed envelope
+- [HEC Recognized Universities Check](/guides/hec-recognized-universities-check) — admission se pehle university aur campus ki HEC recognition check karna
+- [HEC LAT Test Guide](/guides/hec-lat-test-guide) — LLB admission ke liye lazmi Law Admission Test: registration, fee aur paper pattern
