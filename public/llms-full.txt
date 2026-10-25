@@ -1,0 +1,709 @@
+# KaamGuide — Mukammal Guide Index (llms-full.txt)
+
+> KaamGuide (https://igaf.me) Pakistan ke sarkari kaamon ki step-by-step guides asaan Roman Urdu me deta hai. Ye file tamam guides ki mukammal fehrist, un ka khulasa aur har guide ke aksar poche jane wale sawal aik jagah faraham karti hai, takay AI assistants aur search engines KaamGuide ke content ko behtar samajh saken. Fees aur process official sarkari sources se verify kiye jate hain. KaamGuide ek private guidance website hai, sarkari website nahi.
+
+## Guide Use Karne Ka Tareeqa
+
+1. Apna kaam neeche di gayi fehrist ya https://igaf.me/guides par talash karein.
+2. Guide me di gayi kagzaat ki list ke hisab se apne documents tayyar karein.
+3. Steps ko tartib se follow karein — online apply ho ya office visit, fees aur timing guide me di gayi hai.
+4. Receipt aur tracking number sambhal kar rakhein, takay status asani se check ho sake.
+
+## Tamam Guides — Mukammal Tafseel
+
+### B-Form (CRC) Banane Ka Tareeqa (2026): Fee, Kagzaat Aur Online Apply
+URL: https://igaf.me/guides/b-form-banane-ka-tareeqa
+Category: NADRA / CNIC
+Khulasa: Bache ka B-Form (Child Registration Certificate / CRC) banwane ka mukammal tareeqa — 2026 ki official fee (Rs 50 normal, Rs 500 executive), zaroori kagzaat, Pak ID app se online apply, Union Council registration aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya B-Form ghar bethe ban sakta hai?
+  Jawab: 1 saal se chote bache ke liye ji haan — Pak ID app se. Bare bachon ke liye center jana parta hai.
+- Sawal: B-Form ki fee kitni hai?
+  Jawab: Rs 50 normal (7 din), Rs 500 executive (1 din).
+- Sawal: Kya B-Form ke baghair bache ka passport ban sakta hai?
+  Jawab: Nahi — bache ke passport ke liye B-Form lazmi hai.
+- Sawal: Bache ki umar 18 saal ho gayi, ab kya karein?
+  Jawab: Ab B-Form nahi, **CNIC** banega — pehli dafa ka CNIC normal processing par muft hai.
+- Sawal: Judwaan bachon ke liye alag-alag B-Form banta hai?
+  Jawab: Ji haan — har bache ka alag CRC banta hai, har aik ki fee alag hogi.
+- Sawal: Overseas Pakistani bache ka B-Form kaise banwayen?
+  Jawab: Pak ID portal (id.nadra.gov.pk) se online apply karein — fees dollar me hongi aur document courier se bhejey jayenge.
+- Sawal: Kya B-Form ki bhi expiry hoti hai?
+  Jawab: B-Form ki koi expiry nahi hoti, lekin bache ki maloomat (naam, date of birth) durust hona zaroori hai. 18 saal ki umar me CNIC banwate waqt B-Form ka record istemal hota hai, is liye us se pehle correction karwa lein.
+
+### Bijli Ka Bill Online Check Karne Ka Tareeqa (2026): IESCO, LESCO, FESCO, K-Electric
+URL: https://igaf.me/guides/bijli-ka-bill-online-check
+Category: Bills
+Khulasa: Apne bijli ka bill online bilkul muft check aur download karne ka mukammal tareeqa — IESCO, LESCO, FESCO, MEPCO, PESCO aur K-Electric ke liye reference number se duplicate bill, bill ki tafseel aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya online bill check karna muft hai?
+  Jawab: Ji haan — bilkul muft. Koi website paise mange to wo nakli hai.
+- Sawal: Reference number ghum gaya, kya karun?
+  Jawab: Koi bhi purana bill dhoondein — us par likha hota hai. Na mile to company ke office ja kar CNIC dikha kar reference number maloom kar sakte hain.
+- Sawal: Duplicate bill se bank me ada ho sakta hai?
+  Jawab: Ji haan — online download kiya gaya bill hi duplicate bill hai, bank aur post office me qabool hota hai.
+- Sawal: Kya kirayedaar apne naam ka bill check kar sakta hai?
+  Jawab: Bill malik-e-makan ke naam par hota hai, lekin **reference number se koi bhi** bill check aur ada kar sakta hai.
+- Sawal: Bill me "Units" ghalat lagte hon to?
+  Jawab: Meter ki asal reading se mila lein — farq ho to SDO office ya NEPRA portal par complaint karein.
+- Sawal: Do mahine ka bill aik saath kyun aa gaya?
+  Jawab: Kabhi meter reading late ho to do mahino ka jama bill aata hai — bill par "billing month" ghor se dekhein, shak ho to complaint karein.
+
+### Pakistan Me Bijli Ka Naya Connection Lagwane Ka Tareeqa (2026): ENC Portal Se Meter
+URL: https://igaf.me/guides/bijli-naya-connection-meter-lagwana
+Category: Bills
+Khulasa: Ghar ya dukaan ke liye naya bijli ka meter lagwane ka mukammal tareeqa — ENC online portal, zaroori kagzaat, demand notice, tracking aur aam ghaltiyan.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Naya bijli connection lene ke liye kahan apply karein?
+  Jawab: Pakistan me naye connection ke liye markazi online portal ENC hai (enc.com.pk), jahan apni DISCO (jaise LESCO, IESCO, FESCO) chun kar apply kiya jata hai. IESCO aur FESCO ke apne alag ENC address hain. Is ke ilawa apne ilaqe ke sub-division office ja kar bhi apply kiya ja sakta hai.
+- Sawal: Naye connection ki fee kitni hai?
+  Jawab: Iski koi aik fixed rakam nahi hai. Apki darkhwast aur jaga ke survey ke baad company aik demand notice jari karti hai jis me hatmi rakam likhi hoti hai — wahi rakam ada karni hoti hai. Demand notice se pehle internet par batayi gayi koi bhi rakam sirf andaza hai, us par bharosa na karein.
+- Sawal: Kirayedar apne naam par connection le sakta hai?
+  Jawab: Ji haan, lekin is ke liye malik makan ka NOC lazmi hai. Baghair NOC ke kirayedar ke naam connection nahi lagta. NOC ke saath kiraye ka agreement bhi lagana behtar hota hai.
+- Sawal: Darkhwast ka status kaise check karein?
+  Jawab: ENC portal par apni tracking ID ya CNIC number dal kar status check kiya ja sakta hai. LESCO ke ilaqe me helpline 111-000-118 par bhi maloomat li ja sakti hai.
+- Sawal: Meter lagne me kitna waqt lagta hai?
+  Jawab: Ye connection ki qisam aur load par munhasir hai. Chota domestic connection aam taur par kuch hafton me lag jata hai, jabke bara ya industrial connection me zyada waqt lag sakta hai. Demand notice ki rakam waqt par jama karwana sab se ahem hai, warna darkhwast khatam ho sakti hai. *Note: Is guide ka tareeqa aur portal ki maloomat ENC ke official portal (enc.com.pk) se li gayi hai, jo 25 October 2026 ko live check kiya gaya tha, aur LESCO ki official website (lesco.gov.pk) se. Connection ki hatmi fee hamesha apke demand notice par darj hoti hai — apply karne se pehle apne ilaqe ke sub-division office ya helpline 111-000-118 (LESCO) se tasdeeq kar lein.*
+
+### Birth Certificate Banane Ka Tareeqa (2026): Union Council Se Computerized Certificate
+URL: https://igaf.me/guides/birth-certificate-banane-ka-tareeqa
+Category: Certificates
+Khulasa: Bache ka birth certificate (paidaish certificate) banwane ka mukammal tareeqa — Union Council me indraj, fee, zaroori kagzaat, online apply jahan mojood hai, correction aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya birth certificate online ban sakta hai?
+  Jawab: Punjab me e-Khidmat/Dastak se khidmat milti hai kuch ilaaqon me — lekin bunyadi indraj UC me hi hota hai.
+- Sawal: Ghar me pedaish hui, hospital slip nahi — kya hoga?
+  Jawab: UC office se rabta karein — dai ki tasdeeq ya affidavit se indraj ho sakta hai.
+- Sawal: Kya birth certificate ke liye dono walidain ka jana zaroori hai?
+  Jawab: Nahi — aik walid CNIC ke saath ja kar bhi indraj karwa sakta hai.
+- Sawal: Certificate gum ho gaya to?
+  Jawab: UC se **duplicate** nikalwa lein — purana record un ke register me hota hai, mamooli fee lagti hai.
+- Sawal: Kya birth certificate se B-Form ban jayega?
+  Jawab: Ji haan — B-Form ke liye UC ka birth certificate hi bunyadi document hai.
+
+### Pakistan Me BISP 8171 Registration Check (2026): Ehliyaat, Naya Registration Aur Qist Ka Poora Tareeqa
+URL: https://igaf.me/guides/bisp-8171-registration-check
+Category: Certificates
+Khulasa: BISP 8171 check 2026 — apne CNIC se ehliyaat kaise check karein (SMS 8171 aur official portal), naya registration tehsil office se, Benazir Kafaalat ki sah-maahi qist, zaroori kagzaat, PMT score ki shartein aur fraud se bachne ke tareeqe.
+Aksar Poche Jane Wale Sawal:
+- Sawal: BISP 8171 ki ehliyaat SMS se kaise check karun?
+  Jawab: Apna 13 hindsyon wala CNIC number (baghair dashes ke) **8171** par SMS karein. Kuch seconds me reply aayega jis me aap ki ehliyaat ki surat-haal hogi. Ye service muft hai aur har mobile network par chalti hai. Online check ke liye **8171.bisp.gov.pk** par CNIC aur captcha darj karein.
+- Sawal: Kya BISP me online registration ho sakti hai?
+  Jawab: Nahi. BISP ki official policy ke mutabiq **naya registration sirf BISP Tehsil Office** me hota hai — wahan NSER Dynamic Survey mukammal hota hai aur biometric verification hoti hai. Online sirf **ehliyaat check** hoti hai (8171.bisp.gov.pk). "Online registration form" wali websites se bachein.
+- Sawal: 2026 me BISP ki qist kitni hai?
+  Jawab: Benazir Kafaalat ki sah-maahi qist **Rs 14,500** hai — March 2026 se Rs 13,500 se barhai gayi (BISP ki published updates ke mutabiq, October 2026 me check ki gayi). Final amount hamesha official payment slip par hota hai; confirm karne ke liye helpline **0800-26477** par call karein.
+- Sawal: PMT score kitna hona chahiye?
+  Jawab: Aam gharane ke liye PMT score **32 ya is se kam**, aur jis gharane me koi mazoor (disabled) fard ho us ke liye **37 ya is se kam** hona chahiye. Score NSER survey ke data se banta hai.
+- Sawal: Meri qist kyun ruk gayi hai?
+  Jawab: Sab se aam wajuhat: expired CNIC, 3 saal se purana NSER survey, ghar ke kisi fard ka sarkari mulazim hona, ya NADRA record me mismatch. Apne asal kagzaat lekar qareebi **BISP Tehsil Office** jayen aur survey/data update karwayen — masla hal hote hi payment bahal ho jati hai.
+
+### Pakistan Me Death Certificate Banane Ka Tareeqa (2026): Union Council Se Computerized Certificate
+URL: https://igaf.me/guides/death-certificate-banane-ka-tareeqa
+Category: Certificates
+Khulasa: Pakistan me death certificate banane ka mukammal tareeqa — 2026 ki official fees (Punjab aur Sindh me muft), Union Council se computerized certificate ke liye zaroori kagzaat, step-by-step apply ka tareeqa, lagne wala waqt, aam ghaltiyan aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Death certificate banane me kitni fee lagti hai?
+  Jawab: Punjab aur Sindh me 2026 me death registration aur computerized death certificate **bilkul muft** hai — Punjab Birth and Death Registration Rules 2025 aur Sindh cabinet ke faisle ke tehat koi fee nahi li jati. Khyber Pakhtunkhwa aur Balochistan me fee ka maujooda schedule apni Union Council se confirm karein.
+- Sawal: Kya death certificate online ban sakta hai?
+  Jawab: Mukammal online nahi — entry NADRA ke CRMS me Union Council ke zariye hoti hai. Punjab me e-Khidmat Markaz filing aur tracking me madad karta hai, aur Pak ID app par bhi kuch sahoolat mojood hai, lekin biometric tasdeeq aur kagzaat ki asli checking ke liye UC ya markaz ka aik chakkar aam tor par lagana parta hai.
+- Sawal: Agar inteqal ko kayi saal guzar gaye hon to kya certificate ban sakta hai?
+  Jawab: Ji haan. Punjab me 7 saal tak purani death registration ab **baghair court decree** ke ho jati hai — sirf Assistant Director Local Government ki manzoori darkar hoti hai. 7 saal se zyada purane case me ab bhi court decree lena lazmi hai.
+- Sawal: Death certificate ke liye kaun apply kar sakta hai?
+  Jawab: Sirf marhoom ka qareebi rishtedar — beta/beti, shohar/biwi, bhai/behen ya walidain. Apply karne wale ka apna CNIC aur marhoom se rishte ka saboot (FRC, nikah nama waghera) darkar hota hai, aur biometric tasdeeq ke liye us ka khud hazir hona lazmi hai.
+- Sawal: Certificate me naam ya tareekh ghalat likhi gayi ho to kya karein?
+  Jawab: Foran usi Union Council se rabta karein jahan se certificate jari hua hai. Ghalti ki nishandahi par correction ki application di jati hai aur record CRMS me durust kar ke naya certificate jari hota hai. Is liye certificate wasool karte waqt tamam details foran check kar lena behtar hai. --- *Is guide ki maloomat Punjab Local Government Department ke **Punjab Birth and Death Registration Rules 2025** (Punjab Gazette notification), Sindh cabinet ke fee-khatam karne ke faisle, aur NADRA ki civil registration ki hidayat se li gayi hain — **October 2026 me check ki gayi thin**. Fees aur rules tabdeel ho sakte hain; apply se pehle apni Union Council ya NADRA helpline **1777** par tasdeeq zaroor kar lein.*
+
+### Domicile Certificate Banane Ka Tareeqa (2026): Fee, Kagzaat Aur e-Khidmat Se Apply
+URL: https://igaf.me/guides/domicile-certificate-banane-ka-tareeqa
+Category: Domicile
+Khulasa: Domicile certificate banwane ka mukammal tareeqa — Punjab me e-Khidmat se fee Rs 200, zaroori kagzaat, 16 working days me delivery, duplicate aur correction ka tareeqa, PRC kya hai aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya larki shadi ke baad shohar ke zila ka domicile bana sakti hai?
+  Jawab: Ji haan — shadi-shuda khawateen shohar ke permanent zila se domicile banwa sakti hain; nikah-nama aur shohar ka CNIC lagega.
+- Sawal: Kya NADRA domicile banata hai?
+  Jawab: Nahi — domicile **zila intezamia (Assistant Commissioner)** jari karta hai, NADRA ka is se taluq nahi.
+- Sawal: Domicile ki expiry hoti hai?
+  Jawab: Aam tor par domicile zindagi bhar valid hota hai — jab tak aap mustaqil sukkunat na badal lein.
+- Sawal: Talib-ilm ka domicile kis zila se bane ga?
+  Jawab: Walid ke permanent zila se — yahi zila admission quota tay karega, is liye pehle walid se confirm karein.
+- Sawal: Kitne din me mil jata hai?
+  Jawab: Punjab me official waqt **16 working days** hai, bashart kagzaat par koi objection na lage.
+
+### Driving License Banane Ka Tareeqa (2026): Learner Se Permanent Tak, Fees Aur Test
+URL: https://igaf.me/guides/driving-license-banane-ka-tareeqa
+Category: Driving License
+Khulasa: Punjab me driving license banwane ka mukammal tareeqa — online learner license (Rs 500), 42 din ka wait, sign aur driving test, permanent license ki 2026 official fees, zaroori kagzaat, e-license download aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya learner license ke baghair gaari chala sakta hun?
+  Jawab: Nahi — kam-az-kam learner license lazmi hai, warna challan hoga.
+- Sawal: Test me fail ho jaun to kitne din baad dobara de sakta hun?
+  Jawab: Aam tor par kuch din ke waqfe ke baad dobara test diya ja sakta hai — center se tareekh le lein. Test fee dobara deni hogi.
+- Sawal: Kya doosre soobe ka license Punjab me valid hai?
+  Jawab: Ji haan — Pakistan ke kisi bhi soobe ka valid license poore mulk me chalta hai.
+- Sawal: International driving license kaise banta hai?
+  Jawab: Valid Pakistani license ke baad international permit ke liye apply kar sakte hain — process DLIMS par mojood hai.
+- Sawal: Kya 18 saal se kam umar me license ban sakta hai?
+  Jawab: Nahi — driving license ke liye 18 saal ki umar lazmi hai.
+- Sawal: License gum ho jaye to?
+  Jawab: DLIMS se **duplicate** ke liye apply karein — motorcycle ke liye Rs 100, car ke liye Rs 150 fee hai. Gumshudgi ki FIR bhi katwa lein.
+
+### Pakistan Me Duplicate Matric/Inter Certificate Ka Tareeqa (2026): Board Se Dobara Sanad
+URL: https://igaf.me/guides/duplicate-matric-inter-certificate
+Category: Certificates
+Khulasa: Gumshuda matric ya inter ki sanad dobara nikalwane ka mukammal tareeqa — BISE boards ki official fee, affidavit, challan aur online apply ka process.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya duplicate sanad asal sanad jitni hi qabil-e-qabool hoti hai?
+  Jawab: Ji han, bilkul. Duplicate sanad par "Duplicate" ki mohar zaroor hoti hai lekin iski qanooni hesiyat asal jesi hi hai. Naukri, admission, visa aur IBCC attestation — har jaga ye qabool hoti hai.
+- Sawal: Kya me kisi aur ke liye duplicate sanad nikalwa sakta hon?
+  Jawab: Aam taur par nahi. Boards ka usool hai ke darkhwast guzar khud aaye ya uska qareebi rishtedar (walid, walda, bhai, behan) apna CNIC dikha kar wasool kare. Misal ke tor par FBISE ke official form me ye shart wazeh likhi hai.
+- Sawal: Agar mera roll number yaad nahi to kya hoga?
+  Jawab: Koi pareshani ki baat nahi. Apne school ya college ke record se roll number aur passing year maloom kiya ja sakta hai. Board ki website par naam se record talash karne ki sahulat bhi aksar hoti hai. Purane result card ya sanad ki koi bhi copy ho to kaam bohat asaan ho jata hai.
+- Sawal: Kya duplicate sanad par IBCC se attestation ho sakti hai?
+  Jawab: Ji han, ho sakti hai. Pehle board se duplicate sanad nikalwayein, phir IBCC ke standard tareeqay se attestation karwayein. Board ki tasdeeq ke baad IBCC duplicate sanad ko attest kar deta hai.
+- Sawal: Meri sanad bohat purani hai, kya uski duplicate bhi mil jaye gi?
+  Jawab: Ji han, board ka record mehfooz rehta hai aur purani sanad ki duplicate bhi nikalwai ja sakti hai. Bas itna zehen me rakhein ke jitna purana record hoga, talash me utna hi zyada waqt lag sakta hai, is liye jald apply karein. Ye guide BISE Lahore (biselahore.com), BISE Rawalpindi (biserawalpindi.edu.pk) aur Federal Board Islamabad (FBISE) ke official forms aur fee schedules ki bunyad par 23 October 2026 ko tayyar ki gayi hai. BISE Peshawar, BISE Multan aur Karachi boards ki taaza fee official source se verify na ho saki, is liye apply karne se pehle apne board ki website ya helpline se maujooda fee zaroor confirm karein.
+
+### Pakistan Me Fard-e-Malkiat Aur Property Transfer Ka Tareeqa (2026): PLRA Arazi Center
+URL: https://igaf.me/guides/fard-malkiat-property-transfer-ka-tareeqa
+Category: Certificates
+Khulasa: Fard-e-malkiat nikalwane aur property transfer (mutation) ka mukammal tareeqa — PLRA Arazi Record Center, Green Property Certificate, FY 2026-27 fees aur online fard.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Fard-e-malkiat kahan se milti hai?
+  Jawab: Punjab me fard us zila ke Arazi Record Center (ARC) se milti hai jis zila me zameen waqeh hai. PLRA ke portal punjab-zameen.gov.pk se bhi maloomat dekhi ja sakti hai, lekin registry ke liye ARC se jari shuda mohar wali fard chahiye hoti hai.
+- Sawal: Fard ki fee kitni hai?
+  Jawab: PLRA ki FY 2026-27 schedule ke mutabiq fard, mutation ya girdawari ki standard copy ki fee Rs 900 hai aur express copy ki fee Rs 4,000 hai. Naqal Arazi Record ki fee Rs 5,000 hai aur Green Property Certificate ki fee Rs 800 hai. Fee ARC counter par confirm kar lein, kyunke schedule revise ho sakta hai.
+- Sawal: Fard baraye bay aur aam fard me kya farq hai?
+  Jawab: Aam fard sirf malkiyat ka record hoti hai, jabke fard baraye bay sale ke liye hoti hai aur is me khareedne wale ka CNIC darj hota hai. Registry sirf usi buyer ke naam ho sakti hai jis ka CNIC fard par hai.
+- Sawal: Green Property Certificate kya hai?
+  Jawab: Ye Punjab ka naya property certificate hai jo July 2026 se aksar azla me sale/purchase ke liye riwayati fard ki jagah lazmi kar diya gaya hai. Is me field survey, GPS paimaish aur padosi malkan ki tasdeeq bhi shamil hoti hai. Chand azla abhi is se mustasna hain.
+- Sawal: Property transfer (mutation) kitne din me hota hai?
+  Jawab: Regular mutation aam taur par kuch working days me ho jata hai, jabke express mutation usi din ya chand ghanton me ho sakta hai. Green Property Certificate ka amal lamba hai kyunke is me 15 din ka public notice bhi shamil hai. Transfer ke baad naye malik ke naam ki fard nikalwa kar tasdeeq zaroor karein. *Note: Is guide ki fee ki maloomat Punjab Land Records Authority (PLRA) ki FY 2026-27 service schedule se li gayi hai, jo July 2026 ke notification se nafiz hui (25 October 2026 ko check ki gayi). Fee aur tareeqa waqt ke saath tabdeel ho sakta hai, is liye apply karne se pehle apne zila ke Arazi Record Center ya PLRA helpline 042-99330111 se maujooda fee aur nizam zaroor confirm karein. Ye guide maloomat ke liye hai, qanooni mashwara nahi hai — bari property deal se pehle wakeel se mashwara karein.*
+
+### FBR Filer Banne Ka Tareeqa (2026): NTN Registration Aur Tax Return Step-by-Step
+URL: https://igaf.me/guides/fbr-filer-banne-ka-tareeqa
+Category: Tax / FBR
+Khulasa: Pakistan me FBR filer banne ka mukammal tareeqa — IRIS portal par muft NTN registration (CNIC hi NTN hai), tax return file karna, wealth statement, ATL check karna aur filer ke asal faide taadad ke saath.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya NTN registration ki koi fee hai?
+  Jawab: Nahi — bilkul muft hai. Fee mangne wali website ya agent se bachein.
+- Sawal: Main student hun, aamdani nahi hai — kya main filer ban sakta hun?
+  Jawab: Ji haan — nil return file karke aap ATL me aa sakte hain. Aamdani ki koi minimum hadd nahi.
+- Sawal: Filer banne me kitna waqt lagta hai?
+  Jawab: Registration 10-15 minute, return file karna 1-2 ghante (pehli dafa). ATL me naam 24-72 ghante me aa jata hai.
+- Sawal: Freelancer / online kamane walon ke liye?
+  Jawab: Aap bhi filer ban sakte hain — aamdani ka zariya "freelancing / services" darj karein. Bank se aane wali raqam ka record return se milna chahiye.
+- Sawal: Har saal return file karni hogi?
+  Jawab: Ji haan — filer rehne ke liye har saal ki return lazmi hai. Aik saal miss kiya to naam ATL se nikal jata hai aur dobara surcharge ke saath wapas aata hai.
+- Sawal: Kya main khud file kar sakta hun ya wakil lazmi hai?
+  Jawab: Seedhi salaried ya nil return **khud** file kar sakte hain. Karobari ya paycheeda hisab ho to tax consultant se mashwara behtar hai.
+
+### Pakistan Me Gaari Ka Token Tax Online Jama Karwane Ka Tareeqa (2026): e-Pay Punjab, Fees Aur PSID
+URL: https://igaf.me/guides/gaari-token-tax-online-jama-karwana
+Category: Gaari / Vehicle
+Khulasa: Punjab me gaari ka token tax online jama karne ka mukammal tareeqa — 2026-27 ki official fees (1000cc lifetime, 1001-2000cc par 0.3%), e-Pay Punjab se 17-digit PSID banana, ATM/mobile banking/JazzCash se payment, MTMIS par status check aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya token tax har saal dena lazmi hai?
+  Jawab: Ji haan — 1000cc se bari gaari ka token tax har financial year dena parta hai. Sirf 1000cc tak ki gaari ka Rs 20,000 lifetime token ek martaba de kar hamesha ke liye khatam ho jata hai. Tax na dene par record me dues jama hote rehte hain aur gaari transfer nahi hoti.
+- Sawal: PSID kya hai aur ye kitne din valid rehti hai?
+  Jawab: PSID (Payment Slip ID) 17 digits ka unique number hai jo e-Pay Punjab aap ki gaari aur raqam ke liye banata hai. Is ki expiry hoti hai, is liye PSID banane ke baad jald payment kar dein. Expire ho jaye to nayi PSID bana lein — koi extra fee nahi lagti.
+- Sawal: Kya me kisi aur ki gaari ka token tax jama karwa sakta hun?
+  Jawab: Ji haan — sirf gaari ka registration number chahiye hota hai. Lekin number likhte waqt intehai ehtiyat karein; ghalat number par jama raqam wapas lena mushkil hai.
+- Sawal: Token tax ki receipt kahan se milegi?
+  Jawab: Payment ke baad e-Pay app ya bank ki taraf se digital receipt milti hai — is ka screenshot ya print sambhal kar rakhein. Alag se Excise office ja kar sticker ya raseed lene ki zaroorat nahi; MTMIS portal par record khud update ho jata hai.
+- Sawal: Gaari khareed raha hun — token tax paid hai ya nahi, kaise check karun?
+  Jawab: mtmis.excise.punjab.gov.pk par gaari ka registration number likh kar check karein — wahan token tax kis saal tak paid hai, sab nazar aajayega. Ye check bilkul muft hai. Paison ka len-den se pehle ye step kabhi na chhorein. --- *Ye guide Punjab Excise & Taxation Department ke official Motor Vehicle Tax page (excise.punjab.gov.pk) aur Finance Bill 2026 ke published rates ki bunyad par tayyar ki gayi hai — 23 October 2026 ko check ki gayi. Rates aur process waqt ke saath tabdeel ho sakte hain; payment se pehle hamesha official website ya helpline 1035 se tasdeeq kar lein.*
+- Sawal: How to pay vehicle token tax online in Punjab, Pakistan?
+  Jawab: Use the e-Pay Punjab app (by PITB) or epay.punjab.gov.pk: select Excise & Taxation → Token Tax, enter your vehicle registration number, verify the dues, generate a 17-digit PSID challan, then pay via any 1Link bank ATM (GoPb), mobile/internet banking, bank branch, JazzCash/EasyPaisa or debit/credit card. For 2026-27, cars up to 1000cc pay a one-time Rs 20,000 lifetime token; 1001–2000cc pay 0.3% of invoice price yearly; above 2000cc pay 0.4% yearly. Verify your payment status free on MTMIS Punjab (mtmis.excise.punjab.gov.pk).
+
+### Gaari Transfer Karne Ka Tareeqa (2026): Excise Fees, Kagzaat Aur Poora Process
+URL: https://igaf.me/guides/gaari-transfer-karne-ka-tareeqa
+Category: Gaari / Vehicle
+Khulasa: Gaari ya bike apne naam transfer karwane ka mukammal tareeqa — Punjab Excise ki 2026 transfer fees, withholding tax (filer/non-filer), CVT, zaroori kagzaat, biometric aur step-by-step process.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya bechne wala mar gaya ho to transfer ho sakta hai?
+  Jawab: Ho sakta hai lekin process qanooni hai — death certificate, warisana (succession) kagzaat aur warison ki razamandi lagegi. Wakil se mashwara karein.
+- Sawal: Transfer me kitne din lagte hain?
+  Jawab: File jama karne ka kaam aik din ka hai — smart card/book milne me aam tor par 2-4 hafte lagte hain. MTMIS record jaldi update ho jata hai.
+- Sawal: Kya main khud transfer kar sakta hun ya agent lazmi hai?
+  Jawab: Khud kar sakte hain — agent lazmi nahi. Khud karne se hazaron ki bachat hoti hai.
+- Sawal: Bike ki transfer fee kitni hai?
+  Jawab: Sirf **Rs 150** — is ke ilawa WHT bike par aam tor par nahi lagta ya mamooli hota hai (system final raqam batayega).
+- Sawal: Khareed kar saal ho gaya, transfer nahi kiya — ab kya hoga?
+  Jawab: Ab bhi transfer ho jata hai lekin late fee/token baqaya aap ko dena parega. Mazeed der na karein.
+
+### Gaari Ki Online Verification Ka Tareeqa (2026): MTMIS Punjab, SMS Aur Soobon Ke Codes
+URL: https://igaf.me/guides/gaari-verification-mtmis
+Category: Gaari / Vehicle
+Khulasa: Kisi bhi gaari ya bike ki malkiat online bilkul muft verify karne ka mukammal tareeqa — MTMIS Punjab portal (mtmis.excise.punjab.gov.pk), SMS codes 8785/8147/9818/8521, second-hand gaari khareedne se pehle ki mukammal checklist.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya gaari verification muft hai?
+  Jawab: Ji haan — online portal aur SMS (aam SMS charge ke ilawa) bilkul muft hai.
+- Sawal: Kya CNIC se gaari check ho sakti hai?
+  Jawab: Online portal par aam tor par **registration number** chahiye hota hai. CNIC se tafseeli check Excise office se hota hai.
+- Sawal: Kya MTMIS chori ki gaari bata deta hai?
+  Jawab: MTMIS Excise record deta hai — **police record ke liye** Police Khidmat Markaz ki vehicle verification karwayen.
+- Sawal: Number plate purani ho (computerized nahi) to?
+  Jawab: Purani series wali gaariyan bhi MTMIS me hoti hain — phir bhi record na mile to Excise office jayen.
+- Sawal: Kya me apni gaari ka token tax online ada kar sakta hun?
+  Jawab: Ji haan — Punjab me **ePay Punjab** app ya bank se token tax online ada ho sakta hai; MTMIS par status bhi nazar aata hai.
+- Sawal: Doosre soobe ki gaari Punjab me khareed sakte hain?
+  Jawab: Khareed sakte hain lekin transfer ke liye **NOC aur mutaliqa soobe ka process** lagega — pehle Excise office se poora tareeqa maloom kar lein.
+
+### Gas Ka Bill Online Check Karne Ka Tareeqa (2026): SNGPL Aur SSGC Duplicate Bill
+URL: https://igaf.me/guides/gas-ka-bill-online-check
+Category: Bills
+Khulasa: Apna gas ka bill online bilkul muft check aur download karne ka mukammal tareeqa — SNGPL (Punjab/KPK) aur SSGC (Sindh/Balochistan) ke liye consumer number se duplicate bill, bill ki tafseel samajhna aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya gas bill online check karna muft hai?
+  Jawab: Ji haan — bilkul muft. Paise mangne wali website nakli hai, official site hi istemal karein.
+- Sawal: Consumer number ghum gaya, kya karun?
+  Jawab: Koi purana bill dhoondein — us par hota hai. Na mile to CNIC le kar company ke office jayen, wahan se mil jayega.
+- Sawal: Duplicate bill se adaigi ho sakti hai?
+  Jawab: Ji haan — online download kiya bill har bank me qabool hota hai.
+- Sawal: Bill aya hi nahi is mahine, kya karun?
+  Jawab: Online check karke download kar lein aur ada kar dein — bill ke na milne par late fee maaf nahi hoti.
+- Sawal: Sardi me bill chaar guna kyun ho jata hai?
+  Jawab: Heater/geyser se units barhte hain aur zyada units par rate ka slab bhi mehenga ho jata hai — bill par units aur slab ghor se dekhein.
+- Sawal: Kya main kirayedaar hun, bill check kar sakta hun?
+  Jawab: Ji haan — consumer number se koi bhi bill check aur ada kar sakta hai, bill chahe malik ke naam par ho.
+
+### HEC Degree Attestation Ka Tareeqa (2026): Online System, Fee Aur Step-by-Step Process
+URL: https://igaf.me/guides/hec-degree-attestation
+Category: Certificates
+Khulasa: HEC se degree attestation karwane ka mukammal tareeqa — naya fully online system (eservices.hec.gov.pk), fee Rs 3,000 per document, university verification, e-attestation certificate aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya ab HEC office jana hi nahi parta?
+  Jawab: Naye online system me tamam process ghar bethe ho sakta hai — documents upload, university verification, payment aur certificate download sab online.
+- Sawal: Matric/Inter ki sanad bhi attest karwani hogi?
+  Jawab: HEC sirf **university degrees** attest karta hai. Matric/Inter ki attestation **IBCC** se hoti hai — dono alag idare hain.
+- Sawal: Fee waqai Rs 3,000 ho gayi hai?
+  Jawab: Ji — naye online DAS ke tehat Rs 3,000 per document hai (pehle Rs 1,000 thi). Portal fee khud calculate karke dikhata hai, wahi final hai.
+- Sawal: Agar university jawab na de to?
+  Jawab: Application dashboard par status nazar aata hai — university verification ruki ho to apni university ke **examination/controller office** se rabta karein, wahi se tezi aati hai.
+- Sawal: Kya koi aur meri taraf se apply kar sakta hai?
+  Jawab: Online system me aap **khud apne account** se apply karte hain — CNIC ki maloomat aap ki hoti hain. Kisi agent ko apna portal password na dein.
+- Sawal: Attested document ki verification baad me kaise hoti hai?
+  Jawab: E-attestation certificate **QR/portal par verifiable** hai — employer ya embassy online tasdeeq kar sakte hain.
+- Sawal: What is the HEC attestation process in Pakistan?
+  Jawab: The HEC attestation process in Pakistan is fully online: create an account on eservices.hec.gov.pk, complete your academic profile, upload your degree and transcript, pay Rs 3,000 per document via 1-Link (1-Bill), wait for your university's electronic verification, and download the e-attestation certificate from the portal — no office visit is needed.
+- Sawal: How long does HEC Pakistan attestation take?
+  Jawab: Most applications complete in about 2 to 4 weeks. University verification takes the longest — if your university responds quickly, the whole HEC Pakistan attestation finishes sooner. Start at least 6-8 weeks before any visa or admission deadline.
+- Sawal: What documents are needed for HEC degree attestation?
+  Jawab: For HEC degree attestation you need the original degree and transcript/DMC you want attested, your CNIC, and clear scanned copies of all of them for upload on eservices.hec.gov.pk. Your name and details must match exactly across your CNIC, Matric certificate and degree — a spelling mismatch is the most common reason an HEC degree attestation application is returned.
+
+### HEC Degree Verification Online (2026): Attested Degree Check Karne Ka Tareeqa
+URL: https://igaf.me/guides/hec-degree-verification-online
+Category: Certificates
+Khulasa: HEC attested degree ki online verification ka mukammal tareeqa — e-attestation certificate ka QR code, eservices portal se degree check, employers aur universities ke liye verification process, purani attestation ki tasdeeq aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: HEC degree verification online kaise hoti hai?
+  Jawab: E-Attestation Certificate par mojood QR code scan karein ya eservices.hec.gov.pk ke Degree Verification section me certificate number darj karein — degree ka record foran zahir ho jata hai.
+- Sawal: Kya employer meri degree khud verify kar sakta hai?
+  Jawab: Jee haan. Yahi is system ka maqsad hai — employer, university ya embassy QR code se ya portal par aap ki attestation check kar sakta hai, aap ki ijazat ke baghair daftar jane ki zaroorat nahi.
+- Sawal: Meri degree ka record online nahi mil raha, kya karoon?
+  Jawab: Pehle certificate number aur naam ki spelling check karein. Purani manual attestation ho to HEC support se record ki updation karwayen. Aur agar degree attest hi nahi hui, to pehle online attestation karwani hogi.
+- Sawal: QR code scan karne par kya maloomat nazar ati hain?
+  Jawab: Degree holdar ka naam, degree ka unwan, university ka naam aur attestation ki tafseel — jo asal degree se match karke tasdeeq ki jati hai.
+- Sawal: How can I verify an HEC attested degree online?
+  Jawab: Scan the QR code printed on the HEC e-Attestation Certificate, or enter the certificate number in the Degree Verification section of eservices.hec.gov.pk. If the portal shows the degree holder's name, degree and university matching the document, the attestation is genuine.
+- Sawal: Equivalence letter ki verification bhi yahin se hogi?
+  Jawab: Jee — foreign degree ke equivalence letters ki tasdeeq bhi HEC ke e-services portal se hoti hai. Letter banwane ka process [HEC Equivalence guide](/guides/hec-equivalence-certificate) me hai.
+
+### HEC Equivalence Certificate Ka Tareeqa (2026): Foreign Degree, Fee Rs 5,000 Aur Online Process
+URL: https://igaf.me/guides/hec-equivalence-certificate
+Category: Certificates
+Khulasa: Bahir ki degree ke liye HEC equivalence certificate ka mukammal tareeqa — fee Rs 5,000 per degree, eservices.hec.gov.pk par paperless application, university verification, zaroori documents, timeline aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: HEC equivalence ki fee kitni hai?
+  Jawab: Rs 5,000 per degree/diploma, non-refundable, 1-Link se online pay hoti hai. University ki apni verification fee (agar woh mange) is ke ilawa hai.
+- Sawal: Kya HEC office ja kar documents jama karwane hain?
+  Jawab: Nahi. Poora process paperless hai — application, documents upload, fee aur letter, sab eservices.hec.gov.pk se hota hai.
+- Sawal: Equivalence letter par CGPA kyun nahi likha hota?
+  Jawab: Kyunkay HEC sirf degree ka level (Bachelor/Master ke barabar) tay karta hai — grades ya CGPA us ke dairay me nahi. Ye letter ki khami nahi, us ka maqsad hi yahi hai.
+- Sawal: Master ki equivalence ke liye pehle kya chahiye?
+  Jawab: Bachelor degree ki equivalence (agar woh bhi foreign hai) ya HEC-attested Pakistani Bachelor degree. Sequence ulta nahi chal sakta.
+- Sawal: How much is the HEC equivalence fee for a foreign degree?
+  Jawab: The HEC equivalence fee is Rs 5,000 per degree or diploma, paid online through 1-Link on eservices.hec.gov.pk. The process is fully paperless, but your foreign university must confirm your degree directly to HEC before the equivalence letter is issued.
+- Sawal: O/A Levels ki equivalence kahan se hogi?
+  Jawab: School level ki foreign taleem ki equivalence IBCC deta hai, HEC nahi. Matric/Inter level ke documents ke liye [IBCC attestation guide](/guides/ibcc-attestation-ka-tareeqa) dekhein.
+
+### Pakistan Me HEC HAT Test Ka Tareeqa (2026): Categories, Paper Pattern, Registration Aur Tayyari
+URL: https://igaf.me/guides/hec-hat-test-guide
+Category: Certificates
+Khulasa: HEC HAT (Higher Education Aptitude Test) 2026 ki mukammal guide — MS/MPhil aur PhD admission ke liye 5 categories (HAT-1 se HAT-General), 100 MCQs paper pattern, etc.hec.gov.pk par online registration, fee challan, 2 saal validity aur tayyari ke tips.
+Aksar Poche Jane Wale Sawal:
+- Sawal: HAT kis ke liye lazmi hai?
+  Jawab: HAT MS/MPhil aur PhD programs me admission lene walon aur HEC scholarships ke liye apply karne walon ke liye hota hai. Is ke liye 16 saal taleem ya us ke barabar qualification darkar hai. Har university ki apni shart ho sakti hai, is liye apni target university se confirm karein ke wo HAT mangti hai ya nahi.
+- Sawal: HAT ki fee kitni hai?
+  Jawab: Final fee ETC portal par aap ke challan/invoice par darj hoti hai — 1Link/1Bill ke zariye jama hoti hai aur non-refundable hoti hai. HEC/ETC ke public pages par aik mustaqil rakam publish nahi hoti, is liye portal par bane challan ki rakam hi hatmi hai. Kisi teesri website ya agent ke bataye account par fee mat bhejein.
+- Sawal: HAT ka score kitne arse tak valid rehta hai?
+  Jawab: HAT score 2 saal tak valid rehta hai. Is arse me aap isi score se kai admission cycles aur HEC scholarship announcements me apply kar sakte hain. Agar score behtar karna ho to agle cycle me dobara test de sakte hain.
+- Sawal: HAT me passing marks kitne hain?
+  Jawab: Aam tor par 50 marks ko qualifying mana jata hai, lekin admission ka final faisla university ki merit par hota hai — achi universities me merit is se zyada bhi ho sakti hai. Maujooda cycle ki qualifying shart ETC ke ilan me check karein aur hadaf sirf pass nahi, balkay zyada se zyada score rakhein.
+- Sawal: HAT saal me kitni dafa hota hai aur agla test kab hai?
+  Jawab: ETC ke test quarterly hote hain, yani saal me 4 dafa. Har cycle ki announcement, aakhri tareekh aur test ki tareekh mukhtalif hoti hai, is liye agle test ki dates ke liye hamesha etc.hec.gov.pk ka announcement page check karein — purani dates par bharosa mat karein. --- > **Official source:** HEC Education Testing Council portal (**etc.hec.gov.pk**), HEC ki HAT announcements aur HAT categories/paper-pattern ki tafseel — tamam **24 October 2026 ko check ki gayi**. Fee ki rakam aur maujooda cycle ki dates ETC portal ke challan aur announcement par hoti hain, is guide me koi andaze ki rakam ya tareekh nahi likhi gayi. ETC helpline: 0334-111-9432 / 051-111-119-432; online madad: onlinehelp.hec.gov.pk.
+
+### HEC LAT Test Guide (2026): Law Admission Test — Registration, Fee, Paper Pattern Aur Tayyari
+URL: https://igaf.me/guides/hec-lat-test-guide
+Category: Certificates
+Khulasa: HEC LAT (Law Admission Test) ki mukammal guide — LLB admission ke liye lazmi test, ETC (etc.hec.gov.pk) par online registration, fee Rs 1,800, official paper pattern (100 marks, passing 50), result ki 2 saal validity, answer keys aur tayyari ke tips.
+Aksar Poche Jane Wale Sawal:
+- Sawal: LAT ki fee kitni hai aur kaise pay hoti hai?
+  Jawab: Haaliya ETC cycles me LAT fee **Rs 1,800** hai, jo application ke consumer number se **1Link/1Bill** ke zariye bank, ATM, mobile banking ya wallet (Easypaisa, JazzCash, UPaisa) se pay hoti hai. Fee non-refundable aur non-transferable hai. Portal par generate hone wala amount hi final hai — pay karne ke baad dashboard par "Verify Online Payment" lazmi click karein.
+- Sawal: LAT me passing marks kitne hain aur result kitne arse valid hai?
+  Jawab: Kul 100 marks me se **50 marks** lena lazmi hai. LAT ka score **2 saal** tak valid rehta hai — is arse me aap usi score par LLB admission le sakte hain.
+- Sawal: Kya result awaiting students LAT de sakte hain?
+  Jawab: Ji. Jin students ka HSSC/Intermediate ka result aanay wala hai (result awaiting), woh current rules ke mutabiq LAT ke liye apply kar sakte hain. LLB admission ke waqt university ki result wali shart pura karna hogi.
+- Sawal: LAT saal me kitni dafa hota hai aur next test kab hai?
+  Jawab: ETC saal me kai LAT cycles chalata hai. Har cycle ki registration deadline aur test date ETC apni announcement aur test calendar me deta hai — current dates ke liye **etc.hec.gov.pk** aur HEC ki website check karein; purani dates par bharosa na karein.
+- Sawal: Roll number slip kab aur kahan se milegi?
+  Jawab: Test se taqreeban aik hafta pehle ETC portal (etc.hec.gov.pk) par apne account se download hogi. Test day par printed slip aur asal CNIC/B-Form lazmi le kar jayen.
+- Sawal: LAT fail ho jaye to kya hoga?
+  Jawab: Agle cycle me dobara apply kar sakte hain — koi pabandi nahi. Tayyari is dafa essay aur English par zyada rakhein, kyunkay yehi do hisse sab se zyada marks dete hain. Jab tak LAT pass nahi, koi recognized university LLB admission nahi de sakti.
+- Sawal: Kya LAT private law colleges ke liye bhi lazmi hai?
+  Jawab: Ji, bilkul. LAT sarkari aur private — **har HEC/PBC-recognized** university aur affiliated law college ke 5-year LLB ke liye lazmi hai. Jo college LAT ke baghair admission de, us ki recognition pehle [check karein](/guides/hec-recognized-universities-check).
+- Sawal: Degree ke baad HEC se mutaliqa kaam kahan se hoga?
+  Jawab: LLB mukammal karne ke baad degree ki attestation online DAS se hoti hai — tareeqa [HEC Degree Attestation guide](/guides/hec-degree-attestation) me hai, aur bahir mulk jaane ki surat me [HEC Sealed Envelope guide](/guides/hec-sealed-envelope-wes) kaam ayegi.
+
+### HEC Recognized University Kaise Check Karein (2026): Admission Se Pehle Lazmi Tasdeeq
+URL: https://igaf.me/guides/hec-recognized-universities-check
+Category: Certificates
+Khulasa: Admission se pehle university, campus ya foreign collaboration programme ki HEC recognition check karne ka mukammal tareeqa — HEC ki official recognized universities, recognized campuses, illegal/fake aur TNE lists, DAI ka matlab, aur ghair-recognized degree ke nuqsanat.
+Aksar Poche Jane Wale Sawal:
+- Sawal: University HEC recognized hai ya nahi, sab se tez check kya hai?
+  Jawab: HEC ki Recognized Universities list (hec.gov.pk/english/universities/pages/recognised.aspx) me poora naam talash karein, phir Recognized Campuses list me apna campus, aur aakhir me Illegal/Fake list me cross-check. Teeno checks me kul 10 minute lagte hain aur bilkul free hain.
+- Sawal: University list me hai lekin mera campus list me nahi — kya degree chalegi?
+  Jawab: Nahi. HEC sirf un campuses ko recognize karta hai jo Recognized Campuses list me hain. Ghair-listed campus ki degree HEC attest nahi karega, chahay university khud recognized ho.
+- Sawal: "Recognition under process" wale idare me admission le loon?
+  Jawab: Bilkul nahi. Jab tak idarah HEC ki published list me na aa jaye, woh unrecognized hi hai. Us arse ki degree baad me bhi tasdeeq nahi hoti.
+- Sawal: Affiliated college ki degree kaun deta hai aur check kaise ho?
+  Jawab: Degree hamesha **university** deti hai, college nahi. Public university ke affiliated colleges ki list mutaliqa university se confirm karein. Private university kisi college ko affiliate nahi kar sakti — aisa dawa red flag hai.
+- Sawal: Foreign (UK/USA) degree Pakistan me baithe kar sakte hain?
+  Jawab: Sirf wohi programmes jo HEC ki **TNE / Foreign Collaboration list** me us programme aur muddat ke sath darj hon. List se bahir ke foreign collaboration programmes ki degree Pakistan me recognize nahi hoti aur us ki equivalence bhi nahi banti — tareeqa [HEC Equivalence guide](/guides/hec-equivalence-certificate) me dekhein.
+- Sawal: Maine pehle se ghair-recognized idare se degree le li hai — ab kya ho sakta hai?
+  Jawab: Sach ye hai ke HEC aisi degree ko attest ya recognize nahi karta, aur koi agent ye kaam nahi kar sakta — jo agent "paison se attestation" ka wada kare woh fraud hai. Mustaqbil ka nuqsan rokne ke liye aage ki taleem hamesha recognized idare se karein, aur apni attested documents ki hifazat aur verification ka tareeqa [HEC verification guide](/guides/hec-degree-verification-online) me dekhein.
+- Sawal: HEC ki lists kab update hoti hain?
+  Jawab: HEC lists ko waqtan fawaqtan update karta hai — naye charters, naye campuses aur band kiye gaye programmes shamil hote rehte hain. Is liye admission ke **usi season** me dobara check karna lazmi hai; purana screenshot hamesha ka saboot nahi.
+
+### HEC Sealed Envelope WES Ke Liye (2026): ECA Ke Liye Attested Documents Seal Karwane Ka Mukammal Tareeqa
+URL: https://igaf.me/guides/hec-sealed-envelope-wes
+Category: Certificates
+Khulasa: WES, IQAS, ICAS ya CES ke liye HEC sealed envelope ka mukammal tareeqa — pehle degree aur transcript ki attestation DAS (eservices.hec.gov.pk) se, phir attested copies ka sealed envelope, courier dispatch, aam rejections aur English summary ke sath.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya HEC khud envelope WES ko bhejta hai?
+  Jawab: Nahi. HEC ka R&I Section attested copies ko seal karke envelope aap ko, aap ke authorized person ko ya courier representative ko deta hai. Us ke baad courier se WES/ECA idare ko bhejna aap ki zimmedari hai.
+- Sawal: Envelope ghalti se khul jaye to kya hoga?
+  Jawab: Khula ya damaged envelope WES qabool nahi karta. Aap ko copies ki dobara attestation karwa kar naya sealed envelope banana hoga — is liye envelope ko wasool karte hi mehfooz jagah rakhein aur foran courier kar dein.
+- Sawal: Asal degree bhi envelope me jati hai?
+  Jawab: Nahi. Envelope me sirf HEC-attested **photocopies** jati hain. Asal degree aur transcript hamesha aap ke paas rehte hain.
+- Sawal: Sealed envelope ke liye pehle kya lazmi hai?
+  Jawab: Degree aur transcript ki **HEC attestation** — jo ab online DAS se hoti hai, Rs 3,000 per document. Attestation ka mukammal tareeqa [HEC Degree Attestation guide](/guides/hec-degree-attestation) me hai. Attested degree ki baad me tasdeeq ka tareeqa [HEC verification guide](/guides/hec-degree-verification-online) me dekhein.
+- Sawal: How do I get an HEC sealed envelope for WES Canada?
+  Jawab: First get your original degree and transcript attested by HEC through the online Degree Attestation System at eservices.hec.gov.pk (Rs 3,000 per document). Then apply for attested photocopies and request the sealed envelope option — HEC's R&I Section seals the attested copies in an official envelope and hands it to you. Write your WES reference number on it and courier it to the WES Canada address shown in your WES account. Never open the envelope yourself; an opened envelope is rejected.
+- Sawal: What happens if my HEC sealed envelope is opened or damaged?
+  Jawab: WES and other ECA organizations reject opened, resealed or damaged envelopes because they can no longer trust that the documents inside are unchanged. You will need fresh attested copies sealed in a new envelope from HEC. If the envelope arrives damaged, contact the ECA organization before anything else and keep the courier tracking and photos as evidence.
+- Sawal: Matric aur Inter ki copies bhi isi envelope me jayengi?
+  Jawab: Nahi. Matric/Inter ki attested copies board aur IBCC ke alag envelope me jati hain. HEC wala envelope sirf university degree aur transcript ke liye hai — tafseel ke liye [IBCC Attestation guide](/guides/ibcc-attestation-ka-tareeqa) parhein.
+- Sawal: Kitna waqt lagta hai poore process me?
+  Jawab: Attestation (university verification samet) aam tor par 10-15 working days, phir copies ki attestation aur sealing, aur Canada/USA courier ke 3-7 din. Kul mila kar **4-6 hafte pehle** shuru karna mehfooz hai.
+
+### Pakistan Me HEC USAT Test Guide (2026): Registration, Fee, Paper Pattern Aur Tayyari Ka Poora Tareeqa
+URL: https://igaf.me/guides/hec-usat-test-guide
+Category: Certificates
+Khulasa: HEC USAT (Undergraduate Studies Admission Test) 2026 ki mukammal guide — 6 categories (USAT-M/E/CS/GS/COM/A), etc.hec.gov.pk par online registration, official 100 marks paper pattern (75 MCQs + 25 essay), 1 saal validity aur tayyari ke tips.
+Aksar Poche Jane Wale Sawal:
+- Sawal: USAT ki fee kitni hai aur kaise pay hoti hai?
+  Jawab: HEC/ETC apni public pages par fee ki rakam publish nahi karta — **exact amount sirf ETC portal me application ke waqt** generate hone wale 1Link/1Bill consumer-number invoice par nazar aata hai. Payment ka tareeqa official hai: "My Application" me "Online Payment" se consumer number banayen, use **1Link/1Bill** se bank, ATM ya mobile/internet banking se pay karein, phir dashboard par **"Verify Online Payment"** lazmi click karein. Fee non-refundable aur non-transferable hai.
+- Sawal: USAT me passing marks kitne hain?
+  Jawab: HEC/ETC ki official documents me koi public passing threshold nahi di gayi. Admission ka faisla har university apne merit/cut-off par karti hai — apni target university ka required score us ke admission office ya website se confirm karein. Paper kul 100 marks ka hota hai (75 MCQs + 25 essay).
+- Sawal: USAT ka result kitne arse valid hai?
+  Jawab: Official USAT ad ke mutabiq USAT score **1 saal** tak valid hai (HEC undergraduate scholarships ke liye bhi isi arse me istemal hota hai).
+- Sawal: Kya result awaiting students USAT de sakte hain?
+  Jawab: Ji. Official ad ke mutabiq HSSC/12-year equivalent **pass ya exam de kar result awaiting** dono apply kar sakte hain. Admission ke waqt university ki result wali shart pura karna hogi.
+- Sawal: USAT saal me kitni dafa hota hai?
+  Jawab: HEC ki official FAQ ke mutabiq ETC ke tests **quarterly** hote hain. Haaliya cycle ka portal 2 October 2026 ko band hua aur test 25 October 2026 ko hai — agle cycle ki dates ke liye **etc.hec.gov.pk** aur HEC ka announcement page check karein.
+- Sawal: USAT aur HAT me kya farq hai?
+  Jawab: **USAT** undergraduate (BS) admission ke liye hai (12 saal taleem ke baad), jabke **HAT** MS/MPhil aur PhD admission aur HEC scholarships ke liye hai (16 saal taleem ke baad). Dono ETC leta hai lekin categories aur maqsad alag hain.
+
+### IBCC Attestation Ka Tareeqa (2026): Matric Inter Certificate, Fee Aur Online Process
+URL: https://igaf.me/guides/ibcc-attestation-ka-tareeqa
+Category: Certificates
+Khulasa: IBCC se Matric aur Intermediate certificate attestation ka mukammal tareeqa — fee Rs 1,200 per certificate (copy Rs 600), pehle board verification, online portal attest.ibcc.edu.pk, walk-in aur courier process, documents aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: IBCC attestation ki fee kitni hai?
+  Jawab: Rs 1,200 per asal certificate aur Rs 600 per photocopy. Matric aur Inter dono ke certificates attest karwane hon to kul Rs 2,400 baneinge.
+- Sawal: Kya IBCC degree bhi attest karta hai?
+  Jawab: Nahi. IBCC sirf Matric aur Intermediate (school/college level) ke documents attest karta hai. University degree ki attestation HEC se hoti hai.
+- Sawal: IBCC attestation me kitna waqt lagta hai?
+  Jawab: Walk-in par aam tor par usi din ho jati hai. Courier se 7-10 working days lag sakte hain. Board verification ka waqt is ke ilawa hai.
+- Sawal: Kya koi aur meri taraf se documents jama kar sakta hai?
+  Jawab: Sirf khoon ka rishta (walid, walida, bhai, behen) apne asal CNIC ke sath jama kar sakta hai. Agents ke zariye jama karwana IBCC qabool nahi karta.
+- Sawal: What is the IBCC attestation fee in Pakistan?
+  Jawab: The IBCC attestation fee is Rs 1,200 per original Matric or Intermediate certificate and Rs 600 per photocopy. Apply online at attest.ibcc.edu.pk — your board (BISE) must verify the certificate before IBCC attests it.
+- Sawal: Board verification pehle kyun lazmi hai?
+  Jawab: Kyunkay IBCC khud certificate ki asliyat board se confirm karta hai — jab tak board verification na bheje, IBCC stamp nahi lagata. Ye jaali documents rokne ke liye hai.
+
+### Pakistan Me IBCC Equivalence Certificate Ka Tareeqa (2026): O/A Levels, Fee Aur Online Process
+URL: https://igaf.me/guides/ibcc-equivalence-certificate
+Category: Certificates
+Khulasa: IBCC se O Level aur A Level ki equivalence certificate ka mukammal tareeqa — SSC/Matric aur HSSC/Inter equivalence, official fee Rs 6,000 per certificate, zaroori kagzaat, grade conversion formula, Pakistani students ke liye Urdu/Islamiat/Pak Studies ki shart aur apply karne ka step-by-step process.
+Aksar Poche Jane Wale Sawal:
+- Sawal: IBCC equivalence ki fee kitni hai?
+  Jawab: Official fee Rs 6,000 per certificate hai — SSC (O Levels) ke liye Rs 6,000 aur HSSC (A Levels) ke liye Rs 6,000, yani dono ke liye Rs 12,000. Andar-e-mulk return courier Rs 300 aur bahir mulk se apply karne walon ke liye $100 per certificate hai. Duplicate ya revised certificate ki fee Rs 8,000 hai. Fee non-refundable hai.
+- Sawal: O Levels ki equivalence kis class ke barabar hoti hai?
+  Jawab: O Levels ki equivalence SSC (Matric) ke barabar hoti hai — Science ya Arts group, aap ke subjects ke mutabiq. A Levels ki equivalence HSSC (Inter) ke barabar hoti hai — Pre-Engineering, Pre-Medical, Computer Science ya Humanities group. HSSC equivalence ke liye SSC ya us ke barabar qualification pehle se hona lazmi hai.
+- Sawal: Pakistani students ko Urdu, Islamiat aur Pak Studies kyun lazmi hain?
+  Jawab: IBCC ke rules ke mutabiq Pakistan se O/A Levels karne wale Pakistani students ko Urdu, Islamiyat, Pakistan Studies aur Mathematics pass karna lazmi hai. Bahir mulk se dono levels karne wale Pakistani students aur foreign/dual nationals is se mustasna hain. Apni surat-haal IBCC helpline par confirm karein.
+- Sawal: Equivalence certificate kitne din me milta hai?
+  Jawab: Saaf cases me provisional equivalence 7 working days me Islamabad Secretariat se mil sakti hai. Proper (mustaqil) certificate ke liye IBCC aap ke documents ki verification mutaliqa authority se karta hai, is liye is me kuch haftay lag sakte hain. Admission ki aakhri tareekh se kam az kam aik mah pehle apply karein.
+- Sawal: Equivalence aur attestation me kya farq hai?
+  Jawab: Equivalence ye batati hai ke aap ki bahir ki taleem Pakistan ki kis class ke barabar hai, jabke attestation aap ke asal certificate par tasdeeq ki mohar hai. Pehle equivalence lein, phir agar university ya nokri ke liye attestation darkar ho to IBCC attestation ka alag process karein. --- > **Official source:** Inter Boards Coordination Commission (IBCC) ki official website (**ibcc.edu.pk** — Requirements for Equivalence page) aur IBCC ka official equivalence application form (E-3 form, ibcc.edu.pk) jis par fee details aur Islamabad Secretariat ka address darj hai — tamam **24 October 2026 ko check kiye gaye**. IBCC helpline: 051-111-114-222; address: Plot 25, Street 38, Mauve Area, G-10/4, Islamabad. Fee ya requirements me tabdeeli ki surat me IBCC ki website ya helpline se confirm karein.
+
+### Pakistan Me Income Certificate Banane Ka Tareeqa (2026): Affidavit, Kagzaat Aur Attestation
+URL: https://igaf.me/guides/income-certificate-banane-ka-tareeqa
+Category: Certificates
+Khulasa: Pakistan me income certificate banwane ka mukammal tareeqa — mulazim ke liye employer-verified certificate, self-employed ke liye stamp paper par income affidavit aur Tehsildar/UC Chairman se attestation, zaroori kagzaat, PEEF aur Zakat ke liye istemal aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya income certificate online ban sakta hai?
+  Jawab: Nahi — is waqt income certificate ka koi official online portal ya e-Khidmat counter mojood nahi hai. Mulazim afrad apne employer se certificate lein, aur self-employed afrad stamp paper par affidavit banwa kar Tehsildar/AC ya UC Chairman se attest karwayein.
+- Sawal: Income affidavit aur income certificate me kya farq hai?
+  Jawab: Income affidavit aap ka apna halaf-nama hota hai (stamp paper par) jis me aap apni aamdani zahir karte hain — phir sarkari afsar usay attest karta hai. Income certificate aam tor par employer jari karta hai jo aap ki tankhwah ki tasdeeq karta hai. Dono hi PEEF aur Zakat ke liye qabool hain.
+- Sawal: Kya be-rozgar shakhs bhi income certificate banwa sakta hai?
+  Jawab: Ji haan — affidavit me aap apni asal surat-e-hal likhte hain, chahe aamdani zero ho. Zakat aur Bait-ul-Maal jaise idare isi bunyad par istehqaq tay karte hain. Jhoot likhne se bachein.
+- Sawal: PEEF scholarship ke liye walidain ki aamdani ki hadd kya hai?
+  Jawab: Master's level PEEF scholarship ke liye walidain ki declared mahana aamdani Rs 60,000 ya us se kam hona lazmi hai (official PEEF shart). Har scheme ki apni hadd hoti hai — apply karne se pehle us scheme ki official site zaroor check karein.
+- Sawal: Kya ek affidavit har jagah chal jayega?
+  Jawab: Aksar haan — attested affidavit PEEF, Zakat aur Bait-ul-Maal sab jagah qabool hota hai. Lekin kuch idare apna makhsoos form bhi dete hain (masalan PEEF ka Income Affidavit form), to jis scheme me apply kar rahe hain us ki requirement pehle parh lein. --- *Ye guide PEEF (peef.org.pk), Punjab Zakat & Ushr Department (zakat.punjab.gov.pk) aur e-Khidmat Markaz ki official maloomat ki bunyad par tayyar ki gayi hai — 23 October 2026 ko check ki gayi. Fee, processing time aur validity ki koi official figures publish nahi hain, is liye is guide me koi number invent nahi kiya gaya; apply karne se pehle mutaliqa idare ya helpline (e-Khidmat: 0800-09100) se tasdeeq kar lein.*
+- Sawal: How to get an income certificate in Pakistan?
+  Jawab: There is no online portal for income certificates in Pakistan. Salaried persons should get an income certificate from their employer, verified with the HR head's signature and the organization's official stamp. Self-employed or unemployed persons should write an income affidavit on stamp paper declaring their monthly income and get it attested by the Tehsildar, Assistant Commissioner or Union Council Chairman. The attested affidavit is accepted for PEEF scholarships (parents' income ceiling Rs 60,000/month for Master's level), Punjab Zakat education stipends (Rs 10,000–20,000/year) and Bait-ul-Maal assistance.
+
+### Pakistan Me International Driving Permit (IDP) Ka Tareeqa (2026): Videsh Me Driving
+URL: https://igaf.me/guides/international-driving-permit-pakistan
+Category: Driving License
+Khulasa: Pakistan me International Driving Permit (IDP) banane ka mukammal tareeqa: zaroori kagzaat, 2026 ki fee, online aur office process, validity aur FAQ.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya Pakistan ka IDP har mulk me chal sakta hai?
+  Jawab: Pakistan ka IDP 150 se zyada mumalik me tasleem hai kyun ke Pakistan Vienna Convention on Road Traffic ka rukan hai. Phir bhi safar se pehle destination mulk ke rules check karna zaroori hai kyun ke kuch mulkon me IDP ke sath mazeed documents ya insurance bhi mangi jati hai.
+- Sawal: Kya IDP ke liye driving test dobara dena parta hai?
+  Jawab: Nahi, IDP ke liye koi driving test nahi hota. Ye sirf aap ke maujooda valid permanent license ki bunyad par jari hota hai. Test sirf us waqt dena tha jab aap ne pehli dafa apna national license banwaya tha.
+- Sawal: Kya IDP online renew ho sakta hai?
+  Jawab: Punjab me DLIMS portal ke zariye IDP ki renewal online ki ja sakti hai — is ke liye aap ka license record DLIMS me mojood hona chahiye aur documents (CNIC, passport, expired IDP) upload kar ke fee PSID se pay karni hoti hai. Dosre soobon me manual renewal hi common hai.
+- Sawal: Agar mera passport ya license expiry ke qareeb ho to IDP milega?
+  Jawab: Nahi. Punjab ki official shart ke mutabiq license ki validity apply ke waqt kam az kam 1 saal honi chahiye aur passport 6 mahine se zyada valid hona chahiye. Pehle in dono ko renew karwayein, phir IDP ke liye apply karein.
+- Sawal: Kya IDP ke baghair videsh me gaari chalane par saza ho sakti hai?
+  Jawab: Ji haan. Bohat se mulkon me baghair IDP gaari chalana qanoonan jurm hai aur is par jurmana, gaari ki zabti ya qanooni karwai ho sakti hai. Is ke ilawa gaari kiraye par lene wali companies bhi IDP mangti hain, is liye safar se pehle IDP banwana hi safe tareeqa hai. Ye guide Punjab Traffic Police ki official website (trafficpolice.punjab.gov.pk), DLIMS Punjab ki official fee schedule, Peshawar Traffic Police (ptpkp.gov.pk) ke official fee schedule aur NHMP Drivers Licensing Authority Rules 2014 ki bunyad par 23 October 2026 ko tayyar ki gayi hai. Taaza fee aur timing ke liye mutaliqa traffic police ki website ya helpline check karein.
+
+### Pakistan Me Khoya Hua Passport Dobara Banane Ka Tareeqa (2026): FIR, Fee Aur Process
+URL: https://igaf.me/guides/khoya-hua-passport-dobara-banwana
+Category: Passport
+Khulasa: Khoya hua Pakistani passport dobara banwane ka mukammal tareeqa: FIR, zaroori kagzaat, lost-passport fee, process aur FAQs.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Khoya hua passport dobara banwane me kul kitna kharcha aata hai?
+  Jawab: Kharcha aap ki chuni hui category (36 ya 72 pages, 5 ya 10 saal, normal ya urgent) aur kho jane ki dafa par munhasir hai. Pehli dafa kho jane par normal fee se double lagti hai. Misal ke taur par 36 pages, 5 saal wale e-passport ki normal fee 9,000 rupay hai, to pehli dafa kho jane par usay double hisab se ada karna hoga. Aakhri raqam application ke waqt official portal confirm karta hai, is liye payment se pehle dgip.gov.pk par fee schedule dekh lein ya helpline 051-111-344-777 par confirm kar lein.
+- Sawal: Kya khoya hua passport baghair FIR ke dobara ban sakta hai?
+  Jawab: Nahi. Police ki FIR ya gumm-shudgi ki report khoye hue passport ke liye lazmi kagaz hai. DGIP ke official usoolon ke mutabiq report me aap ka naam aur khoye hue passport ka number likha hona chahiye. Baghair police report ke application aage nahi barhegi, is liye sab se pehle yehi kaam karein.
+- Sawal: Kya khoye hue passport ke liye online apply ho sakta hai?
+  Jawab: Poori application online nahi hoti. DGIP ke portal par sirf gumm-shudgi ki report ("Report my Loss") darj ki ja sakti hai aur fee ka PSID challan generate kiya ja sakta hai. Biometric capture aur tasveer ke liye aap ko khud Regional Passport Office jana padta hai, is liye final application hamesha office me hi hoti hai.
+- Sawal: Agar purane passport ki copy ya number mojood na ho to kya hoga?
+  Jawab: Application phir bhi ho jayegi, lekin verification me zyada waqt lagega. Aap Regional Passport Office me tehriki darkhwast de kar apne purane passport ka record aur number hasil kar sakte hain — is ke liye aap ke CNIC/NICOP ki copy chahiye hogi. Isi liye mashwara diya jata hai ke hamesha apne passport ki scan ya copy alag se mehfooz rakhein.
+- Sawal: Teesri dafa passport kho jaye to kya hota hai?
+  Jawab: Teesri dafa passport kho jane par Regional Passport Office aap ka case Directorate General of Immigration & Passports, Islamabad ko bhejta hai. Naya passport DGIP ki manzoori ke baghair jari nahi hota. Ye qawaid passport ke ghalat istemal ko rokne ke liye hain. Is soorat me case ki tafseel aur wajohat DGIP ke samne pesh hoti hain aur wahi faisla karta hai. Ye guide Directorate General of Immigration & Passports (dgip.gov.pk) ki official maloomat ki bunyad par 23 October 2026 ko tayyar ki gayi hai. Fee ya process me tabdeeli ke liye helpline 051-111-344-777 ya dgip.gov.pk check karein.
+
+### NADRA CNIC Banane Ka Tareeqa (2026): Naya, Renewal, Duplicate Aur Gumshuda Card
+URL: https://igaf.me/guides/nadra-cnic-banane-ka-tareeqa
+Category: NADRA / CNIC
+Khulasa: Pakistan me NADRA CNIC banwane ka mukammal tareeqa — naya card, renewal, gumshuda ya kharab card ka duplicate, 2026 ki official fees (normal/urgent/executive), zaroori kagzaat, Pak ID app se online apply aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya pehla CNIC waqai muft hai?
+  Jawab: Ji haan — 18 saal par pehli dafa normal processing par koi fee nahi. Urgent ya executive chahiye to fee deni hogi.
+- Sawal: CNIC kitne din me mil jata hai?
+  Jawab: Normal: 15 din, Urgent: 12 din, Executive: 6 din. Smart CNIC me zyada waqt lagta hai (normal 31 din).
+- Sawal: Gumshuda CNIC ka kya karun, kya koi ghalat istemal kar sakta hai?
+  Jawab: Foran qareebi thane me FIR katwayen aur NADRA se duplicate ke liye apply karein. FIR aap ko tahaffuz deti hai agar card ka ghalat istemal ho.
+- Sawal: Kya CNIC par pata tabdeel karwana zaroori hai?
+  Jawab: Zaroori to nahi lekin behtar hai — bank, passport aur degar kamon me maujooda pate ka saboot manga jata hai.
+- Sawal: Smart CNIC normal se behtar hai?
+  Jawab: Chip ki wajah se zyada mehfooz hai aur digital tasdeeq me kaam aata hai. Lekin fee dugni se zyada hai — faisla apni zaroorat par karein.
+- Sawal: Kya 18 saal se pehle CNIC ban sakta hai?
+  Jawab: Nahi — 18 saal se kam umar ke liye B-Form (CRC) banta hai, CNIC nahi.
+
+### Pakistan Me NADRA FRC Banane Ka Tareeqa (2026): Family Registration Certificate
+URL: https://igaf.me/guides/nadra-frc-banane-ka-tareeqa
+Category: NADRA / CNIC
+Khulasa: NADRA Family Registration Certificate (FRC) banwane ka mukammal tareeqa — by birth, by marriage, by adoption aur by all types, Rs 1,000 official fee, zaroori kagzaat, NADRA center aur PakID app online tareeqa, 1-din timeline aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: FRC aur B-Form me kya farq hai?
+  Jawab: B-Form (CRC) 18 saal se kam umar ke bache ki apni paidaish aur pehchan ka record hai, jabke FRC poore khandan ke rishton (walidain, behan-bhai, biwi-bachay) ka certificate hai. Visa aur immigration ke liye aksar FRC manga jata hai, B-Form nahi.
+- Sawal: Kya FRC ki koi expiry hoti hai?
+  Jawab: Nahi, FRC ki koi fixed expiry date nahi hoti. Lekin agar khandan ki maloomat badal jaye (paidaish, shadi, talaaq, wafat) to **naya FRC** banwana chahiye, kyunke purana certificate ghalat maloomat dikhayega.
+- Sawal: Kya overseas Pakistani FRC ke liye apply kar sakta hai?
+  Jawab: Ji haan — Pak Identity portal (id.nadra.gov.pk) se NICOP par online apply karein. Fee USD me hoti hai (taqreeban $20–25) aur certificate PDF me email par mil jata hai.
+- Sawal: FRC by Marriage ke liye kya Nikah Nama lazmi hai?
+  Jawab: NADRA ki official requirements me sirf 13-digit ID number manga gaya hai — lekin shart ye hai ke shadi NADRA ke record me darj ho. Agar shadi record me nahi hai to pehle record update karwayen, phir FRC apply karein.
+- Sawal: Kya FRC visa ke liye qabool hota hai?
+  Jawab: Ji haan, FRC duniya bhar ki aksar embassies aur immigration authorities ke paas khandan ke rishte ka valid proof hai — aur NADRA ke certificate par online ya Pak-ID App se tasdeeq (verification) bhi hoti hai. Kuch mumalik ke liye is par **attestation ya apostille** bhi karwana parta hai — apni embassy ki requirement zaroor check kar lein. > **Source note:** Is guide ki fee (Rs 1,000 / Rs 2,000), 01-din timeline, required documents aur apply channels ki maloomat NADRA ki official website (nadra.gov.pk — FRC page aur Fee Structure) se **20 October 2026** ko check ki gayi hain. Fee aur waqt waqton-waqton par badal sakta hai — apply karne se pehle NADRA helpline **1777** (24/7) ya csd@nadra.gov.pk se confirm kar lein.
+
+### NADRA Marriage Certificate Banane Ka Tareeqa (2026): Nikah Registration Aur MRC
+URL: https://igaf.me/guides/nadra-marriage-certificate
+Category: Certificates
+Khulasa: Shadi ke baad NADRA computerized marriage certificate (MRC) banwane ka mukammal tareeqa — Union Council me Nikah registration, fee, zaroori kagzaat, CNIC update aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Nikah Nama gum ho gaya, kya karun?
+  Jawab: Us UC se **duplicate Nikah Nama** nikalwayen jahan Nikah register hua tha — dono miyan-biwi CNIC ke saath jayen.
+- Sawal: Kya MRC ke baghair visa lag sakta hai?
+  Jawab: Family/spouse visa ke liye **nahi** — embassy computerized certificate mangti hai.
+- Sawal: Shadi ko saal guzar gaye, indraj nahi hua — ab?
+  Jawab: Ab bhi ho sakta hai — **late fee** lagegi (Rs 1,000-4,000 tak, UC ke hisab se). Nikah Nama aur CNIC le kar UC jayen.
+- Sawal: Kya dono ka jana zaroori hai?
+  Jawab: Indraj ke liye aik bhi ja sakta hai, lekin **power of attorney** ke saath. Behtar hai dono jayen.
+- Sawal: Certificate par ghalti ho to?
+  Jawab: Foran wapas UC jayen — Nikah Nama se mila kar correction karwayen. Der ki to har document me ghalti phel jayegi.
+
+### Pakistan Me Passport Banane Ka Tareeqa (2026): Fees, Kagzaat Aur Poora Process
+URL: https://igaf.me/guides/pakistan-passport-banane-ka-tareeqa
+Category: Passport
+Khulasa: Pakistan me naya passport banwane ka mukammal tareeqa — zaroori kagzaat, 2026 ki official fees (normal/urgent, 36/72/100 pages), online aur office dono tareeqe, step-by-step process aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya me baghair CNIC ke passport banwa sakta hun?
+  Jawab: Nahi. Adult ke liye valid CNIC lazmi hai. Bache ke liye B-Form chahiye hota hai.
+- Sawal: Passport renew karne ki fee naye passport jitni hai?
+  Jawab: Ji haan — renewal ki fee naye passport wali hi hoti hai. Sirf gumshuda passport ki duplicate fee dugni hoti hai.
+- Sawal: Kya me apne shehar se bahir kisi aur office se apply kar sakta hun?
+  Jawab: Ji, aap Pakistan ke kisi bhi Regional Passport Office se apply kar sakte hain. Online renewal me to office ka intekhab aap khud karte hain.
+- Sawal: Bache ka passport kitne saal ke liye banta hai?
+  Jawab: 15 saal se kam umar ke bachon ke liye sirf 5 saal ki validity ka passport jari hota hai.
+- Sawal: Passport me ghalat naam ya tareekh-e-pedaish darj ho jaye to?
+  Jawab: Renewal ya modification ke waqt durust maloomat ke saboot (CNIC, B-Form, court order) ke saath correction karwayi ja sakti hai.
+- Sawal: Kya fee bank me jama karwani lazmi hai?
+  Jawab: Nahi — ab fee online bhi ada ki ja sakti hai (Passport Fee Asaan app ya bank channels ke zariye). Lekin adaigi hamesha official tareeqe se karein.
+- Sawal: Urgent passport kitne din me mil jata hai?
+  Jawab: Official tor par 5 working days me print hota hai, lekin delivery same shehar ya door ke shehar ke hisab se kuch din aur le sakti hai. Total 7 se 10 din ka andaza rakhein.
+- Sawal: Overseas Pakistani passport kaise renew karein?
+  Jawab: DGIP ke online portal se mukammal online renewal ho sakti hai — fingerprints Pak-ID app se, fee card se, aur passport ghar deliver ho jata hai. Sirf pehli dafa adult passport ya teesri dafa gumshuda passport ke liye consulate jana parta hai. --- **Akhri note:** Ye guide 21 October 2026 ko DGIP ki official website ([dgip.gov.pk](https://dgip.gov.pk/)) aur DGIP ke published fee chart ki bunyad par tayyar ki gayi hai. Fees, timings aur rules waqt ke saath tabdeel ho sakte hain — apply karne se pehle hamesha official website ya helpline (051-111-344-777) se tasdeeq kar lein.
+- Sawal: How to apply for a passport in Pakistan?
+  Jawab: You can apply at your nearest passport office or start online at onlinemrp.dgip.gov.pk. Pehle apni category ke mutabiq fee ada karein, phir asal CNIC (ya 18 saal se kam ke liye B-Form) aur baqi kagzaat ke saath office jayein — mukammal step-by-step tareeqa, fees aur documents ki list upar is guide me di gayi hai.
+
+### Pakistan Me Passport Status Tracking Ka Tareeqa (2026): SMS 9988, Helpline Aur Time
+URL: https://igaf.me/guides/passport-status-tracking-online
+Category: Passport
+Khulasa: Pakistan me passport ka status check karne ka mukammal tareeqa — DGIP ka official SMS short code 9988, token number kahan se milega, status messages ka matlab, Normal/Urgent/Fast Track ke official waqt, passport na aaye to kya karein aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya me website par token number dal kar passport ka status dekh sakta hun?
+  Jawab: Nahi — DGIP ki official website par aisa koi public tracking form mojood nahi hai. Jo websites ye dawa karti hain, woh DGIP ki nahi hain; un par apna CNIC ya token number kabhi na likhein. Official tareeqe: SMS 9988, helpline 051-111-344-777, ya online apply walon ke liye un ka portal account.
+- Sawal: 9988 par SMS bhejne ka sahi format kya hai?
+  Jawab: Mustanad guides ke mutabiq apna 11-digit token number likh kar 9988 par bhej dein. DGIP ne apni site par exact format publish nahi kiya, is liye agar jawab na aaye to helpline par tasdeeq kar lein. SMS par sirf aam charges lagte hain.
+- Sawal: Passport "Deferred" show ho raha hai — is ka kya matlab hai?
+  Jawab: Is ka matlab hai ke mazeed kagzaat ya security clearance darkar hai. DGIP ka kehna hai ke clearance report aate hi applicant ko phone par ittila di jati hai. Aap khud bhi helpline ya apne Regional Passport Office se rabta kar sakte hain.
+- Sawal: Normal passport kitne din me milta hai?
+  Jawab: Official waqt: Normal 21 working days, Urgent 5 working days, Fast Track 2 working days (sirf 47 designated cities me, e-Passport par nahi). Ye waqt fee confirm hone ke baad shuru hota hai; door-daraz ilaqon tak courier ka waqt alag hai.
+- Sawal: Mera token gum ho gaya hai — ab status kaise check karun?
+  Jawab: Apne asal CNIC ke saath usi Regional Passport Office jayein jahan apply kiya tha — record se aap ka token number dobara nikala ja sakta hai. Us ke baad 9988 par SMS ya helpline se status maloom karein. --- *Ye guide DGIP ki official website (dgip.gov.pk), DGIP ke 9988 SMS service ke official notice aur DGIP ke published application process ki bunyad par tayyar ki gayi hai — 23 October 2026 ko check ki gayi. Tareeqa, numbers aur waqt tabdeel ho sakte hain; tasdeeq ke liye official helpline 051-111-344-777 ya dgip.gov.pk istemal karein.*
+- Sawal: How to track passport status in Pakistan?
+  Jawab: Send your 11-digit token number via SMS to **9988** (DGIP's official SMS short code) from inside Pakistan to receive your application status. Online applicants can check status in their account on onlinemrp.dgip.gov.pk or email mrponline@dgip.gov.pk. DGIP has no public web form for tracking — never enter your CNIC or token on third-party websites. Official delivery times: Normal 21 working days, Urgent 5 working days, Fast Track 2 working days. For help, call the DGIP helpline 051-111-344-777 (Mon–Fri, 8:30am–4:30pm).
+
+### Pakistan Me PEC Registration Ka Tareeqa (2026): Registered Engineer, Fee Aur Online Portal
+URL: https://igaf.me/guides/pec-registration-ka-tareeqa
+Category: Certificates
+Khulasa: Pakistan Engineering Council (PEC) me Registered Engineer banne ka mukammal tareeqa — portal.pec.org.pk par online registration, official fee Rs 1,000, zaroori kagzaat, renewal, Professional Engineer (PE) ka rasta, EPE aur CPD points ki tafseel.
+Aksar Poche Jane Wale Sawal:
+- Sawal: PEC registration ki fee kitni hai?
+  Jawab: PEC ki official fee table ke mutabiq naye Registered Engineer (RE) ki fee Rs 1,000 hai — chahe degree Pakistan se ho ya bahir mulk se. Professional Engineer (PE) ke title ki fee Rs 5,500 hai, renewal Rs 1,000 saalana hai (arrears Rs 500 per saal), aur duplicate certificate Rs 1,000 ka banta hai.
+- Sawal: PEC registration ke liye kaunsi degree chahiye?
+  Jawab: PEC se accredited program se engineering ki degree (BE/BS Engineering) darkar hai. Sirf HEC-recognized university hona kafi nahi — program ka PEC-accredited hona bhi lazmi hai. Apne program ki accreditation PEC ki website par check karein.
+- Sawal: PEC card kitne din me milta hai?
+  Jawab: Online application ke baad PEC aap ki degree ki verification aap ki university se karta hai, is liye waqt university ke jawab par munhasir hai — aam tor par kuch haftay lagte hain. Status portal.pec.org.pk par check kiya ja sakta hai. Documents mukammal hon to kaam jaldi hota hai.
+- Sawal: Renewal na karaya to kya hota hai?
+  Jawab: Registration expire ho jati hai aur expired registration par engineer ki haisiyat se kaam nahi kiya ja sakta. Late renewal par har saal Rs 500 arrears lagte hain, is liye renewal waqt par karana behtar hai.
+- Sawal: Professional Engineer (PE) kaise banein?
+  Jawab: RE banne ke baad 5 saal tajurba, 17 CPD points aur EPE exam pass kar ke PE ka title milta hai. 10 saal ya zyada tajurbe wale engineers interview ke zariye bhi apply kar sakte hain. CPD ki tafseel cpd.pec.org.pk par mojood hai aur PE ki fee Rs 5,500 hai. --- > **Official source:** Pakistan Engineering Council ki official website (**pec.org.pk** — Fee Structure for Engineers page, 24 October 2026 ko check ki gayi) aur PEC ka official registration portal (**portal.pec.org.pk**). PEC ka head office: Ataturk Avenue (East), Sector G-5/2, Islamabad. Fee ya process me tabdeeli ki surat me PEC ki website ya portal par mojooda tafseel hi hatmi hai.
+
+### Police Character Certificate Banane Ka Tareeqa (2026): Online Apply, Fee Aur Waqt
+URL: https://igaf.me/guides/police-character-certificate
+Category: Certificates
+Khulasa: Police character certificate banwane ka mukammal tareeqa — Punjab Police Khidmat Markaz (PKM) se online apply, fee Rs 500, 3 working days me certificate, zaroori kagzaat, overseas Pakistanis ke liye tareeqa aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Character certificate kitne din valid hota hai?
+  Jawab: Aam tor par **6 mahine** — is ke baad dobara nikalwana parta hai.
+- Sawal: Kya doosre soobe ke liye bhi yahi tareeqa hai?
+  Jawab: Nahi — Sindh, KPK aur Balochistan me abhi district police office ja kar apply karna parta hai; fees mukhtalif hain (Rs 150-1,000 tak). Islamabad ICT ka system Punjab jaisa hai, fee Rs 1,000 hai.
+- Sawal: Kya koi meri taraf se apply kar sakta hai (main Pakistan me hun)?
+  Jawab: Aam tor par **khud jana parta hai** (biometric ke liye). Bahir rehne walon ke liye authority letter wala tareeqa hai.
+- Sawal: Agar mere khilaf koi case/FIR ho to?
+  Jawab: Certificate par record nazar aayega — is soorat me pehle **wakil se mashwara** karein, certificate wohi sach likhega jo record me hai.
+- Sawal: Certificate urgent chahiye to?
+  Jawab: Punjab me 3 working days hi standard time hai — is se tez official option nahi; agenton ke jhoote wado par paisa zaya na karein.
+
+### PTA Mobile Registration (DIRBS) Ka Tareeqa 2026: Bahir Se Aaya Mobile Register Karna
+URL: https://igaf.me/guides/pta-mobile-registration-dirbs
+Category: Mobile / PTA
+Khulasa: Bahir se aaya mobile Pakistan me PTA se approve karwane ka mukammal tareeqa — DIRBS portal, *8484# USSD, 60 din ka grace period, CNIC vs passport registration, tax ka hisab, status check 8484 par aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: PTA helpline kya hai?
+  Jawab: **0800-55055** — registration ya status me masla ho to call karein.
+- Sawal: Kya blocked phone WiFi par chalega?
+  Jawab: Ji haan — WiFi chalta rahega, lekin **Pakistani SIM ki call/SMS/data band** ho jayenge.
+- Sawal: Registration ke baad kitni dair me approve hota hai?
+  Jawab: Payment ke baad aam tor par **24-48 ghante** — details ghalat hon to zyada lag sakta hai.
+- Sawal: iPhone ki tax sab se zyada kyun hoti hai?
+  Jawab: Tax phone ki **qeemat (FBR valuation)** par lagta hai — mehenga phone, zyada tax. Exact raqam DIRBS batata hai.
+- Sawal: Kya main kisi aur ke passport par register kar sakta hun?
+  Jawab: Passport registration **usi shaks** ke liye hai jis ne safar kiya ho aur phone us ke saath aya ho — apne naam ka istemal karna qanooni masail paida kar sakta hai.
+- Sawal: Phone gift me mila, receipt nahi — registration hogi?
+  Jawab: Ji, registration IMEI par hoti hai — lekin **tax ki raqam** DIRBS FBR valuation se lagayega, receipt ki zaroorat nahi.
+
+### Pakistan Me Sehat Sahulat Card Ka Tareeqa (2026): Ehliyaat Check, Muft Ilaj Aur Hospital Ka Poora Process
+URL: https://igaf.me/guides/sehat-sahulat-card-banane-ka-tareeqa
+Category: Certificates
+Khulasa: Sehat Sahulat Card 2026 — CNIC se ehliyaat kaise check karein (SMS 8500/9780), KP Sehat Card Plus aur Punjab PHIMC coverage, empanelled hospital me muft ilaj ka tareeqa, coverage limits, helplines aur aam ghaltiyan.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Sehat Card ke liye apply kaise karun? Koi form hai?
+  Jawab: Alag se apply karne ki zaroorat nahi. KP me tamam NADRA-registered permanent residents auto-enrolled hain; Punjab me aap ka valid CNIC hi card hai. Bas apni ehliyaat **8500** (KP: 8500 ya 9780) par CNIC SMS karke confirm karein — agar enrolled hain to seedha empanelled hospital ja sakte hain.
+- Sawal: Sehat Card par saal me kitne ka ilaj muft hai?
+  Jawab: KP (Sehat Card Plus) me **Rs 1,000,000 tak per family per year** (secondary aur tertiary care ki alag hadon ke saath). Punjab (PHIMC) me published reports ke mutabiq **priority services Rs 400,000 aur secondary Rs 60,000 per year**, khaas cases me Rs 1 million tak. Haden revise hoti rehti hain — ilaj se pehle helpline par confirm karein (KP: 0800-89898, Punjab: 0800-09009).
+- Sawal: Kya Sehat Card par OPD ya dawai milti hai?
+  Jawab: Nahi. Sirf **hospital me admit hone wala (inpatient) ilaj** covered hai — OPD checkup aur aam tor par bahir se li gayi dawayan covered nahi hain.
+- Sawal: Hospital ne paise mange to kya karun?
+  Jawab: Covered ilaj par koi cash demand **ghair-qanooni** hai. Paise na dein aur foran apne sube ki helpline par shikayat karein — **KP: 0800-89898, Punjab: 0800-09009**. Aksar shikayat par masla foran hal ho jata hai.
+- Sawal: Kya card ki expiry hoti hai? Renew karna parta hai?
+  Jawab: Card ki koi fixed expiry nahi — jab tak aap eligible hain, coverage **har saal auto-renew** hoti hai. Bas CNIC valid aur NADRA family record updated rakhein.
+
+### Pakistan Me Succession Certificate Ka Tareeqa (2026): NADRA Se Warasat Ka Certificate
+URL: https://igaf.me/guides/succession-certificate-banane-ka-tareeqa
+Category: Certificates
+Khulasa: NADRA Succession Certificate aur Letter of Administration lene ka mukammal tareeqa — official fee Rs 10,000 / Rs 20,000 (2026), zaroori kagzaat, Succession Facilitation Unit me step-by-step process, 14-din objection period, waqt aur aksar poche jane wale sawal.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Kya Succession Certificate ke liye adalat jana lazmi hai?
+  Jawab: Nahi — agar sab waris muttafiq hain aur koi tanaza nahi to NADRA ke Succession Facilitation Unit se hi certificate mil jata hai, jo adalat ke certificate jitna hi qanooni hai. Tanaza, gayab waris ya Decline Certificate ki surat me hi civil court jana parta hai.
+- Sawal: NADRA Succession Certificate ki fee kitni hai?
+  Jawab: NADRA ki official fee schedule ke mutabiq: assets Rs 100,000 se kam hon to Rs 10,000, aur Rs 100,000 ya zyada hon to Rs 20,000 (jahan applicable ho wahan mazeed Rs 2,000). Duplicate ya amended certificate Rs 5,000 ka hota hai. Fee approval ke baad pay hoti hai, upfront nahi — aur apply karne se pehle helpline 1777 se confirm kar lein.
+- Sawal: Succession Certificate lene me kitna waqt lagta hai?
+  Jawab: Notice publish hone ke baad official objection period 14 din hai. Amali tor par aik mukammal aur ghair-mutanaza case me **15–30 working days** lagte hain — is me kagzaat ki tayyari aur tamam waris ki biometric verification ka waqt shamil hai.
+- Sawal: Kya bahir-mulk rehne wala waris bhi apply kar sakta hai?
+  Jawab: Ji haan. Har waris ki biometric verification aur consent lazmi hai, lekin ye Pak ID mobile app ke zariye ya muqarrar Pakistan mission par di ja sakti hai. Application khud aik waris Succession Facilitation Unit me file karta hai.
+- Sawal: Succession Certificate aur Letter of Administration me kya farq hai?
+  Jawab: Succession Certificate marhoom ki **movable** jaidad (bank balance, shares, prize bonds, gaari) ke liye hota hai, jabke Letter of Administration **immovable** jaidad (plot, makaan, zameen) ke liye. Dono ke liye aik hi application hoti hai aur aik hi fee schedule laagu hota hai.
+- Sawal: Agar koi waris aitraz kar de to kya hota hai?
+  Jawab: Agar 14-din ke notice period me koi aitraz aata hai ya waris me tanaza ubharta hai to NADRA case decline kar ke **Decline Certificate** jari karta hai. Us ke baad muamla Succession Act 1925 ke tehat **civil court** me jata hai, jahan adalat faisla karti hai. > **Source note:** Is guide ki fee (Rs 10,000 / Rs 20,000 / Rs 5,000), required documents, 14-din objection period aur apply channels ki maloomat NADRA ki official fee schedule aur Succession Facilitation Unit ki official guidelines se **21 October 2026** ko check ki gayi hain. Fee aur process waqton-waqton par badal sakta hai — apply karne se pehle NADRA helpline **1777** (24/7) ya apne qareebi Succession Facilitation Unit se confirm kar lein.
+
+### Pakistan Me University Se Duplicate Degree Aur Transcript Ka Tareeqa (2026): Gumshuda Sanad Dobara
+URL: https://igaf.me/guides/university-duplicate-degree-transcript
+Category: Certificates
+Khulasa: University ki degree ya transcript gum ho jaye to dobara kaise nikalwayen — duplicate degree, DMC/transcript ka form, official fee, zaroori kagzaat aur step-by-step tareeqa.
+Aksar Poche Jane Wale Sawal:
+- Sawal: Duplicate degree ki qanooni hesiyat asal degree jesi hoti hai?
+  Jawab: Ji haan. Duplicate degree par "Duplicate" ki mohar zaroor lagi hoti hai, lekin ye university ki mohar aur dastakhat ke saath jari hoti hai aur iski qanooni hesiyat asal sanad jesi hi hai. Naukri, admission, visa aur attestation ke liye ye bilkul qabool hoti hai.
+- Sawal: Degree aur transcript (DMC) me kya farq hai?
+  Jawab: Degree wo final sanad hai jis par degree ka naam, passing year aur division ya CGPA hota hai. Transcript ya DMC me har mazmoon ke alag number aur grade darj hote hain. Bahar mulk ki universities aksar transcript mangti hain, jabke naukri ke liye aksar degree kaafi hoti hai. Dono alag kagzaat hain aur dono ki duplicate alag alag nikalwani parti hai.
+- Sawal: Duplicate degree ki fee kitni hai?
+  Jawab: Fee har university ki alag hoti hai. University of the Punjab ke official form ke mutabiq duplicate degree ki fee Rs 2,150 hai, DMC ki bhi Rs 2,150 hai aur verification letter ki Rs 1,375 hai. Berun-e-mulk ke talaba ke liye ye fee US $35 hai. Apni university ki maujooda fee uske form ya website se zaroor confirm karein, kyunke fee revise ho sakti hai.
+- Sawal: Kya duplicate degree ke liye khud university jana zaroori hai?
+  Jawab: Zaroori nahi. Kai universities online portal ya daak ke zariye darkhwast qabool karti hain, aur sanad courier se bhej deti hain. Lekin agar apka record purana hai ya portal me data nahi mil raha to counter par jana behtar hota hai. Apply karne se pehle university ke degree section se tareeqa confirm kar lein.
+- Sawal: Agar asal degree baad me mil jaye to kya karein?
+  Jawab: Asal sanad milne par use university ko wapas kar dena chahiye, kyunke affidavit me ap ye wada kar chuke hote hain ke sanad gum hui hai. Dono sanadein aik saath istemal karna ghalat hai aur mustaqbil me verification ke waqt masla paida kar sakta hai. *Note: Is guide ki fee aur process ki maloomat University of the Punjab (pu.edu.pk) ke official degree form se li gayi hai, jo 25 October 2026 ko check kiya gaya tha. Har university ki fee aur form mukhtalif ho sakta hai, is liye apply karne se pehle apni university ki official website ya degree section se maujooda fee aur tareeqa zaroor confirm karein.*
+
+## Official Sarkari Websites
+- NADRA (CNIC, B-Form): https://www.nadra.gov.pk
+- FBR (tax, filer status): https://www.fbr.gov.pk
+- HEC (degree attestation): https://www.hec.gov.pk
+- Punjab Land Records Authority (fard, zameen record): https://www.punjab-zameen.gov.pk
+- Excise and Taxation Punjab (gaari registration, token tax): https://excise.punjab.gov.pk
