@@ -33,6 +33,9 @@ NTN (National Tax Number) ke liye koi office nahi jana — poora process online 
 
 **Registration fail ho to?** Sab se aam wajah hai ke aap ka **mobile number aap ke apne CNIC par registered nahi** hai. Pehle apni SIM apne CNIC par hone ki tasdeeq karein (biometric verification franchise se ho jati hai), phir dobara koshish karein. Bar-bar ghalat submit na karein — CNIC manual review me ja sakta hai.
 
+
+![Tax return aur filer banne ke liye documents aur hisaab kitab](https://images.pexels.com/photos/6863178/pexels-photo-6863178.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Step 2: Tax Return File Karna (Asal Kaam Yahi Hai)
 
 **Sirf NTN lene se aap filer Nahi bante** — filer banne ke liye **saalana income tax return** file karna lazmi hai:
@@ -140,6 +143,9 @@ Sirf **taxable aamdani** par tax lagta hai — kam aamdani ho to nil return file
 
 **IRIS ka password bhool gaya to?**
 Portal par **"Forgot Password"** se CNIC aur registered mobile par OTP aayega — naye password bana lein. Password kisi ke saath share na karein.
+
+
+![Calculator aur tax documents — income ka sahi hisaab filer banne ki sharth hai](https://images.pexels.com/photos/6963053/pexels-photo-6963053.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Pehli Return Ke Liye Asaan Trick
 

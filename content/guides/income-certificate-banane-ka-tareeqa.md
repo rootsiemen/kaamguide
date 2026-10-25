@@ -22,6 +22,9 @@ Income certificate banwane ka tareeqa aap ke **peshe** par munhasir hai — ghal
 
 Dono suraton me maqsad aik hai: **aamdani ka qabil-e-aitbar saboot** tayyar karna jo mutaliqa idara (PEEF, Zakat Committee, Bait-ul-Maal) qabool kare.
 
+
+![Income certificate ke liye salary documents aur paperwork](https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: Pehle Se Tayyar Rakhein
 
 Kaam par nikalne se pehle ye kagzaat jama kar lein (PEEF ke official scholarship form ke mutabiq):
@@ -82,6 +85,9 @@ Tasdeeq ke liye: e-Khidmat Markaz toll-free **0800-09100** (24/7) ya short code 
 4. **Asal affidavit de kar copy na rakhna** — dobara zaroorat parne par phir se poora process karna parta hai.
 5. **Akhri tareekh ka intezar karna** — scholarship ya zakat ki deadline se 2-3 hafte pehle affidavit tayyar kar lein; rash me attestation me din lag sakte hain.
 6. **Ghalat authority se attestation** — aise shakhs se mohar lagwana jo majaz na ho; sirf Tehsildar/Naib Tehsildar/AC ya UC Chairman ki attestation qabil-e-qabool hai.
+
+
+![Daftar ke documents — aamdani ke saboot ke kagzaat tayyar karna](https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

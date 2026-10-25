@@ -34,6 +34,9 @@ Sab se ahem baat: **card muft hai, koi premium nahi, aur koi agent ya middleman 
 
 > **Note:** Coverage ki haden waqtan-fo-waqtan revise hoti hain. Oopar di gayi rakamain **October 2026 me published reports se li gayi** hain — ilaj plan karne se pehle apne sube ki helpline (KP: 0800-89898, Punjab: 0800-09009) par maujooda limit zaroor confirm kar lein.
 
+
+![Hospital me ilaaj — sehat card par muft ilaaj ki sahulat](https://images.pexels.com/photos/6129240/pexels-photo-6129240.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Ehliyaat Check Karne Ke Tareeqe
 
 ### Tareeqa 1: SMS (Sab Se Tez)
@@ -113,6 +116,9 @@ Covered ilaj par koi cash demand **ghair-qanooni** hai. Paise na dein aur foran 
 
 **Kya card ki expiry hoti hai? Renew karna parta hai?**
 Card ki koi fixed expiry nahi — jab tak aap eligible hain, coverage **har saal auto-renew** hoti hai. Bas CNIC valid aur NADRA family record updated rakhein.
+
+
+![Doctor mareez ka checkup — sehat sahulat program ke empaneled hospitals](https://images.pexels.com/photos/6129444/pexels-photo-6129444.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Sehat Aur Documents Se Mutaliqa Mazeed Guides
 

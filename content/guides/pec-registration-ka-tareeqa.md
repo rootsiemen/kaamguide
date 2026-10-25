@@ -26,6 +26,9 @@ PEC me Registered Engineer banne ke liye ye shartein hain:
 
 Agar aap ki university ya program PEC-accredited nahi hai to pehle apni university se rabta karein — aksar universities accreditation ke amal me hoti hain aur is ka hal university ki taraf se hi nikalta hai.
 
+
+![Engineer site par kaam karte hue — PEC registration engineers ke liye lazmi hai](https://images.pexels.com/photos/8961146/pexels-photo-8961146.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Official Fee: PEC Ki Published Fee Table
 
 Ye fee **PEC ki official website (pec.org.pk)** par published fee table se li gayi hai — koi andaza nahi:
@@ -139,6 +142,9 @@ Agar application me koi kami ho to PEC portal par ittila deta hai — kami poori
 - [HEC Recognized Universities Check](/guides/hec-recognized-universities-check) — admission ya nokri se pehle university ki HEC recognition check karein
 - [HEC Degree Verification Online](/guides/hec-degree-verification-online) — degree ki online verification ka tareeqa
 - [IBCC Attestation Ka Tareeqa](/guides/ibcc-attestation-ka-tareeqa) — school documents ki attestation
+
+
+![Construction site — PEC registered engineer ki pehchan](https://images.pexels.com/photos/34965713/pexels-photo-34965713.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

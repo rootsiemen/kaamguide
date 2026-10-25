@@ -22,6 +22,9 @@ Verification attestation se alag cheez hai:
 3. **Apni degree check karne ke liye:** Attestation ke baad khud verify karke tasalli kar lein ke aap ka record system me sahi darj hai — naam ki spelling waghera.
 4. **Purani attestation par shak ho to:** Kisi candidate ki purani (manual daur ki) attestation ki tasdeeq ke liye bhi HEC ka system istemal hota hai.
 
+
+![Graduation ceremony — degree ki online verification har jagah qabool hai](https://images.pexels.com/photos/30562665/pexels-photo-30562665.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Step-by-Step: QR Code Se Verification
 
 1. Degree ke sath mila **e-Attestation Certificate** lein — us par QR code aur certificate number chhapa hota hai.
@@ -63,6 +66,9 @@ Isi tarah foreign degree walon se **equivalence letter** manga jata hai aur us k
 - **Verification ki fee?** E-attestation certificate ka QR/portal check aam verification ke liye system ka hissa hai — kisi ko degree check karne ke liye daftar jane ki zaroorat nahi.
 - **Certificate kho gaya?** Portal account se dobara download ho jata hai.
 - **Transcript verify ho sakta hai?** Jo document attest hua hai (degree ya transcript), usi ka record verify hota hai.
+
+
+![Degree ka record online verify karna — HEC portal se tasdeeq](https://images.pexels.com/photos/7713511/pexels-photo-7713511.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

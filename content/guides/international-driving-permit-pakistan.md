@@ -29,6 +29,9 @@ IDP har koi nahi le sakta. Apply karne se pehle ye shartein poori hona lazmi hai
 
 Agar aap ka passport abhi nahi bana to pehle [Pakistan passport banane ka tareeqa](/guides/pakistan-passport-banane-ka-tareeqa) guide dekh lijiye, kyun ke baghair passport ke IDP ki application age nahi barhegi.
 
+
+![Beroon-e-mulk driving — international driving permit ke sath gaari chalana](https://images.pexels.com/photos/2553410/pexels-photo-2553410.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: License, Passport, Visa Aur Photos
 
 Punjab Traffic Police ki official website (trafficpolice.punjab.gov.pk) ke mutabiq International Driving License ke liye ye kagzaat darkar hain:
@@ -116,6 +119,9 @@ Permit ya to aap ko counter se mil jayega, ya courier ke zariye aap ke CNIC par 
 6. **Sirf IDP le kar videsh jana:** IDP aap ke national license ka tarjuma hai, us ki jagah nahi. Videsh me gaari chalate waqt Pakistani license, IDP aur passport teeno sath rakhein.
 7. **Address update na karna:** Courier IDP aap ke CNIC par registered address par bhejta hai. Agar address purana hai to card gum ho sakta hai — NADRA record update rakhein.
 8. **Destination mulk ke qawaneen na parhna:** Har mulk ke apne traffic rules hain — kuch mulkon me IDP ke sath local registration ya insurance bhi darkar hota hai. Safar se pehle us mulk ke rules zaroor check karein.
+
+
+![Driving license ki checking — IDP ke liye Pakistani license lazmi hai](https://images.pexels.com/photos/28336659/pexels-photo-28336659.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

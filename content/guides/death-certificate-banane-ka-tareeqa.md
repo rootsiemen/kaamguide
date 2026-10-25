@@ -36,6 +36,9 @@ Is guide ki sab se khush-aind khabar ye hai: pehle Union Council se death regist
 | Sindh | **Muft (Rs 0)** | **Muft (Rs 0)** | Court decree nahi lagta |
 | KP / Balochistan | Union Council se confirm karein | Union Council se confirm karein | Union Council se confirm karein |
 
+
+![Death certificate ke liye qanooni documents ki tayyari](https://images.pexels.com/photos/8730998/pexels-photo-8730998.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: File Pehle Se Taiyar Kar Lein
 
 Kaghaz na-mukammal hona sab se aam wajah hai jis se logon ke chakkar lagte hain. Ghar se nikalne se pehle ye tamam kagzaat ikatthe kar lein:
@@ -96,6 +99,9 @@ Waqt ka doraniya soobe aur case ki noiyat par munhasir hai, lekin aam practice y
 4. **Ghar par wafat par gawah ka intezam na karna** — hospital ki death slip na ho to do gawahon ke CNIC aur affidavit lazmi hain. Gawah pehle se tay kar lein.
 5. **Agenton ko paise dena** — koi bhi agent sarkari fee se zyada lekar "tez" certificate nahi bana sakta. Punjab/Sindh me ye kaam muft hai — agent ko diya gaya paisa seedha zaya hai.
 6. **Certificate wasool kar ke check na karna** — naam, tareekh ya CNIC me ghalti foran pakri jaye to usi waqt theek ho jati hai. Ghar ja kar ghalti nikalna matlab dobara chakkar.
+
+
+![Union council me waft ka indiraj aur certificate ke documents](https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

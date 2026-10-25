@@ -34,6 +34,9 @@ Apply karne se pehle apne case ka jayza lein — NADRA ka raasta sab ke liye nah
 
 NADRA ka raasta **barabar legal authority** rakhta hai adalat ke certificate ki tarah (2025 ke amendment ke baad se) — bank, zameen ka daftar aur har idara NADRA ka jari karda certificate qabool karta hai. Farq sirf waqt aur cost ka hai, haisiyat ka nahi.
 
+
+![Adalat ka gavel — succession certificate adalat/NADRA se milta hai](https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat
 
 File adhoori hui to case ruk jata hai — ye Pakistan ke Succession Facilitation setup ki **official requirements** hain, ye tamam kagzaat jama kar lein **apply karne se pehle**:
@@ -112,6 +115,9 @@ Official timeline **notice ki publication ke baad 14 din** hai — lekin ye poor
 - **Fee pehle pay kar dena:** Fee sirf office ki approval ke baad pay karein — approved hone se pehle payment ka koi faida nahi.
 - **Sindh/Balochistan me khud apply karna:** Wahan application wakil ke zariye file hoti hai — khud jane se waqt zaya hoga.
 - **Assets ki adhoori list:** Jo asset list me nahi, us par certificate nahi milega — baad me amended certificate ke liye alag fee aur waqt lagega.
+
+
+![Wirasat ke documents — succession ke liye warison ke kagzaat](https://images.pexels.com/photos/261621/pexels-photo-261621.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

@@ -22,6 +22,9 @@ Equivalence aur attestation do alag cheezen hain, aur yahin sab se zyada confusi
 - **Promotion aur service records** ke liye jahan foreign degree darj karwani ho
 - Kayi **private idaron aur banks** ko bhi joining par equivalence letter mangna parta hai
 
+
+![Beroon-e-mulk university — wahan ki degree ke liye HEC equivalence lazmi hai](https://images.pexels.com/photos/39234285/pexels-photo-39234285.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Fee
 
 | Item | Fee |
@@ -79,6 +82,9 @@ Aam tor par **15-30 working days** — lekin asal raftar university verification
 3. **University ko follow up na karna:** Verification university ke jawab par ruki hoti hai — registrar ko email karna aap ka kaam hai.
 4. **CGPA ki umeed:** Letter par grades nahi ate — employer ko ye pehle se wazeh kar dein ke HEC sirf level deta hai.
 5. **Incomplete degree:** Jo degree mukammal hi nahi hui, us ki equivalence nahi banti. Us surat me sirf "University Recognition Status letter" mil sakta hai (us ki koi fee nahi).
+
+
+![Foreign degree documents — equivalence certificate ke liye darkhwast](https://images.pexels.com/photos/8197534/pexels-photo-8197534.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

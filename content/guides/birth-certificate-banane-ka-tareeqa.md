@@ -26,6 +26,9 @@ NADRA ke naye Birth and Death Registration System ke tehat ab **Union Council ka
 
 **Ahem:** Fee har Union Council me thodi alag hoti hai — kuch me Rs 100, kuch me Rs 300. Apni UC office se pehle confirm kar lein. Raseed lazmi lein — baghair raseed ke certificate par aitbaar na karein.
 
+
+![Birth certificate ke liye zaroori documents](https://images.pexels.com/photos/7821576/pexels-photo-7821576.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat
 
 - Bache ki pedaish ka **hospital birth slip** (hospital se milti hai — isi par date aur waqt likha hota hai)
@@ -154,6 +157,9 @@ Aik bache ke zindagi bhar ye documents jama hote hain — birth certificate, B-F
 - **Scan files** (mobile me bhi)
 
 Jab koi kaam aayega to aap ko pata hoga sab kahan hai. Walidain ka sab se bara dushman **document ka gumna** hai, process nahi — process to is guide me likha hi hua hai.
+
+
+![Hospital me paidaish ki registration — birth certificate ki buniyad](https://images.pexels.com/photos/39845510/pexels-photo-39845510.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## File Me Rakhein
 

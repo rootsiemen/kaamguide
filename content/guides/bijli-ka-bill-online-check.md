@@ -35,6 +35,9 @@ Pakistan me bijli taqseem karne wali companies (DISCOs) ilaaqe ke hisab se mukht
 
 Aap ke **purane bill ke upar** company ka naam saaf likha hota hai — wahan se confirm kar lein.
 
+
+![Bijli ka bill haath me — online bill check karna ab mobile se asaan hai](https://images.pexels.com/photos/14423443/pexels-photo-14423443.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Step 2: Reference Number Kya Hai Aur Kahan Milta Hai
 
 Reference number aap ke bijli account ki **unique pehchan** hai:
@@ -149,6 +152,9 @@ Agar naye ghar me bijli ka connection hi nahi:
 4. DISCO ki team **survey** karke meter lagayegi — ye process ilaaqe ke hisab se hafton se mahino tak le sakta hai.
 
 **Kharcha:** Demand notice ki raqam load (units ki capacity) par munhasir hoti hai — ghar ke liye aam tor par chand hazar hote hain. Office se pehle **estimate** zaroor le lein.
+
+
+![Bijli ka meter — meter number bill par likha hota hai jo online check ke liye chahiye](https://images.pexels.com/photos/11924298/pexels-photo-11924298.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Agla Qadam: Bill Payment Ka Auto-Reminder
 

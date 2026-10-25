@@ -24,6 +24,9 @@ Status check karne se pehle aap ko apna **token number** chahiye — ye 11 digit
 
 **Agar token gum ho gaya ho** to pareshan na hon — apne CNIC ke saath usi Regional Passport Office jayein jahan apply kiya tha; record se token dobara nikala ja sakta hai. Passport banwane ka poora tareeqa hamari [passport guide](/guides/pakistan-passport-banane-ka-tareeqa) me mojood hai.
 
+
+![Passport application ka status online track karna](https://images.pexels.com/photos/5242822/pexels-photo-5242822.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Tareeqa 1: SMS 9988 Se Status Maloom Karna (Sab Se Asaan)
 
 **9988 DGIP ka official SMS short code hai** — is ki tasdeeq DGIP ki apni website par mojood official notice ("hiring of SMS service through 9988 short code") se hoti hai. DGIP is system ko **"SMS based Passport Tracking Intimation System"** kehta hai, aur is ke zariye applicants ko passport ke marahil (printing, shipment/delivery) ki ittila bhi bheji jati hai — us mobile number par jo aap ne data entry ke waqt diya tha.
@@ -95,6 +98,9 @@ DGIP ke official waqt (production fee confirm hone ke baad shuru hote hain):
 4. **Collection date se pehle office ke chakkar** — token par likhi tareekh se pehle jane se waqt zaya hota hai, passport pehle nahi milta.
 5. **"Deferred" status ko nazar-andaz karna** — is ka matlab hai aap ki taraf se koi kaam baqi hai; DGIP ki call ka intezar karein ya khud rabta karein, warna file atki rahegi.
 6. **Agenton ko paise dena** — status check karna muft hai (9988 par sirf aam SMS charges). Koi agent "jaldi nikalwane" ke paise mange to DGIP helpline par report karein.
+
+
+![Mobile phone par passport status ki checking — SMS aur online dono tareeqe](https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

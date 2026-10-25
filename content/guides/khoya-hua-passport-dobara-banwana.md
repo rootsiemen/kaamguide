@@ -31,6 +31,9 @@ Khoye hue passport ke liye apply karte waqt aap ke paas ye kagzaat lazmi hone ch
 
 Aik sawal aksar pucha jata hai ke kya stamp paper par halafnama (affidavit) bhi chahiye? DGIP ke official daftar me stamp paper par halafname ka koi lazmi zikar nahi hai. Zaroori cheez police ki FIR/report aur "Report my Loss" ka record hai. Lekin kuch offices case ki noiyat dekh kar izafi kagaz mang lete hain, is liye apply karne se pehle apne sheher ke Regional Passport Office ki helpline se confirm kar lena behtar hai. Agar aap [CNIC banane ka tareeqa](/guides/nadra-cnic-banane-ka-tareeqa) ya [passport banane ka mukammal tareeqa](/guides/pakistan-passport-banane-ka-tareeqa) pehle se jante hain, to ye process aap ke liye aur bhi asaan ho jayega.
 
+
+![Pakistani passport — kho jaye to dobara banwana ka process alag hai](https://images.pexels.com/photos/7009478/pexels-photo-7009478.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## 2026 Ki Official Fees: Normal, Urgent Aur Lost-Passport Fine
 
 October 2026 se naya passport sirf e-passport ke roop me jari hoga. DGIP ke published schedule ke mutabiq aam (non-lost) e-passport ki fees ye hain:
@@ -115,6 +118,9 @@ Status track karne ke liye apna 11-digit token number sambhal kar rakhein aur SM
 7. **Teesri dafa kho jane ko halka lena** — teesri dafa passport kho jane par case seedha DGIP Islamabad jata hai aur naya passport manzoori ke baghair nahi milta. Passport ko hamesha mehfooz jagah par rakhein.
 
 8. **Urgent category chunte waqt fee ka hisab na karna** — urgent fee normal se zyada hoti hai aur lost-passport fine us par bhi apply hoti hai. Budget tay kar ke hi category chunein, aur final raqam portal par confirm karein.
+
+
+![Passport documents — gumshuda passport ki report pehle darj karwayein](https://images.pexels.com/photos/29402988/pexels-photo-29402988.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

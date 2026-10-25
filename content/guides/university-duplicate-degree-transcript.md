@@ -19,6 +19,9 @@ Apply karne se pehle ye faisla kar lein ke apko asal me kya chahiye, kyunke ghal
 
 Bahar mulk ke liye documents bhej rahe hain to aik aur baat zehen me rakhein: aksar evaluation agencies (jaise WES) university se sealed envelope me bheji hui transcript mangti hain, jo apke haath me di hui khuli transcript se alag hoti hai. Iska tareeqa [HEC sealed envelope WES](/guides/hec-sealed-envelope-wes) wali guide me tafseel se diya gaya hai. Aur jab duplicate degree mil jaye to uski tasdeeq ke liye [HEC degree verification online](/guides/hec-degree-verification-online) ka amal apnaya jata hai, jabke degree ki attestation ka tareeqa [HEC degree attestation](/guides/hec-degree-attestation) wali guide me hai. Is guide me hum sirf duplicate degree aur transcript nikalwane ka tareeqa cover karenge.
 
+
+![University degree — duplicate degree ke liye university ko darkhwast di jati hai](https://images.pexels.com/photos/16173473/pexels-photo-16173473.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: Form, Challan Aur Tasdeeq
 
 Duplicate degree ya transcript ke liye university ko ye yaqeen chahiye hota hai ke ap wahi shakhs hain jis ke naam degree jari hui thi, aur sanad waqai gum hui hai. Is liye har university taqreeban yehi kagzaat mangti hai — farq sirf form ki shakal aur fee ki rakam ka hota hai:
@@ -92,6 +95,9 @@ Status maloom karne ke liye apne receipt ya tracking number ke saath degree sect
 - **Agent ko paisay dena:** Koi agent university se duplicate degree "jaldi" nahi nikalwa sakta. Jo paisay le kar jaldi ka wada kare, wo fraud hai — sirf official tareeqa apnayen.
 - **Purani sanad milne par chupana:** Agar duplicate milne ke baad asal sanad mil jaye to use university ko wapas kar dena chahiye, kyunke affidavit me ap ye wada kar chuke hote hain.
 - **HEC se duplicate mangna:** HEC degree jari nahi karta, is liye HEC ko darkhwast bhejna waqt ka zaya hai. Pehle university, phir zaroorat par HEC attestation.
+
+
+![Graduation caps — duplicate transcript aur degree ka process](https://images.pexels.com/photos/32273767/pexels-photo-32273767.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

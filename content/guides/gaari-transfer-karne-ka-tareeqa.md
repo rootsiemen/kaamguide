@@ -27,6 +27,9 @@ Pakistan me bohat se log gaari khareed kar **"transfer letter par"** chala lete 
 | Car — 1800cc se zyada | **Rs 3,000** |
 | Heavy Transport Vehicle (HTV) | **Rs 4,000** |
 
+
+![Gaari ki chaabi naye malik ke hawale — transfer ka akhri marhala](https://images.pexels.com/photos/8482859/pexels-photo-8482859.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Is Ke Ilawa: Withholding Tax (Filer vs Non-Filer)
 
 Transfer fee ke ilawa gaari ki **qeemat par withholding tax (WHT)** lagta hai — aur yahan **filer hona lakhon bacha sakta hai**:
@@ -144,6 +147,9 @@ Aam tor par **number wahi rehta hai** — sirf malkiat ka record aap ke naam hot
 
 **Kya Friday ko Excise office khula hota hai?**
 Punjab ke Excise offices **Monday se Saturday** aam tor par khule hote hain (Friday ko break ke saath) — jane se pehle phone par timing confirm kar lein.
+
+
+![Gaari khareed o farokht — transfer se pehle documents check karein](https://images.pexels.com/photos/2810140/pexels-photo-2810140.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Transfer Wali Din: Waqt Ki BACHAT Ke Tips
 

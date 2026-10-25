@@ -41,6 +41,9 @@ Permanent license se pehle **learner license** lena lazmi hai — ye aap ka "see
 
 Learner license milne ke baad **kam-az-kam 42 din** guzarna zaroori hai — is se pehle aap permanent license ke test ke liye eligible nahi hain. Ye waqt driving seekhne ke liye hai. Is doran learner license saath rakh kar gaari chala sakte hain (behtar hai ke saath koi tajurbakar driver ho).
 
+
+![Driving license — license hasil karne se pehle driving seekhna zaroori hai](https://images.pexels.com/photos/45113/pexels-photo-45113.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Step 2: Sign Test Aur Driving Test
 
 42 din poore hone ke baad qareebi **Traffic Police Licensing Center** jayen. Wahan do test hote hain:
@@ -164,6 +167,9 @@ Nahi — driving license ke liye 18 saal ki umar lazmi hai.
 
 **License gum ho jaye to?**
 DLIMS se **duplicate** ke liye apply karein — motorcycle ke liye Rs 100, car ke liye Rs 150 fee hai. Gumshudgi ki FIR bhi katwa lein.
+
+
+![Gaari chalate hue — driving test ki tayyari](https://images.pexels.com/photos/19477337/pexels-photo-19477337.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Pehli Dafa Test Dene Walon Ke Liye
 

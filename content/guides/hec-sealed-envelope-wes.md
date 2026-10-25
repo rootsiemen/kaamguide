@@ -25,6 +25,9 @@ If you searched for **"HEC sealed envelope for WES"** or **"HEC Pakistan WES ECA
 
 The full step-by-step process in Roman Urdu is given below.
 
+
+![Sealed envelope — HEC se attested documents band lifafe me diye jate hain](https://images.pexels.com/photos/9270578/pexels-photo-9270578.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Kis Ko Sealed Envelope Chahiye Hota Hai
 
 - **WES Canada** — Express Entry aur Canadian immigration ke liye ECA; Pakistani degrees ke liye HEC-attested copies sealed envelope me mangta hai
@@ -120,6 +123,9 @@ Nahi. Matric/Inter ki attested copies board aur IBCC ke alag envelope me jati ha
 
 **Kitna waqt lagta hai poore process me?**
 Attestation (university verification samet) aam tor par 10-15 working days, phir copies ki attestation aur sealing, aur Canada/USA courier ke 3-7 din. Kul mila kar **4-6 hafte pehle** shuru karna mehfooz hai.
+
+
+![Documents ki post — WES ke liye sealed envelope courier karna hota hai](https://images.pexels.com/photos/4968675/pexels-photo-4968675.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## HEC Aur Attestation Ki Mazeed Guides
 

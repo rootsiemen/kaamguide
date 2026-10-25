@@ -32,6 +32,9 @@ Punjab me registered gaari/bike ke liye:
 
 **Verification bilkul muft hai** — koi site ya agent is ke paise mange to samajh jayen dhoka hai.
 
+
+![Gaari ki physical inspection — verification ke liye gaari check hoti hai](https://images.pexels.com/photos/8986148/pexels-photo-8986148.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Tareeqa 2: SMS Se Verification (Internet Ke Baghair)
 
 Mobile se gaari ka registration number likh kar apne soobe ke code par bhej dein:
@@ -153,6 +156,9 @@ Second-hand gaari len se pehle **hamesha ye 3 kaam karein** — chahe bechne wal
 3. **Token tax status** — 1 minute, MTMIS par hi.
 
 Kul **8 minute** ka kaam lakhon ka nuqsan rok sakta hai. Aur yaad rakhein — verification karne par bechne wala naraaz ho to samajh jayein ke sauda us se **zyada** ahem hai jitna wo jata raha hai.
+
+
+![Mechanic gaari check karte hue — MTMIS verification me record match karna zaroori hai](https://images.pexels.com/photos/8985450/pexels-photo-8985450.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aik Akhri Hidayat
 

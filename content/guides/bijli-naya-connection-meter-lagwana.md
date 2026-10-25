@@ -25,6 +25,9 @@ Is ke saath load bhi tay karna hota hai — aam ghar ke liye 5 kilowatt tak ka l
 
 Single phase aur three phase ka farq bhi samajh lein: aam ghar me single phase meter lagta hai, jabke bari imarat, factory ya zyada load wali jaga par three phase meter lagta hai. Three phase ki demand notice ki rakam single phase se zyada hoti hai, kyunke is me zyada saman aur kaam lagta hai.
 
+
+![Naya bijli meter lagwana — connection ke liye meter ki installation zaroori hai](https://images.pexels.com/photos/12207608/pexels-photo-12207608.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: Apply Karne Se Pehle Tayyar Rakhein
 
 Naye connection ke liye darkhwast ke saath ye kagzaat lagte hain. Kagzaat na-mukammal hone par darkhwast wapas ho jati hai, is liye apply karne se pehle sab kuch tayyar rakhein:
@@ -97,6 +100,9 @@ Aik aur zaroori baat: demand notice ki muddat ka khayal rakhein. Agar demand not
 - **Parosi ka ghalat reference number:** Form me parosi ka reference number durust likhein, warna location ki verification atak jati hai.
 - **Demand notice ki raseed na jama karwana:** Bank me paisay jama karwana kaafi nahi — raseed ki copy office me jama karwana lazmi hai, warna meter nahi lagta.
 - **Wiring adhoori chorna:** Meter lagane wali team wiring check karti hai. Agar wiring ghair mehfooz hui to meter nahi lagega aur dobara visit ka intizar karna hoga.
+
+
+![Bijli connection ki darkhwast aur documents ki tayyari](https://images.pexels.com/photos/11837451/pexels-photo-11837451.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

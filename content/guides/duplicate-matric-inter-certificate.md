@@ -30,6 +30,9 @@ Mulk ke aham boards ye hain:
 
 Ghalat board me darkhwast dena waqt aur paisay dono ka zaya hai, is liye apply karne se pehle apna board pukhta kar lein. Board ki official website par apna roll number aur passing year dal kar bhi apna record verify kiya ja sakta hai. Board sanad ke baad university ki degree ki tasdeeq ke liye [HEC degree verification online](/guides/hec-degree-verification-online) ka amal apnaya jata hai.
 
+
+![Board certificate ke documents — duplicate certificate ke liye sanad ki copy chahiye hoti hai](https://images.pexels.com/photos/3990446/pexels-photo-3990446.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: Affidavit, Newspaper Ad Aur Digar Documents
 
 Duplicate sanad ke liye sirf form bharna kafi nahi hota — board ko ye yaqeen chahiye hota hai ke ap asal me wahi shakhs hain aur sanad waqai gum hui hai, isi liye kuch lazmi kagzaat mange jate hain. Boards ke official forms ke mutabiq ye kagzaat tayyar rakhein:
@@ -110,6 +113,9 @@ Agar muqarrar waqt guzar jaye aur sanad na mile to apni raseed ya diary number l
 6. **Kisi agent ya dalal ko paisay de dena:** Duplicate sanad ka kaam seedha board se hota hai, kisi sifarish ya agent ki zaroorat nahi. Agent aksar zyada paisay le kar wahi kaam karta hai jo ap khud kar sakte hain.
 7. **Naam ya walid ke naam me farq:** Form par naam bilkul wesa likhein jesa purane record me tha. Agar naam me tabdeeli karwani hai to wo alag correction case hota hai, duplicate ke sath nahi hota. Tareekh-e-pedaish ke saboot ke tor par aksar [birth certificate banane ka tareeqa](/guides/birth-certificate-banane-ka-tareeqa) bhi kaam ata hai, aur sarkari mulazmat ke liye [domicile certificate banane ka tareeqa](/guides/domicile-certificate-banane-ka-tareeqa) alag se darkar hota hai.
 8. **Asal sanad milne par board ko wapas na karna:** Affidavit me apne wada kiya hota hai ke asal mil gayi to board ko de denge. Do asnaad rakhna qanooni masla ban sakta hai.
+
+
+![Imtihan dete hue students — board exams ki sanad hi asal certificate ki buniyad hai](https://images.pexels.com/photos/31155018/pexels-photo-31155018.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

@@ -31,6 +31,9 @@ IBCC do qisam ki equivalence deta hai, aur aap apni zaroorat ke mutabiq aik ya d
 
 Aik aur ahem shart: **HSSC equivalence ke liye SSC ya us ke barabar qualification pehle se hona lazmi hai**. Yani A Levels ki equivalence tabhi milegi jab O Levels ki equivalence (ya us ke barabar) mojood ho. Dono ke liye aik saath bhi apply kiya ja sakta hai — form me "Both" ka option mojood hai.
 
+
+![School certificates — foreign board ki equivalence IBCC se milti hai](https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Official Fee: Har Certificate Rs 6,000
 
 IBCC ki fee IBCC ke official equivalence form par darj hai — ye rakam andaze par nahi, balkay IBCC ki apni published fee hai:
@@ -147,6 +150,9 @@ Is liye asal certificate milte hi is ki 2-3 attested copies banwa kar mehfooz ra
 - [HEC Degree Attestation Ka Tareeqa](/guides/hec-degree-attestation) — degree ki online attestation ka poora process
 - [Duplicate Matric/Inter Certificate](/guides/duplicate-matric-inter-certificate) — gumshuda board certificate dobara nikalwana
 - [HEC Recognized Universities Check](/guides/hec-recognized-universities-check) — admission se pehle university ki HEC recognition check karein
+
+
+![Students ki graduation — O/A level ke baad IBCC equivalence lazmi hai](https://images.pexels.com/photos/38369407/pexels-photo-38369407.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

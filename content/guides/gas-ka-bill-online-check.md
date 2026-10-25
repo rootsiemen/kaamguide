@@ -26,6 +26,9 @@ Pakistan me gas sirf do companies deti hain:
 
 Purane bill ke upar company ka naam likha hota hai — wahan se confirm kar lein. Galat company ki website par number dalne se bill nahi milega.
 
+
+![Gas ka chulha — gas bill online check kar ke adaigi asaan hai](https://images.pexels.com/photos/25852330/pexels-photo-25852330.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Consumer Number Kya Hota Hai Aur Kahan Milta Hai
 
 Consumer number aap ke gas connection ki **unique pehchan** hai:
@@ -144,6 +147,9 @@ Pehle bill me **security deposit** ki qist aur meter rent shamil hota hai — is
 
 **Bill ki duplicate copy UC/bank ke liye chahiye ho to?**
 Online download kiya bill **print karke** UC, bank ya kisi bhi daftar me address proof ke tor par diya ja sakta hai — ye official bill hai.
+
+
+![Kitchen me gas stove — SNGPL/SSGC bill meter reading par banta hai](https://images.pexels.com/photos/13422435/pexels-photo-13422435.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Gas Connection Name Transfer (Ghar Badalne Par)
 

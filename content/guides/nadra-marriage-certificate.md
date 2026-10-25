@@ -29,6 +29,9 @@ Aksar log samajhte hain ke Nikah Nama hi kaafi hai — **nahi, dono alag hain**:
 3. Agar indraj nahi hua to **asal Nikah Nama** le kar UC me khud indraj karwayen — dono miyan-biwi ke CNIC aur gawahon ki maloomat saath le jayen.
 4. Der se indraj par **late fee** lag sakti hai — is liye 30 din ka waqt zaya na karein.
 
+
+![Shadi ki taqreeb — nikah ke baad marriage certificate NADRA se banta hai](https://images.pexels.com/photos/14578716/pexels-photo-14578716.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Step 2: Computerized Marriage Certificate (MRC) Hasil Karna
 
 UC me indraj ke baad **computerized certificate** ke liye apply karein:
@@ -146,6 +149,9 @@ Aur aik ghar-elu mashwara: tamam documents ki **aik file (folder)** bana kar rak
 ## Aik Sunehri Qaaida
 
 Apne tamam **documents ki aik tasveer mobile me** aur **aik email draft me** rakho — waqt aane par saal ke chakkar maheenon ke chakkar se behtar hain.
+
+
+![Dulha dulhan — computerized marriage certificate ki registration](https://images.pexels.com/photos/8911829/pexels-photo-8911829.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Tez Tareen Kam: 3 Din Ki Plan
 

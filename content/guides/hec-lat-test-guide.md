@@ -23,6 +23,9 @@ Is guide me aap ko milega: eligibility, step-by-step online registration, fee, o
 
 **Ahem:** LAT sirf **5-year LLB** programme ke liye hai. Jin universities/colleges me admission lena hai woh **HEC-recognized** aur **Pakistan Bar Council (PBC)** se manzoor-shuda honay chahiyein — ghair-recognized college ka LLB kahin qabool nahi hota.
 
+
+![Qanoon ki kitabein — LAT test law admission ke liye lazmi hai](https://images.pexels.com/photos/8850741/pexels-photo-8850741.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Fee
 
 | Item | Tafseel |
@@ -134,6 +137,9 @@ Ji, bilkul. LAT sarkari aur private — **har HEC/PBC-recognized** university au
 
 **Degree ke baad HEC se mutaliqa kaam kahan se hoga?**
 LLB mukammal karne ke baad degree ki attestation online DAS se hoti hai — tareeqa [HEC Degree Attestation guide](/guides/hec-degree-attestation) me hai, aur bahir mulk jaane ki surat me [HEC Sealed Envelope guide](/guides/hec-sealed-envelope-wes) kaam ayegi.
+
+
+![LAT test ki tayyari karte hue student](https://images.pexels.com/photos/37898351/pexels-photo-37898351.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## HEC Aur Attestation Ki Mazeed Guides
 

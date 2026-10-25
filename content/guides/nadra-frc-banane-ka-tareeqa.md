@@ -40,6 +40,9 @@ Aur **eligibility ki shart** ye hai ke **khandan ke tamam afraad NADRA me regist
 
 **Sab se ahem baat:** Agar khandan ka koi fard NADRA ke record me **registered hi nahi** to FRC me us ka naam nahi ayega. Pehle us ka CNIC/B-Form banwayen ya record update karwayen — yehi FRC me sab se aam rukawat hai.
 
+
+![Khushi family — FRC me poore khandan ka record hota hai](https://images.pexels.com/photos/7296758/pexels-photo-7296758.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Fee Kitni Hai (Official — 2026)
 
 FRC ki fee NADRA ki official **Fee Structure** me darj hai — aur wahan **sirf Executive column bhara hua hai** (Normal aur Urgent FRC ke liye list hi nahi):
@@ -100,6 +103,9 @@ NADRA ki official Fee Structure me FRC ka timeline **01 din** darj hai:
 5. **Ghalat qisam select karna** — Visa ke liye aksar **by Marriage** chahiye hota hai, log by Birth le aate hain. Embassy ki requirement pehle confirm kar lein.
 6. **Purana mobile number** — NADRA ke record me purana number ho to verification me masla hota hai. Pehle number update karwayen.
 7. **Fee ki receipt na lena** — Counter par fee de kar receipt lazmi lein, yehi aap ka saboot hai.
+
+
+![Family ke documents — FRC ke liye sab afrad ke CNIC chahiye hote hain](https://images.pexels.com/photos/32206234/pexels-photo-32206234.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

@@ -26,6 +26,9 @@ HEC aik nahi, **chaar alag lists** publish karta hai. Sirf aik list dekhna kaafi
 
 HEC apne official public notices me inhi lists ke short links bhi deta hai: **hec.gov.pk/site/HEIs** (recognized universities), **hec.gov.pk/site/recognizedCampuses** (campuses), **hec.gov.pk/site/FCI** (foreign collaboration) aur **hec.gov.pk/site/Illegal-DAIs** (illegal/fake list). Jo idarah in lists me na mile, HEC ke notice ke alfaz me woh **recognized nahi samjha jayega** — baat yahin khatam.
 
+
+![University campus ki building — admission se pehle HEC recognition check karein](https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## DAI Kya Hota Hai — Aur Ye Lafz Kyun Ahem Hai
 
 Lists me aap ko baar baar **DAI** likha milega: **Degree Awarding Institution**. Is ka matlab hai aisa idarah jis ko qanoon (charter) ke zariye **apne naam se degree dene ka ikhtiyar** mila ho. Har university DAI hoti hai, lekin har college DAI nahi hota:
@@ -108,6 +111,9 @@ Sach ye hai ke HEC aisi degree ko attest ya recognize nahi karta, aur koi agent 
 
 **HEC ki lists kab update hoti hain?**
 HEC lists ko waqtan fawaqtan update karta hai — naye charters, naye campuses aur band kiye gaye programmes shamil hote rehte hain. Is liye admission ke **usi season** me dobara check karna lazmi hai; purana screenshot hamesha ka saboot nahi.
+
+
+![University ke students — sirf HEC recognized university se degree valid hoti hai](https://images.pexels.com/photos/31056504/pexels-photo-31056504.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## HEC Aur Attestation Ki Mazeed Guides
 

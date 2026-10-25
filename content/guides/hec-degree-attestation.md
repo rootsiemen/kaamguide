@@ -29,6 +29,9 @@ If you searched for the **HEC attestation process** or **HEC Pakistan attestatio
 
 The full step-by-step process in Roman Urdu is given in the sections below.
 
+
+![University degree aur diploma — HEC attestation ke liye asal degree chahiye](https://images.pexels.com/photos/7972735/pexels-photo-7972735.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Fee (Naya Online System)
 
 | Document | Fee |
@@ -179,6 +182,9 @@ Agar aap **Canada/USA immigration (WES, IQAS, CES)** ke liye ja rahe hain to att
 - Application ke waqt **sealed envelope ka option** select karein.
 - Envelope **khud na kholain** — khula envelope ECA idarah reject kar deta hai.
 - Courier se seedha mutaliqa idare ko bhejne ka intizam karein.
+
+
+![Degree documents — attestation se pehle tamam sanadon ki copies tayyar rakhein](https://images.pexels.com/photos/7723825/pexels-photo-7723825.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## HEC Aur Attestation Ki Mazeed Guides
 

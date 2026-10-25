@@ -27,6 +27,9 @@ Domicile usi **zile se banta hai jahan aap (ya aap ke walid) mustaqil rehte hain
 
 **Kharcha samajh lein:** Certificate ki asal service fee Rs 200 hai, lekin **affidavit (halaf-nama)** par bhi Rs 50-300 lag jate hain — kul kharcha taqreeban **Rs 300-500** samjhein. Agenton ko hazaron dene ki zaroorat nahi.
 
+
+![Domicile certificate ke liye sarkari daftar me darkhwast](https://images.pexels.com/photos/36936160/pexels-photo-36936160.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat
 
 - Apna **CNIC** (asal aur copy) — na ho to B-Form
@@ -160,6 +163,9 @@ Is soorat me **shohar ka CNIC** aur **nikah-nama** lagega — walid ka CNIC tab 
 - Tracking ID mil gayi hai
 
 Ye chaar cheezen theek hon to aap ki file **objection-mukt** rahegi.
+
+
+![Domicile ke liye darkhwast ke documents aur forms](https://images.pexels.com/photos/32201000/pexels-photo-32201000.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Certificate Ke Baad
 

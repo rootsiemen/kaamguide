@@ -17,6 +17,9 @@ Eligibility seedhi hai (official ad ke mutabiq): **HSSC ya 12-year equivalent pa
 
 ETC portal ke mutabiq filhal **koi active ETC test nahi** — haaliya USAT cycle ka portal **2 October 2026 ko band** hua aur test **Sunday, 25 October 2026** ko schedule hai (roll number slips jari ho rahi hain). Is ka matlab: agar aap ne is cycle me apply nahi kiya to ab **agle cycle** ka intezar karein — naye cycle ki registration dates ETC apne **announcement page** par deta hai. Har cycle me apply karne ke liye portal khulne ka intezar karein, purani dates par bharosa na karein.
 
+
+![USAT test dete hue students — undergraduate admission test](https://images.pexels.com/photos/7092523/pexels-photo-7092523.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## 6 Categories: Apni Category Sahi Chunein
 
 Official USAT ad ke mutabiq USAT **6 categories** me hota hai — apne Intermediate ke group ya intended BS program ke mutabiq category chunein. **Submit ke baad category change nahi hoti**, is liye faisla dhyaan se karein:
@@ -103,6 +106,9 @@ HEC ki official FAQ ke mutabiq ETC ke tests **quarterly** hote hain. Haaliya cyc
 
 **USAT aur HAT me kya farq hai?**
 **USAT** undergraduate (BS) admission ke liye hai (12 saal taleem ke baad), jabke **HAT** MS/MPhil aur PhD admission aur HEC scholarships ke liye hai (16 saal taleem ke baad). Dono ETC leta hai lekin categories aur maqsad alag hain.
+
+
+![University students — USAT ke zariye mukhtalif universities me admission](https://images.pexels.com/photos/9829489/pexels-photo-9829489.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## HEC Aur Taleem Se Mutaliqa Mazeed Guides
 

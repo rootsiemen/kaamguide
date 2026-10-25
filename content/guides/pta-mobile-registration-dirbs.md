@@ -23,6 +23,9 @@ Registration se pehle ye maloom kar lein ke phone pehle se compliant hai ya nahi
 
 Status ye ho sakta hai: **Compliant** (registered hai, tension nahi), **Non-compliant** (registration baki hai), **Blocked** (muhлат khatam ho chuki).
 
+
+![Smartphone haath me — PTA registration ke baghair mobile band ho sakta hai](https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## 60 Din Ka Grace Period (Sab Se Ahem Baat)
 
 - Jaise hi imported phone pehli dafa **Pakistani network** se judta hai, **60 din** ki mohlat shuru ho jati hai.
@@ -133,6 +136,9 @@ Payment aur approval ke baad aik dafa zaroor confirm karein:
 
 **Registration ke waqt galti se ghalat IMEI darj ho gaya to?**
 DIRBS account se application **cancel** karke dobara sahi IMEI se apply karein — agar payment ho gayi hai to PTA helpline **0800-55055** par PSID ke saath rabta karein.
+
+
+![Mobile phone ki DIRBS registration aur tax ki checking](https://images.pexels.com/photos/6183904/pexels-photo-6183904.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Purchase Ke Din: Phone Ke Saath Kya Lein
 

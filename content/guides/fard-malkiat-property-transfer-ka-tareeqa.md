@@ -27,6 +27,9 @@ Ghalat kagaz ke liye apply karna waqt aur fee dono ka zaya hai, is liye pehle ye
 
 Fard baraye bay me aik khaas baat hai: is me khareedne wale (buyer) ka CNIC lazmi darj hota hai, aur registry sirf usi buyer ke naam ho sakti hai jis ka CNIC fard par hai. Agar buyer badal jaye to nayi fard nikalwani parti hai. Is liye fard nikalwane se pehle buyer ka naam aur CNIC pukhta kar lein.
 
+
+![Arazi ka record — fard malkiat zameen ki malkiyat ka saboot hai](https://images.pexels.com/photos/8028860/pexels-photo-8028860.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Zaroori Kagzaat: ARC Jane Se Pehle Tayyar Rakhein
 
 Fard nikalwane ke liye Arazi Record Center par ye cheezein chahiye hoti hain:
@@ -101,6 +104,9 @@ Virasat (inheritance) ki surat me transfer ka tareeqa thora mukhtalif hota hai �
 - **Green Property Certificate ko nazar andaz karna:** July 2026 ke baad Punjab ke aksar azla me sale ke liye riwayati fard kaafi nahi hai — Green Property Certificate chahiye hota hai. Apne zila ka maujooda nizam ARC se confirm karein.
 - **Mutation na karwana:** Registry ke baad mutation na karwana matlab record me naam purane malik ka hi rahega. Transfer registry se nahi, mutation se mukammal hota hai.
 - **Tax aur fee ka andaza ghalat lagana:** Registry ke waqt stamp duty aur taxes bhi ada karne hote hain, jo fee schedule se alag hote hain. Deal se pehle kul kharcha maloom karein.
+
+
+![Property transfer ke qanooni documents par dastakhat](https://images.pexels.com/photos/7651557/pexels-photo-7651557.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

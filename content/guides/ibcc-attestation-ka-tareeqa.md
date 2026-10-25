@@ -26,6 +26,9 @@ Ye rates Pakistan ki Senate me diye gaye official jawab aur IBCC ke published sc
 
 **Hisab ki misal:** Matric certificate + Inter certificate = 2 documents = **Rs 2,400**. Dono ke result cards bhi hon to kul 4 documents = Rs 4,800.
 
+
+![Matric aur inter ki sanadein — IBCC attestation ke liye asal certificates](https://images.pexels.com/photos/7876037/pexels-photo-7876037.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Sab Se Pehla Qadam: Board Verification
 
 IBCC attestation se pehle aap ke board (BISE) ki verification lazmi hai:
@@ -82,6 +85,9 @@ Poora silsila visa deadline se pehle shuru karein — har marhale me din lagte h
 3. **Laminated certificate le jana:** Pehle lamination ka masla hal karein.
 4. **Naam ka mismatch:** CNIC aur certificate par naam ki spelling aik jaisi honi chahiye — farq ho to pehle board se tas-heeh karwayen.
 5. **Sirf certificate, result card nahi:** Kuch embassies dono mangti hain — pehle confirm karke dono attest karwa lein, dobara ana nahi parega.
+
+
+![Board certificate documents ki checking — IBCC verification ka amal](https://images.pexels.com/photos/6326287/pexels-photo-6326287.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

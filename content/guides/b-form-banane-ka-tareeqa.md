@@ -27,6 +27,9 @@ NADRA walidain se guzarish karta hai ke bache ki pedaish ke **3 se 6 mahine ke a
 
 Ye fees online (Pak ID app) aur NADRA center dono par aik jaisi hain. Overseas Pakistanis ke liye fees dollar me hoti hain jo Pak ID portal par checkout ke waqt nazar aati hain.
 
+
+![Naya paida hua bachcha — B-Form ke liye bachay ki registration sab se pehla qadam hai](https://images.pexels.com/photos/4005590/pexels-photo-4005590.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Pehla Qadam: Union Council Me Pedaish Ka Indraj
 
 NADRA ke naye Birth and Death Registration System ke tehat **pehle bache ki pedaish apni Union Council me register karwana zaroori hai** — is ke baghair NADRA B-Form jari nahi karta. Tareeqa:
@@ -141,6 +144,9 @@ Pak ID portal (id.nadra.gov.pk) se online apply karein — fees dollar me hongi 
 
 **Kya B-Form ki bhi expiry hoti hai?**
 B-Form ki koi expiry nahi hoti, lekin bache ki maloomat (naam, date of birth) durust hona zaroori hai. 18 saal ki umar me CNIC banwate waqt B-Form ka record istemal hota hai, is liye us se pehle correction karwa lein.
+
+
+![Birth certificate aur registration documents ki tayyari](https://images.pexels.com/photos/4006962/pexels-photo-4006962.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## B-Form Ke Baad School Admission Checklist
 

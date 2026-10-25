@@ -35,6 +35,9 @@ Ye SMS **bilkul muft** hai — balance ki zaroorat nahi, kisi bhi mobile network
 
 > **Note:** BISP ke naamo par **darjnon fake websites** bani hui hain jo CNIC number aur personal data mangti hain. Sirf **8171.bisp.gov.pk** use karein — portal sirf CNIC aur captcha mangta hai, **kabhi OTP, bank PIN, password ya koi fee nahi mangta**. Agar koi website aap se paise ya bank details mange, wahan se foran nikal jayen.
 
+
+![BISP 8171 program me mustahiq khawateen ko raqam ki adaigi](https://images.pexels.com/photos/7680631/pexels-photo-7680631.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Naya Registration: Sirf Tehsil Office Se (Online Form Nahi Hai)
 
 Ye sab se aam ghalat-fehmi hai: **BISP me naya registration online nahi hota.** Internet par "BISP online registration form" ke naam par jo websites aur apps hain, wo sab ya to fake hain ya purani. BISP ki official policy ke mutabiq:
@@ -121,6 +124,9 @@ Aam gharane ke liye PMT score **32 ya is se kam**, aur jis gharane me koi mazoor
 
 **Meri qist kyun ruk gayi hai?**
 Sab se aam wajuhat: expired CNIC, 3 saal se purana NSER survey, ghar ke kisi fard ka sarkari mulazim hona, ya NADRA record me mismatch. Apne asal kagzaat lekar qareebi **BISP Tehsil Office** jayen aur survey/data update karwayen — masla hal hote hi payment bahal ho jati hai.
+
+
+![8171 program ki raqam ginti aur wasooli ka amal](https://images.pexels.com/photos/4968545/pexels-photo-4968545.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## BISP Se Mutaliqa Mazeed Guides
 

@@ -24,6 +24,9 @@ HAT dene ke liye bunyadi shart **16 saal taleem** hai. Is ka matlab hai ke aap n
 
 Koi umar ki had ya kisi khaas university se degree ki shart nahi hai — shart sirf taleem ki muddat aur us ka HEC se tasleem-shuda hona hai. Apni degree ki HEC recognition admission se pehle lazmi check karein.
 
+
+![Test dete hue students — HEC HAT test ki tayyari](https://images.pexels.com/photos/9159042/pexels-photo-9159042.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## HAT Ki 5 Categories: Apni Category Kaise Chunein
 
 HAT aik hi test nahi hai — ye **5 categories** me hota hai aur aap ko apne subject ke mutabiq category chunni hoti hai. Ghalat category chunna sab se bara nuqsan hai kyunke **submission ke baad category tabdeel nahi hoti**. Is liye form bharne se pehle apni university ya department se confirm kar lein ke wo kaunsi category mangta hai.
@@ -141,6 +144,9 @@ Tayyari ke liye HEC ki taraf se sample material aur purane papers ETC portal aur
 - [HEC Recognized Universities Check](/guides/hec-recognized-universities-check) — admission se pehle university ki HEC recognition lazmi check karein
 - [HEC Degree Attestation Ka Tareeqa](/guides/hec-degree-attestation) — degree ki online attestation ka poora process
 - [HEC Equivalence Certificate](/guides/hec-equivalence-certificate) — bahir ki degree Pakistan me chalani ho to
+
+
+![University campus — HAT test graduate admissions ke liye hota hai](https://images.pexels.com/photos/39289023/pexels-photo-39289023.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 

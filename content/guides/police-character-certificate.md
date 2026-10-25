@@ -29,6 +29,9 @@ Punjab me ye kaam ab bohat asaan hai — **Police Khidmat Markaz (PKM)** se onli
 
 Certificate courier se aap ke pate par bhej diya jata hai ya digitally (QR code ke saath) download ho jata hai.
 
+
+![Police officer — character certificate police record ki verification par milta hai](https://images.pexels.com/photos/7714736/pexels-photo-7714736.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Sab Se Bari Sahulat: Kisi Bhi Zila Se Apply
 
 Pehle certificate usi zila se banta tha jahan aap **rehe the ya reh chuke the** — logon ko safar karna parta tha. **Ab Punjab ka koi bhi PKM kisi bhi zila ka certificate bana sakta hai:**
@@ -149,6 +152,9 @@ Foran **PKM helpdesk ya qareebi center** se correction karwayen — visa file ja
 2. **Scan hamesha saath** — email me aik copy, mobile me aik copy.
 3. **Photocopies pehle se** bana lein — har office 2-3 mangta hai.
 4. **Lamenaat (lamination)** karwa lein — certificate phat-ta ya kharab nahi hota.
+
+
+![Police khidmat markaz — character certificate yahin se apply hota hai](https://images.pexels.com/photos/29580937/pexels-photo-29580937.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Yaad Dehani
 

@@ -28,6 +28,9 @@ Punjab me 1 July 2026 se naye rates nafiz hain (Punjab Finance Bill 2026). Bari 
 
 **10% rebate ka mauqa:** Agar poore saal ka token tax **31 August** se pehle jama karwa dein to 10% chhoot milti hai (official schedule me darj hai). FY 2026-27 ki 31 August 2026 ki deadline guzar chuki hai — agli financial year me is rebate ka faida uthana na bhoolein.
 
+
+![Sheher ki traffic me gaariyan — token tax har saal jama karwana lazmi hai](https://images.pexels.com/photos/22748765/pexels-photo-22748765.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## 1000cc Tak Ki Gaari: Rs 20,000 Lifetime Token Ki Sahulat
 
 Ye sab se ahem baat hai jo aksar log nahi jante: **1000cc tak engine wali gaari ka token tax zindagi bhar ke liye ek martaba Rs 20,000 de kar khatam** ho jata hai. Har saal line me lagne ya online payment ki zaroorat nahi rehti.
@@ -84,6 +87,9 @@ Payment ke baad tasalli ke liye apni gaari ka tax status khud check kar lein —
 - **Sindh:** Fixed yearly slabs (engine size par, price par nahi) — 1000cc tak Rs 1,500/saal; 1001–1300cc Rs 2,000; 1301–1600cc Rs 4,000; 1601–2000cc Rs 4,500; 2001–2500cc Rs 5,000; 2500cc se upar Rs 7,000. 1000cc tak ki nayi gaari ke liye Rs 20,000 once-for-all ka option bhi hai. Payment **ePay Sindh** portal/app se hoti hai. Official site: excise.gos.pk.
 - **Khyber Pakhtunkhwa:** Fixed yearly slabs — 1000cc tak Rs 2,000/saal; 1001–1300cc Rs 3,000; 1301–1500cc Rs 4,000; 1501–2500cc Rs 5,000; 2500cc se upar Rs 8,000. Electric gaarian June 2028 tak exempt hain. Official site: kpexcise.gov.pk.
 - **Islamabad:** ICT Excise ke apne rates hain — apni gaari ke liye excise ki official site se tasdeeq karein.
+
+
+![Gaari ki registration aur token tax ki online adaigi](https://images.pexels.com/photos/23957127/pexels-photo-23957127.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 
