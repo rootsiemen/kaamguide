@@ -22,6 +22,9 @@ NADRA do qisam ke card jari karta hai — faisla apply karne se pehle kar lein:
 
 **Ahem baat:** Aik dafa Smart CNIC le liya to wapas normal CNIC par nahi ja sakte — tamam mustaqbil ki renewals Smart CNIC ki fees par hongi. Agar aap ka kaam normal card se chal jata hai to paise bachane ke liye normal CNIC theek hai.
 
+
+![Shanakhti card — CNIC har Pakistani ki pehchan hai](https://images.pexels.com/photos/7108127/pexels-photo-7108127.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## 2026 Ki Official Fees: Mukammal Table
 
 Fees teen processing speeds par munhasir hain — **Normal** (sasta, zyada waqt), **Urgent** (darmiyani), **Executive** (tez tareen, mehenga):
@@ -116,6 +119,9 @@ CNIC ki copy har jagah mangi jati hai — SIM lene par, bank me, nokri ke form p
 3. **Apne naam par kitni SIMs hain, check karte rahein:** PTA ki website ya 668 par SMS karke maloom karein ke aap ke CNIC par kitni SIMs registered hain. Anjaan SIM foran band karwayen.
 4. **CNIC ki tasveer social media par na lagayen:** Card ki photo WhatsApp status ya Facebook par lagana seedha fraud ko dawat dena hai.
 5. **Gumshuda card ki FIR foran:** Card ghumte hi FIR katwayen — ye aap ka qanooni tahaffuz hai.
+
+
+![ID card ke documents — NADRA center jane se pehle kagzaat tayyar rakhein](https://images.pexels.com/photos/7108126/pexels-photo-7108126.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal (Jari)
 

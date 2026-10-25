@@ -161,11 +161,21 @@ export function mdToHtml(md: string): RenderedMd {
       continue;
     }
 
+    const imgLine = line.match(/^\s*!\[([^\]]*)\]\((https?:[^)\s]+)\)\s*$/);
+    if (imgLine) {
+      closeList();
+      out.push(
+        `<img src="${imgLine[2]}" alt="${escapeHtml(imgLine[1])}" loading="lazy" />`,
+      );
+      i++;
+      continue;
+    }
+
     closeList();
     // Join wrapped paragraph lines
     const para: string[] = [line.trim()];
     i++;
-    while (i < lines.length && lines[i].trim() !== "" && !/^(#{2,4}\s|\s*[-*]\s|\s*\d+[.)]\s|\s*\|)/.test(lines[i])) {
+    while (i < lines.length && lines[i].trim() !== "" && !/^(#{2,4}\s|\s*[-*]\s|\s*\d+[.)]\s|\s*\||\s*!\[)/.test(lines[i])) {
       para.push(lines[i].trim());
       i++;
     }

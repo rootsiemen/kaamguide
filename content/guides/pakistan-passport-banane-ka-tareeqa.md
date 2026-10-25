@@ -56,6 +56,9 @@ Kagzaat na-mukammal hona sab se aam wajah hai jis ki bina par logon ka aik din z
 
 > Mashwara: tamam kagzaat ki photocopy ghar se karwa kar le jayein. Office ke bahir wali photocopy shops par lambi line hoti hai aur qeemat bhi zyada hoti hai.
 
+
+![Passport ki darkhwast — naya passport banwana ka mukammal tareeqa](https://images.pexels.com/photos/4922086/pexels-photo-4922086.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 ## Passport Fees 2026: Mukammal Table
 
 Fees ka inhisaar teen cheezon par hai: passport ki qisam (MRP ya e-passport), pages ki tadad, aur processing speed (normal ya urgent). Ye fees Directorate General of Immigration & Passports (DGIP) ke published fee chart ke mutabiq hain — **21 October 2026 ko dobara verify ki gayi hain**. Fees waqt ke saath badal sakti hain, is liye adaigi se pehle [dgip.gov.pk](https://dgip.gov.pk/) par zaroor tasdeeq kar lein.
@@ -150,6 +153,9 @@ Fees aur rules ki sab se bharose-wali jagah hamesha official websites hain. Is g
 - **NADRA:** [nadra.gov.pk](https://www.nadra.gov.pk/) — CNIC aur B-Form ki maloomat
 - **Pak-ID:** [id.nadra.gov.pk](https://id.nadra.gov.pk/) — online CNIC services aur fingerprint verification
 - **DGIP helpline:** 051-111-344-777
+
+
+![Passport office ke documents — apply karne se pehle tayyari](https://images.pexels.com/photos/1550334/pexels-photo-1550334.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 ## Aksar Poche Jane Wale Sawal
 
