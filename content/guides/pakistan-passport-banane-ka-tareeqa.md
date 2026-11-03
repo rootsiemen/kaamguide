@@ -1,6 +1,6 @@
 ---
-title: "Pakistan Me Passport Banane Ka Tareeqa (2026): Fees, Kagzaat Aur Poora Process"
-description: "Pakistan me naya passport banwane ka mukammal tareeqa — zaroori kagzaat, 2026 ki official fees (normal/urgent, 36/72/100 pages), online aur office dono tareeqe, step-by-step process aur aksar poche jane wale sawal."
+title: "Pakistan Me Passport Banane Ka Tareeqa (2026): Fee Rs 4,500 Se Shuru"
+description: "Pakistan me naya passport kitne ka banta hai? Fee Rs 4,500 se shuru hoti hai (36 pages, 5 saal, normal — urgent Rs 7,500) — 2026 ki mukammal official fees table, zaroori kagzaat, online aur office dono tareeqe, step-by-step process aur aksar poche jane wale sawal."
 date: "2026-10-21"
 category: "Passport"
 ---

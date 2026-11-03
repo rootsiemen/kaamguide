@@ -1,6 +1,6 @@
 ---
-title: "Police Character Certificate Banane Ka Tareeqa (2026): Online Apply, Fee Aur Waqt"
-description: "Police character certificate banwane ka mukammal tareeqa — Punjab Police Khidmat Markaz (PKM) se online apply, fee Rs 500, 3 working days me certificate, zaroori kagzaat, overseas Pakistanis ke liye tareeqa aur aksar poche jane wale sawal."
+title: "Police Character Certificate Ka Tareeqa (2026): Fee Sirf Rs 500"
+description: "Police character certificate ki fee Punjab me sirf Rs 500 hai — Punjab Police Khidmat Markaz (PKM) se online apply ka mukammal tareeqa, 3 working days me certificate, zaroori kagzaat, overseas Pakistanis ke liye tareeqa aur aksar poche jane wale sawal."
 date: "2026-10-19"
 category: "Certificates"
 ---

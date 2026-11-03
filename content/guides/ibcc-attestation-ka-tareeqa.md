@@ -1,6 +1,6 @@
 ---
-title: "IBCC Attestation Ka Tareeqa (2026): Matric Inter Certificate, Fee Aur Online Process"
-description: "IBCC se Matric aur Intermediate certificate attestation ka mukammal tareeqa — fee Rs 1,200 per certificate (copy Rs 600), pehle board verification, online portal attest.ibcc.edu.pk, walk-in aur courier process, documents aur aksar poche jane wale sawal."
+title: "IBCC Attestation Ka Tareeqa (2026): Matric Inter Fee Rs 1,200"
+description: "Matric aur Inter certificate ki IBCC attestation fee Rs 1,200 per certificate hai (photocopy Rs 600) — pehle board verification, online portal attest.ibcc.edu.pk par apply, walk-in aur courier process, zaroori documents aur aksar poche jane wale sawal."
 date: "2026-10-22"
 category: "Certificates"
 ---
