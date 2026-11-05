@@ -1,6 +1,6 @@
 ---
-title: "Pakistan Me Punjab Driving License Renewal Ka Tareeqa (2026): Fees, Late Jurmana Aur Online Apply"
-description: "Punjab driving license renewal ka mukammal tareeqa — DLIMS/Dastak se online apply, 2026 category-wise fees, courier charges, late renewal jurmana (aadha, poora, 2.5 guna), zaroori kagzaat aur e-license download."
+title: "Punjab Driving License Renewal 2026: Fee Car Rs 1,830, Late Jurmana"
+description: "Punjab driving license renewal fee 2026: motorcycle Rs 930, car Rs 1,830 (Rs 480 courier shamil) — late renewal par fee ka 50% se 2.5 guna tak jurmana, DLIMS/Dastak se online apply, zaroori kagzaat aur e-license download."
 date: "2026-10-27"
 category: "Driving License"
 ---

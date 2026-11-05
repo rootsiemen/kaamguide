@@ -1,6 +1,6 @@
 ---
-title: "HEC Degree Attestation Ka Tareeqa (2026): Online System, Fee Aur Step-by-Step Process"
-description: "HEC se degree attestation karwane ka mukammal tareeqa — naya fully online system (eservices.hec.gov.pk), fee Rs 3,000 per document, university verification, e-attestation certificate aur aksar poche jane wale sawal."
+title: "HEC Degree Attestation 2026: Fee Rs 3,000 Per Document, Online Apply"
+description: "HEC degree attestation ki fee Rs 3,000 per document hai — eservices.hec.gov.pk par fully online apply ka step-by-step tareeqa, zaroori documents, university verification aur e-attestation certificate download."
 date: "2026-10-19"
 category: "Certificates"
 ---

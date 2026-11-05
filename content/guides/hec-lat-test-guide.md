@@ -1,6 +1,6 @@
 ---
-title: "HEC LAT Test Guide (2026): Law Admission Test — Registration, Fee, Paper Pattern Aur Tayyari"
-description: "HEC LAT (Law Admission Test) ki mukammal guide — LLB admission ke liye lazmi test, ETC (etc.hec.gov.pk) par online registration, fee Rs 1,800, official paper pattern (100 marks, passing 50), result ki 2 saal validity, answer keys aur tayyari ke tips."
+title: "HEC LAT Test 2026: Registration Fee Rs 1,800, Passing Marks 50"
+description: "HEC LAT (Law Admission Test) ki fee Rs 1,800 hai — etc.hec.gov.pk par online registration ka tareeqa, 100 marks ka paper pattern (passing marks 50), result ki 2 saal validity, answer key aur tayyari ke tips."
 date: "2026-10-22"
 category: "Certificates"
 ---
