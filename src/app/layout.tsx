@@ -125,6 +125,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgLd) }}
         />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1RP6FM2MJQ" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-1RP6FM2MJQ');",
+          }}
+        />
       </head>
       <body className="min-h-full flex flex-col">
         <Header />
