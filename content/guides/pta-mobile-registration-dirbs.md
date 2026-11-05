@@ -110,7 +110,7 @@ Agar aap Pakistan me **dukaan se imported (non-local) phone** khareed rahe hain:
 
 1. Dukaandaar se poochein phone **PTA approved hai ya non-approved** — non-approved sasta hota hai lekin tax aap ke sar par hogi.
 2. **IMEI box aur phone dono par** mila lein — \*#06# se nikaal kar box ke number se compare karein.
-3. Tax ka hisab **pehle** DIRBS par laga lein — phone ki qeemat + tax = asal qeemat. Kabhi-kabhi **local version hi sasta par jata hai**.
+3. Tax ka hisab **pehle** laga lein — phone ki qeemat + tax = asal qeemat. Andaze ke liye [PTA tax calculator](https://frinjo.me/pta-tax-calculator) par phone ki qeemat daal kar tax ki raqam khareedne se pehle dekh lein (final raqam DIRBS portal hi confirm karega). Kabhi-kabhi **local version hi sasta par jata hai**.
 4. Raseed par **IMEI number lazmi** likhwa lein — baad ke kisi bhi masle me ye saboot hai.
 
 ## Registration Ke Baad Ki Tasdeeq (Last Check)

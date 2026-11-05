@@ -59,6 +59,8 @@ Agar aap ya aap ke walid/guardian mulazim hain to affidavit ki zaroorat nahi —
 
 PEEF ki official shart ke mutabiq employer se verified income certificate ya Union Council Chairman/Tehsildar se verified affidavit — dono qabool hain.
 
+**Aik aam uljhan:** Certificate par hamesha **gross** tankhwah likhi jati hai, lekin aksar log net (tax katne ke baad wali) raqam zehen me rakh lete hain. Apni tankhwah par kitna tax katta hai aur net kitni banti hai — ye hisab [salary tax calculator](https://frinjo.me/salary-tax-calculator-pakistan) se pehle kar lein, taake certificate aur salary slip ke numbers me farq na pare.
+
 ## Ye Certificate Kahan Kaam Aata Hai (Verified Istemal)
 
 - **PEEF scholarships:** Master's level ke liye walidain ki declared mahana aamdani **Rs 60,000 ya us se kam** hona lazmi hai (official PEEF shart). Govt mulazmin ke BPS 1–4 ke bachon ko is shart se chhoot hai agar tankhwah hi aamdani ka wahid zariya ho.

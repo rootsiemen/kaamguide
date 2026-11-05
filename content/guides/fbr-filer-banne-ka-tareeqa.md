@@ -154,3 +154,5 @@ Pehli dafa sab se mushkil hissa hota hai. Ye tarika asaan bana dega:
 1. **Peeche (pehle) hisab kagaz par banayein** — salary, bank balance, gaari/jaidad.
 2. Phir IRIS khol kar har cheez **usi tarteeb** se bharein.
 3. Aik ghanta pehli dafa ke liye rakhein — **jaldi karne walo ki ghaltiyan hoti hain**, sakoon se bharein.
+
+**Tankhwah-dar khaas tor par:** Return bharne se pehle [Frinjo ke salary tax calculator](https://frinjo.me/salary-tax-calculator-pakistan) par apni mahana tankhwah daal kar dekh lein ke mojooda FBR slabs ke mutabiq aap ka kitna tax banta hai — phir usay employer ke tax certificate wali raqam se mila lein; farq ho to return file karne se pehle HR se durust karwa lein.
