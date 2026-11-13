@@ -123,6 +123,17 @@ CNIC ki copy har jagah mangi jati hai — SIM lene par, bank me, nokri ke form p
 
 ![ID card ke documents — NADRA center jane se pehle kagzaat tayyar rakhein](https://images.pexels.com/photos/7108126/pexels-photo-7108126.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
+## 18 Saal Ke Hote Hi: Student Ke Liye Pehle CNIC Ka Amli Plan
+
+Zyada tar naujawan pehla CNIC tab banwate hain jab university admission, pehli nokri ya passport ki zaroorat par jati hai — aur phir jaldi me chakkar lagte hain. Ye plan pehle se follow kar lein:
+
+1. **B-Form pehle check karein:** Aap ka B-Form (Child Registration Certificate) bana hona chahiye — isi se aap ka family record CNIC se jurta hai. B-Form hi na ho to pehle [B-Form banane ka tareeqa](/guides/b-form-banane-ka-tareeqa) mukammal karein.
+2. **Walid ke CNIC ki copy aur saboot:** Walid ya walida ka CNIC, aur umar ke saboot ke liye matric ka certificate — dono pehle se file me rakhein.
+3. **Salgirah ke foran baad apply karein:** Pehla CNIC normal processing par muft hai — paisay agent ko dene ki koi zaroorat nahi. Bheer se bachna hai to mahine ke darmiyani dinon me subah jaldi center jayen.
+4. **Card milte hi agle kaam:** CNIC aate hi aap ke degar kaam khul jate hain — masalan [passport ke liye apply](/guides/pakistan-passport-banane-ka-tareeqa) aur apne khandan ka [FRC record check karna](/guides/nadra-frc-banane-ka-tareeqa) — teeno documents aik doosre se mile hon to mustaqbil ka har sarkari kaam asaan rehta hai.
+
+Matlab saaf hai: pehla CNIC "jab zaroorat pari tab banwa loon ga" wala kaam nahi — 18 saal hote hi banwa lena hi asal smarti hai.
+
 ## Aksar Poche Jane Wale Sawal (Jari)
 
 **Kya pehla CNIC waqai muft hai?**
@@ -142,3 +153,9 @@ Chip ki wajah se zyada mehfooz hai aur digital tasdeeq me kaam aata hai. Lekin f
 
 **Kya 18 saal se pehle CNIC ban sakta hai?**
 Nahi — 18 saal se kam umar ke liye B-Form (CRC) banta hai, CNIC nahi.
+
+**CNIC par koi maloomat ghalat chap gayi ho to correction kaise hogi?**
+NADRA center ya Pak ID app se **modification** ki service lein — tabdeeli ke saboot (masalan naam ke liye court order, pate ke liye utility bill) ke saath apply karein. Modification ki fee uper wali table me di gayi hai.
+
+**Card tayyar ho gaya hai, mujhe kaise pata chalega?**
+Khud status check karein — tracking ID **8400** par SMS karein ya Pak ID app me "Track Your Application" dekhein. Card center par a jane par wahi se wasool hota hai.

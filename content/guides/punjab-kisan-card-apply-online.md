@@ -2,7 +2,7 @@
 title: "Pakistan Me Punjab Kisan Card Apply Karne Ka Tareeqa (2026): Bila Sood Qarz, 30,000 Rupay Fi Acre"
 description: "Punjab Kisan Card 2026 (Phase II) — fi acre 30,000 rupay, zyada se zyada 3,60,000 rupay bila sood qarz: ehliyaat (1 se 25 acre zameen), zaroori kagzaat, 8070 SMS aur online apply ka step-by-step tareeqa, khareedari aur wapsi ka poora process."
 date: "2026-11-12"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Punjab Kisan Card Kya Hai

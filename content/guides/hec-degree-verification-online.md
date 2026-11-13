@@ -70,6 +70,52 @@ Isi tarah foreign degree walon se **equivalence letter** manga jata hai aur us k
 
 ![Degree ka record online verify karna — HEC portal se tasdeeq](https://images.pexels.com/photos/7713511/pexels-photo-7713511.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
+## Aik Misal: Bank Ki Nokri Par Verification Kaise Hoti Hai
+
+Aik candidate ki misal se samjhein ke ye process asal zindagi me kaise chalta hai:
+
+1. Candidate ne apni degree pehle se HEC se attest karwa rakhi thi aur use **e-Attestation Certificate** mil chuka tha.
+2. Bank ki HR team ne joining se pehle candidate se us certificate ki copy mangi — asal degree nahi, sirf certificate ki copy.
+3. HR ne mobile se **QR code scan** kiya. Screen par candidate ka naam, degree, university aur attestation ki tafseel a gayi, jo asal degree se harf-ba-harf match karti thi.
+4. Verification ka **screenshot personnel file me laga diya gaya** — poora kaam chand minute me ho gaya, na HEC ka daftar, na koi khat-o-kitabat.
+
+Ab is ke bar-aks aik doosra candidate: us ke certificate par naam ki spelling CNIC se aik harf mukhtalif thi. Portal par record to mila, lekin HR ne joining rok kar pehle tas-heeh mangi. Sabaq ye hai ke verification sirf "record milna" nahi — **record ka aap ke documents se match hona** hi asal tasdeeq hai. Apni degree verify karte waqt ye matching khud pehle kar lein, takay joining ke din koi rukawat na aye. Aur ye bhi confirm kar lein ke aap ki university HEC se recognized hai — is ke liye [HEC recognized universities check guide](/guides/hec-recognized-universities-check) dekhein.
+
+## Employers Ke Liye Mukammal Verification Checklist
+
+HR teams ke liye step-by-step checklist:
+
+| Qadam | Kya check karna hai |
+| --- | --- |
+| 1. e-Attestation Certificate mangen | Candidate se asal degree nahi, certificate ki copy/scan kafi hai |
+| 2. QR code scan karein | Type karne ki ghalti se bachne ke liye portal entry par QR ko tarjeeh dein |
+| 3. Naam match karein | Naam CNIC aur degree dono se harf-ba-harf aik jaisa ho |
+| 4. Degree aur university check karein | Degree title, university ka naam aur session record se match ho |
+| 5. Screenshot file karein | Verification ka screenshot/print personnel file ka hissa banayen |
+| 6. Record na mile to ruk jayen | Degree foran qabool na karein — pehle candidate se wazahat aur HEC se tasdeeq |
+
+Ye checklist is liye zaroori hai ke verification ki sahulat ka fayda tabhi hai jab woh **har** candidate ke liye aik jaisi tartib se ki jaye — aadhi files verified aur aadhi baghair check ke, ye wohi purana khala hai jis se jaali degrees guzar jati thi.
+
+## Verification Ka Timeline — Waqt Asal Me Kahan Lagta Hai
+
+QR scan ya portal check khud **foran** ho jata hai — is hisse me der ka sawal hi nahi. Asal waqt hamesha verification se **pehle ke marhalon** me lagta hai:
+
+- **Degree attest hi na hui ho:** To pehle poora attestation process hoga — verification us ke baad hi mumkin hai.
+- **Purani manual attestation ka record online na ho:** Record updation ki darkhwast aur us ki processing me waqt lagta hai — ye degree holdar ko karwana hota hai, employer ko nahi.
+- **Naam ya maloomat ka mismatch:** Tas-heeh jis idaray se degree jari hui (university) wahin se hoti hai, aur wohi sab se zyada waqt leti hai.
+
+Is liye nokri ki deadline qareeb ho to verification ko aakhri din par na chhorein — apna record pehle se check karke rakhein, takay employer ke mangne par aap sirf certificate ki copy dein aur baqi kaam minuteon me ho jaye.
+
+## Bahir Ke Idaron Aur WES Ke Liye Verification
+
+Kabhi verification Pakistan ke employer ke liye nahi, **bahir ke idaray** ke liye chahiye hoti hai — maslan Canada ya America ke credential evaluation idaray (jesay WES) ya kisi foreign university ka admission office. In surat me farq samajh lein:
+
+- Bahir ke idaray aam tor par sirf QR check par iktifa nahi karte — woh documents **HEC se seedha, band (sealed) tareeqe se** mangte hain, takay darmiyan me koi tabdeeli na ho sakay.
+- Is maqsad ke liye HEC ka sealed envelope wala rasta istemal hota hai, jis ka mukammal tareeqa [HEC sealed envelope WES guide](/guides/hec-sealed-envelope-wes) me diya hai.
+- Apni taraf se khula envelope ya scan bhej dena aksar qabool nahi hota — idaray ki hidayat pehle parh lein ke woh verification kis surat me mang raha hai.
+
+Seedha usool ye hai: **Pakistan ke andar** QR/portal verification kafi hai; **bahir ke idaray** ke liye usi ki manga hua sealed ya seedha rasta ikhtiyar karein. Dono ka bunyadi record aik hi hai — HEC ka attestation system — sirf pohchane ka tareeqa mukhtalif hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **HEC degree verification online kaise hoti hai?**
@@ -89,3 +135,9 @@ Scan the QR code printed on the HEC e-Attestation Certificate, or enter the cert
 
 **Equivalence letter ki verification bhi yahin se hogi?**
 Jee — foreign degree ke equivalence letters ki tasdeeq bhi HEC ke e-services portal se hoti hai. Letter banwane ka process [HEC Equivalence guide](/guides/hec-equivalence-certificate) me hai.
+
+**Kya verification ke liye HEC account banana lazmi hai?**
+Nahi. Teesra fard — employer, university ya embassy — QR code scan karke ya portal par certificate number dal kar baghair account ke verify kar sakta hai. Account sirf degree holdar ko apni attested degrees ki list dekhne aur e-Attestation Certificate dobara download karne ke liye chahiye hota hai.
+
+**Kya verification ki koi expiry hoti hai — record kitni der system me rehta hai?**
+Verification koi aik dafa ka certificate nahi, HEC ke record ki tasdeeq hai — record system me rehta hai aur jab chaaho dobara check kar sakte ho. Employer apni file ke liye jis waqt check kare, usi waqt ka screenshot hi us ke liye saboot hota hai.

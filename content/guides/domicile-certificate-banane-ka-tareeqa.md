@@ -32,7 +32,7 @@ Domicile usi **zile se banta hai jahan aap (ya aap ke walid) mustaqil rehte hain
 
 ## Zaroori Kagzaat
 
-- Apna **CNIC** (asal aur copy) — na ho to B-Form
+- Apna **CNIC** (asal aur copy) — na ho to [B-Form](/guides/b-form-banane-ka-tareeqa)
 - **Walid ka CNIC** (domicile aksar walid ke record se banta hai)
 - **Rehne ka saboot (proof of residence):** in me se aik — bijli/gas ka bill, jaidad ke kagzaat, kiraya-nama, resident certificate, taleemi sanad ya voter list ka indraj
 - **Affidavit** (halaf-nama) — mustaqil rehaish ki tasdeeq ke liye
@@ -97,6 +97,17 @@ Jahan apply kar rahe hain, pehle confirm kar lein ke **chahiye kaunsa hai** — 
 3. **Affidavit me ghalti:** Naam ki spelling CNIC ke mutabiq rakhein.
 4. **Agent ko paise:** Fee sirf Rs 200 hai — agent ka is me koi kirdaar nahi.
 
+## Aik Talib-ilm Ki Darkhwast: Shuru Se Certificate Tak (Worked Example)
+
+Samajh lein aik talib-ilm ko university admission ke liye domicile chahiye aur us ke walid ka permanent zila wahi hai jahan khadan rehta hai. Us ki darkhwast aam tor par is tartib se guzarti hai:
+
+1. **Kagzaat ikathay karna (din 1):** Apna CNIC, walid ka CNIC, bijli ka bill (residence proof), affidavit ke liye stamp paper aur passport-size tasveer. Agar apna CNIC abhi nahi bana to pehle [CNIC banane ka tareeqa](/guides/nadra-cnic-banane-ka-tareeqa) dekhein — CNIC na ho to B-Form bhi is guide ki kagzaat wali fehrist ke mutabiq chal sakta hai.
+2. **e-Khidmat par file banna (din 1–2):** Counter par file DMS me banti hai, Form P bhar jata hai aur Rs 200 ki fee ka PSID milta hai — fee ePay Punjab ya JazzCash se ada kar dein aur tracking ID lazmi lein.
+3. **Intezar aur tracking (din 3–16):** Status portal ya SMS se milta rehta hai. Objection lage to wajah parh kar wahi document durust karke de dein — dobara poori file nahi banti.
+4. **Wasooli (16 working days):** Assistant Commissioner ke office se jari-shuda certificate e-Khidmat se wasool karein, naam aur zila check karke fotokapiyan karwa lein.
+
+**Zila chunne ki checklist:** Domicile ka faisla karne se pehle ye teen sawal khud se pochein — (1) walid ka permanent zila kaunsa hai? (2) Main kis quota par admission ya nokri lena chahta hoon? (3) Kya mera residence proof isi zila ka hai? Teenon ke jawab aik zila ki taraf ishara karein to file objection ke baghair nikalti hai. Admission ke saath aksar [police character certificate](/guides/police-character-certificate) bhi manga jata hai — dono documents ki tayyari aik saath kar lein to daftar ke chakkar aadhe ho jate hain.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya larki shadi ke baad shohar ke zila ka domicile bana sakti hai?**
@@ -113,6 +124,12 @@ Walid ke permanent zila se — yahi zila admission quota tay karega, is liye peh
 
 **Kitne din me mil jata hai?**
 Punjab me official waqt **16 working days** hai, bashart kagzaat par koi objection na lage.
+
+**16 working days guzar gaye, certificate abhi nahi mila — kya karun?**
+Pehle tracking ID se status check karein — file aksar kisi objection par ruki hoti hai aur wajah SMS/portal par likhi hoti hai. Objection wala document durust karke e-Khidmat par de dein; wagarna counter par ja kar apni file ka status maloom karein.
+
+**Kya domicile ki photocopy par kaam chal sakta hai?**
+Aksar forms ke saath fotokapi hi lagti hai, lekin asal certificate sambhal kar rakhna lazmi hai — baaz idare verification ke liye asal dekhna mang sakte hain. Milne par chand fotokapiyan aur mobile scan bana lein.
 
 ## Application Ka Status Aur Objection Handle Karna
 

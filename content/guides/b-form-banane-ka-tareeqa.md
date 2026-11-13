@@ -11,7 +11,7 @@ B-Form ka official naam **Child Registration Certificate (CRC)** hai — ye aap 
 
 - Bache ka **school admission** nahi hota (aksar schools B-Form mangte hain)
 - Bache ka **passport** nahi ban sakta
-- **18 saal par CNIC** banwane me pareshani hoti hai
+- **18 saal par [CNIC](/guides/nadra-cnic-banane-ka-tareeqa)** banwane me pareshani hoti hai
 - Wirasat aur qanooni muamlat me bache ka record sabit nahi hota
 
 NADRA walidain se guzarish karta hai ke bache ki pedaish ke **3 se 6 mahine ke andar** B-Form banwa lein. Jitni jaldi banwayenge, utna hi behtar — baad me school ya passport ke waqt bhagna nahi parega. Achhi khabar ye hai ke fee bohat mamooli hai — sirf **Rs 50** normal processing par.
@@ -122,6 +122,21 @@ Bahir rehne wale Pakistani walidain ke liye process thoda mukhtalif hai:
 
 Agar bache ki pedaish bahir hui hai to **foreign birth certificate** ke saath walidain ke NICOP ki copies lagana na bhoolein — baghair is ke application reject ho sakti hai.
 
+## Worked Example: Paidaish Se B-Form Tak Aik Khadan Ka Schedule
+
+Aik naye khadan ke liye poora silsila aam tor par is tartib aur waqt me mukammal hota hai:
+
+| Marhala | Waqt | Kaam |
+| --- | --- | --- |
+| Paidaish ka din | Din 1 | Hospital se birth slip lein aur bache ka naam tay kar lein |
+| Union Council indraj | Pehle chand haftay | Walidain ke CNIC ke saath UC se computerized birth certificate lein |
+| B-Form apply | Paidaish ke 3–6 mahine ke andar | Pak ID app (1 saal se chote bache) ya NADRA center se CRC ke liye apply karein |
+| Wasooli | Normal 7 din / Executive 1 din | Tracking ID se status check karke B-Form sambhalein |
+
+Is schedule ka sab se bara faida ye hai ke har qadam waqt par uthta hai: [birth certificate banane ka tareeqa](/guides/birth-certificate-banane-ka-tareeqa) pehla marhala hai, us ke baghair NADRA ka system aage nahi barhta. B-Form mil jane ke baad bache ke [passport banane ke tareeqa](/guides/pakistan-passport-banane-ka-tareeqa) ka rasta bhi khul jata hai, aur yahi record 18 saal ki umar par pehle CNIC ki bunyad banta hai.
+
+**Aik se zyada bachon wala khadan kya kare?** Agar ghar me do-teen bachon ke B-Form banna baaki hain to sab ki tayyari aik saath karein — har bache ka birth certificate, walidain ke CNIC ki copies aur tasveerein aik hi file me rakhein. NADRA center ke aik hi chakkar me sab ka kaam ho jata hai, bas har bache ki fee aur form alag hoga. Judwaan bachon ke liye bhi yehi usool hai — har bache ka alag CRC banta hai, jaisa ke neeche sawalon me bhi wazeh hai.
+
 ## Aksar Poche Jane Wale Sawal (Jari)
 
 **Kya B-Form ghar bethe ban sakta hai?**
@@ -144,6 +159,12 @@ Pak ID portal (id.nadra.gov.pk) se online apply karein — fees dollar me hongi 
 
 **Kya B-Form ki bhi expiry hoti hai?**
 B-Form ki koi expiry nahi hoti, lekin bache ki maloomat (naam, date of birth) durust hona zaroori hai. 18 saal ki umar me CNIC banwate waqt B-Form ka record istemal hota hai, is liye us se pehle correction karwa lein.
+
+**B-Form banwane me kul kharcha kitna aata hai?**
+Union Council ki fee aam tor par Rs 100 se Rs 300 tak hoti hai, aur NADRA ki fee normal processing par Rs 50 hai — yani aam halat me kul kharcha chand so rupay ke andar rehta hai. Jaldi ho to executive (Rs 500, 1 din) ka option bhi hai.
+
+**Bache ki tasveer kahan li jayegi?**
+1 saal se chote bache ki tasveer Pak ID app se upload ho jati hai; 1 saal se bare bache ki tasveer NADRA center par li jati hai, is liye use saath le jana zaroori hai.
 
 
 ![Birth certificate aur registration documents ki tayyari](https://images.pexels.com/photos/4006962/pexels-photo-4006962.jpeg?auto=compress&cs=tinysrgb&w=1200)

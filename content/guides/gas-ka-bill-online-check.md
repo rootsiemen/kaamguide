@@ -98,6 +98,18 @@ Agar aap ke ghar gas ka connection hi nahi hai:
 3. **Demand notice** milega — is me security deposit aur charges likhe honge, bank me ada karein.
 4. Company ki team **survey** karke meter lagayegi — is me waqt lag sakta hai (kayee mahine bhi, ilaaqe ke hisab se).
 
+## Kiraye Ka Ghar Badla Hai? Bill Ke Teen Masail Aur Un Ka Hal
+
+Ghar badalte hi gas bill ke masail sab se zyada pesh aate hain — ye teen soortein aam hain:
+
+1. **Bill ab bhi purane kirayedaar ya malik ke naam par hai:** Naam jo bhi ho, bill check aur ada consumer number se hi hota hai. Lekin record saaf rakhna hai to naam transfer karwayen — tareeqa guide ke aakhir me hai.
+2. **Purana baqaya aap ke bill me aa gaya:** Shift hone wale din meter ki **reading ki tasveer tareekh ke saath** le lein — yehi company ke office me saboot banta hai ke aap se pehle ka istemal aap ka nahi. Baqaya malik se settle karna behtar hai.
+3. **Naye ghar me connection hi nahi hai:** To bill ki baat baad ki hai — pehle [naya gas connection lagwane ka process](/guides/sui-gas-naya-connection-ka-tareeqa) shuru karein, kyunke is me waqt lag sakta hai.
+
+Shift hone par yehi tareeqa bijli par bhi lagoo hota hai — naya ghar lete hi [bijli ka bill online check](/guides/bijli-ka-bill-online-check) karke us ka reference number bhi note kar lein, aur agar wahan bijli ka connection hi na ho to [naya bijli connection lagwane](/guides/bijli-naya-connection-meter-lagwana) ka kaam bhi saath shuru kar dein. Dono utilities ki maloomat aik hi din note kar lene se pehle mahine ka jhanjhat khatam ho jata hai.
+
+Aakhri mashwara: purane ghar ka aakhri bill ada karke raseed rakhein — final settlement me yehi kagaz kaam aata hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya gas bill online check karna muft hai?**
@@ -117,6 +129,12 @@ Heater/geyser se units barhte hain aur zyada units par rate ka slab bhi mehenga 
 
 **Kya main kirayedaar hun, bill check kar sakta hun?**
 Ji haan — consumer number se koi bhi bill check aur ada kar sakta hai, bill chahe malik ke naam par ho.
+
+**Ghar badal liya hai — kya purana consumer number naye ghar par bhi chalega?**
+Nahi. Consumer number connection aur meter se juda hota hai, har ghar ka alag hota hai. Naye ghar ka number wahan ke purane bill se milega ya malik se pooch lein.
+
+**Bill mere naam par nahi, phir bhi me ada kar raha hun — kya ye record mere liye masla banega?**
+Adaigi koi bhi kar sakta hai. Lekin baqaya ya dispute ki soorat me kagazat malik ke naam ke hisab se chalte hain — is liye lambi muddat rehna ho to naam transfer karwana hi behtar hai.
 
 ## Gas Chori Aur Leakage: Zimmedari Aur Complaint
 

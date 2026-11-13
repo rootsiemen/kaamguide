@@ -41,9 +41,9 @@ NADRA ka raasta **barabar legal authority** rakhta hai adalat ke certificate ki 
 
 File adhoori hui to case ruk jata hai — ye Pakistan ke Succession Facilitation setup ki **official requirements** hain, ye tamam kagzaat jama kar lein **apply karne se pehle**:
 
-- **Marhoom ka death certificate** — Union Council se jari hone wala computerised death certificate (CRMS number ke sath)
+- **Marhoom ka [death certificate](/guides/death-certificate-banane-ka-tareeqa)** — Union Council se jari hone wala computerised death certificate (CRMS number ke sath)
 - **Marhoom ke CNIC ki cancellation** — NADRA se CNIC Cancellation Certificate (death certificate aur CNIC par apply hota hai, fee nahi lagti, taqreeban agle din mil jata hai)
-- **Family Registration Certificate (FRC)** — marhoom ke khandan ka mukammal record; FRC **by birth aur by marriage** dono forms me manga jata hai (deceased ko record me shamil rakhein)
+- **[Family Registration Certificate (FRC)](/guides/nadra-frc-banane-ka-tareeqa)** — marhoom ke khandan ka mukammal record; FRC **by birth aur by marriage** dono forms me manga jata hai (deceased ko record me shamil rakhein)
 - **Applicant ka apna CNIC/NICOP/POC**
 - **Tamam waris (legal heirs) ke CNIC/NICOP ki copies** — har waris ka 13-digit number darj hona lazmi hai
 - **Har asset ke original kagzaat:** movable ke liye bank statements, prize bond details, gaari ke registration kagzaat; immovable ke liye registry papers, fard/mutation aur property tax record
@@ -109,7 +109,7 @@ Official timeline **notice ki publication ke baad 14 din** hai — lekin ye poor
 ## Aam Ghaltiyan (In Se Bachein)
 
 - **CNIC cancellation bhool jana:** Death certificate lene ke baad marhoom ka CNIC NADRA se cancel karwana lazmi hai — ye step miss hua to case file hi nahi hogi.
-- **Purana ya adhoora FRC:** FRC me marhoom ka record aur tamam waris darj hon — agar khandan ki maloomat purani ho to pehle FRC update karwayein.
+- **Purana ya adhoora FRC:** FRC me marhoom ka record aur tamam waris darj hon — agar khandan ki maloomat purani ho to pehle [FRC update karwayein](/guides/nadra-frc-banane-ka-tareeqa).
 - **Waris ki ginti ghalat:** Koi waris chhoot gaya to notice ke dauran aitraz aayega aur case decline ho jayega. Shuru me tamam heirs ki list mukammal rakhein.
 - **Attestation miss karna:** Authorization letter Oath Commissioner se attested ho — baghair attestation ke file wapis ho jati hai.
 - **Fee pehle pay kar dena:** Fee sirf office ki approval ke baad pay karein — approved hone se pehle payment ka koi faida nahi.
@@ -118,6 +118,17 @@ Official timeline **notice ki publication ke baad 14 din** hai — lekin ye poor
 
 
 ![Wirasat ke documents — succession ke liye warison ke kagzaat](https://images.pexels.com/photos/261621/pexels-photo-261621.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
+## Certificate Milne Ke Baad: Assets Transfer Ka Marhala
+
+Certificate milna akhri qadam nahi — us ke baad har asset ki **asal transfer** ka marhala shuru hota hai:
+
+1. **Bank accounts ke liye:** Certificate ki copy aur apna CNIC le kar marhoom ke bank jayen — bank certificate par mojood QR code se tasdeeq karke har waris ka hissa us ke account me transfer karta hai.
+2. **Prize bonds aur shares ke liye:** Mutallqa idare (bank ya CDC) me certificate pesh karna hota hai — wahan bhi har waris ka hissa usi tanasub se milta hai jo certificate par darj hai.
+3. **Zameen/makaan ke liye:** Letter of Administration ke saath zameen ke daftar se **mutation (intiqal)** karwana hota hai — is ke baghair property record me naam tabdeel nahi hota.
+4. **Gaari ke liye:** Excise daftar me certificate dikha kar transfer ki application di jati hai.
+
+Har jagah certificate ki **copies** darkar hoti hain, is liye milte hi chand attested copies bana lein aur original mehfooz rakhein. Har transfer ke baad us idare ki raseed ya updated record ki copy bhi isi file me rakhein. Koi idara certificate qabool karne se inkar kare to pehle us ki wajah tehriri me lein — NADRA ka jari karda certificate qanoni tor par adalat ke certificate ke barabar hai.
 
 ## Aksar Poche Jane Wale Sawal
 

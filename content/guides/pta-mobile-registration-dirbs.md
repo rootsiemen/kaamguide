@@ -76,6 +76,8 @@ Pakistan me **used imported phone** khareedte hue ye lazmi karein:
 3. **Dual SIM phones ke dono IMEI** check karein — aksar sirf aik register hota hai, doosra baad me block ho jata hai.
 4. Status **non-compliant** ho to qeemat me tax ki raqam minus karein ya na khareedin — tax **aap ko** deni hogi.
 
+Khareedne ke baad ye bhi confirm kar lein ke aap ke naam par kul kitni SIMs registered hain — [apne naam par kitni SIMs hain check karne ka tareeqa](/guides/apne-naam-par-kitni-sim-hain-check-karne-ka-tareeqa) wali guide se ajnabi SIM foran pakri jati hai.
+
 ## Aam Ghaltiyan Aur Dhoke
 
 1. **"Sasta patch approval":** Server se ki gayi nakli approval kuch arse baad mar jati hai — paisa gaya, phone bhi block.
@@ -83,6 +85,25 @@ Pakistan me **used imported phone** khareedte hue ye lazmi karein:
 3. **60 din bhool jana:** Grace period khamoshi se guzar jata hai — SIM dalte hi reminder laga lein.
 4. **Agent ko ghair-mamooli fee:** Official tax sirf **PSID se bank/app** me jati hai — agent ko naqd (cash) kabhi na dein.
 5. **Kisi aur ke CNIC par registration:** Mustaqbil me phone ke muamlat me wahi shaks darkaar hoga — apne naam par karwayen.
+
+## Registration Ke Liye CNIC/NICOP Ka Durust Hona
+
+DIRBS registration aap ke **CNIC ya NICOP number** se judi hoti hai, is liye ye record durust hona lazmi hai. Agar CNIC **expire** ho chuka hai, naam ki spelling ghalat hai, ya aap ka mobile number CNIC par registered hi nahi, to application verification ke marhale par atak sakti hai aur PSID generate karne me error aa sakta hai.
+
+Registration se pehle apna CNIC hath me le kar us ki maloomat aik dafa ghor se parh lein. CNIC banwana ya renew karwana ho to [NADRA CNIC banane ka tareeqa](/guides/nadra-cnic-banane-ka-tareeqa) wali guide me poora process step-by-step diya hai — pehle wo kaam nipta lein, phir registration ki taraf jayen. Overseas Pakistanis ke liye yehi kaam NICOP se hota hai, aur jis mobile number se registration kar rahe hain wo bhi aap ke apne CNIC par registered hona chahiye, warna OTP aur status messages nahi ayenge.
+
+## Dual SIM Phone: Dono IMEI Register Karna Kyun Lazmi Hai
+
+Dual SIM phones ke **do IMEI number** hote hain — har SIM slot ka alag — aur DIRBS me har IMEI ki registration alag gini jati hai. Aksar log sirf pehle IMEI ki tax ada karke samajhte hain ke phone register ho gaya, lekin doosra slot kuch arse baad block ho jata hai aur doosri SIM achanak band ho jati hai.
+
+Is masle se bachne ke liye:
+
+1. **\*#06#** dial karke **dono IMEI** note karein.
+2. **8484 par dono IMEI alag-alag SMS** karke dono ka status check karein.
+3. DIRBS portal par registration ke waqt **dono IMEI darj** karein — system har IMEI ki tax alag dikhayega.
+4. Payment ke baad dono ka status **compliant** dobara confirm karein.
+
+Apne CNIC par kul kitni SIMs chal rahi hain, ye jan'ne ke liye [apne naam par kitni SIMs check karne ki guide](/guides/apne-naam-par-kitni-sim-hain-check-karne-ka-tareeqa) bhi parh lein.
 
 ## Aksar Poche Jane Wale Sawal
 
@@ -103,6 +124,12 @@ Passport registration **usi shaks** ke liye hai jis ne safar kiya ho aur phone u
 
 **Phone gift me mila, receipt nahi — registration hogi?**
 Ji, registration IMEI par hoti hai — lekin **tax ki raqam** DIRBS FBR valuation se lagayega, receipt ki zaroorat nahi.
+
+**CNIC expire ho to registration ho jayegi?**
+Mushkil ho sakti hai — verification ke marhale par application ruk sakti hai. Pehle [CNIC renew karwayen](/guides/nadra-cnic-banane-ka-tareeqa), phir registration karein.
+
+**Sirf aik SIM slot band ho jaye to kya matlab hai?**
+Matlab hai ke us slot ka IMEI register nahi hua — *#06# se dono IMEI check karke ghair-registered IMEI ki registration DIRBS se karwayen.
 
 ## Box-Pack (Naya) Imported Phone Khareedte Waqt
 

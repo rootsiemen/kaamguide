@@ -252,5 +252,6 @@ export const CATEGORIES = [
   { name: "Domicile", blurb: "Domicile aur PRC certificate ka tareeqa" },
   { name: "Gaari / Vehicle", blurb: "Gaari verification, transfer aur token tax" },
   { name: "Certificates", blurb: "Birth, marriage, character aur degree attestation" },
+  { name: "Schemes", blurb: "BISP, loan schemes, pension aur sahulat cards" },
   { name: "Mobile / PTA", blurb: "PTA registration, mobile tax aur DIRBS" },
 ];

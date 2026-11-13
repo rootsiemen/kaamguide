@@ -9,7 +9,7 @@ category: "Certificates"
 
 Kisi apne ki wafat ke baad gham ke sath-sath kaagzi kam bhi khare rehte hain, aur un me se sab se ahem document **death certificate** hai. Ye Union Council ki taraf se jari hone wala sarkari saboot hai ke falan shakhs ka inteqal ho gaya hai — aur is ke baghair marhoom ke har qisam ke waraasati aur qanoni kam ruke rehte hain.
 
-Bank accounts band karwana hon, succession certificate lena ho, pension ya insurance ka claim karna ho, zameen/jaydaad ki mutation karani ho, ya marhoom ka CNIC NADRA se cancel karwana ho — har jagah pehla sawal yehi poocha jata hai ke **computerized death certificate dikhayen**. Baghair is certificate ke bank marhoom ke paisay heirs ko nahi deta, NADRA succession certificate ki application aage nahi barhti, aur pension kabhi start nahi hoti.
+Bank accounts band karwana hon, [succession certificate](/guides/succession-certificate-banane-ka-tareeqa) lena ho, pension ya insurance ka claim karna ho, zameen/jaydaad ki mutation karani ho, ya marhoom ka CNIC NADRA se cancel karwana ho — har jagah pehla sawal yehi poocha jata hai ke **computerized death certificate dikhayen**. Baghair is certificate ke bank marhoom ke paisay heirs ko nahi deta, NADRA succession certificate ki application aage nahi barhti, aur pension kabhi start nahi hoti.
 
 Is liye hamari salah ye hai: inteqal ke baad is kaam ko **mahinoon tak mat latkayen**. Punjab ke naye rules ke mutabiq ab ye certificate **bilkul muft** ban raha hai, aur 7 saal tak ki registration ke liye court decree ki mushkil shart bhi khatam kar di gayi hai. Is guide me hum aap ko batayenge ke kagzaat kaun se chahiye, Union Council me apply kaise karna hai, online option kya hai, aur kitna waqt lagta hai — taake aap aik dafa me ye kaam poora kar lein.
 
@@ -48,7 +48,7 @@ Kaghaz na-mukammal hona sab se aam wajah hai jis se logon ke chakkar lagte hain.
 3. **Hospital ki death slip / medical certificate** — agar inteqal hospital me hua hai to hospital ka jari karda death report.
 4. **Ghar par inteqal ki soorat me:** do gawahon ke CNIC ki photocopies aur aik **affidavit** (halaf-nama) jis me gawah tasdeeq karein ke inteqal kahan aur kab hua. Kuch Union Councils me gawah ka khud hazir hona bhi manga jata hai.
 5. **Burial slip / qabristan ki raseed** — qabristan committee ki taraf se dafn ki tasdeeq wali parchi.
-6. **Nikah nama ya FRC** (agar rishta sabit karne ke liye manga jaye) — khas tor par jab apply karne wala shohar/biwi ho.
+6. **Nikah nama ya [FRC](/guides/nadra-frc-banane-ka-tareeqa)** (agar rishta sabit karne ke liye manga jaye) — khas tor par jab apply karne wala shohar/biwi ho.
 
 **Ek zaroori mashwara:** tamam originals ke sath **2-2 photocopies** bana kar le jayen. Union Council ka office aksar photocopy ki sahoolat nahi deta, aur aik photocopy ki kami ki wajah se poora din zaya ho sakta hai.
 
@@ -102,6 +102,19 @@ Waqt ka doraniya soobe aur case ki noiyat par munhasir hai, lekin aam practice y
 
 
 ![Union council me waft ka indiraj aur certificate ke documents](https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
+## Death Certificate Milne Ke Baad Ke Kaam
+
+Certificate hath me ane ke baad ye kaam tarteeb se kar lein — aksar rukawatein isi marhale par ati hain:
+
+1. **Marhoom ka CNIC NADRA se cancel karwayen** — death certificate dikha kar CNIC cancellation karwana lazmi hai; yehi cancellation aage ke har kaam me darkar hoti hai.
+2. **Bank aur pension ka process shuru karein** — bank accounts, pension ya insurance ke claim ke liye aam tor par [succession certificate](/guides/succession-certificate-banane-ka-tareeqa) manga jata hai, jis ke baghair raqam warison ko transfer nahi hoti.
+3. **FRC update karwayen** — khandan ke record me wafat ka indiraj durust karwane ke liye [family registration certificate (FRC)](/guides/nadra-frc-banane-ka-tareeqa) naya banwayen ya update karwayen, taake aayenda ke kaamon me record saaf mile.
+4. **Certificate ki copies bana lein** — har idare ko alag copy darkar hoti hai; original hamesha apne paas mehfooz rakhein.
+
+Ye teenon kaam jitni jaldi ho jayen, warasat aur bank ke muamlat utni hi asani se aage barhte hain.
+
+Aik mashwara aur: tamam documents (death certificate, CNIC cancellation slip, FRC) aik hi file me tarteeb se rakhein. Waraasat ke kaam mahino chalte hain aur har daftar me yehi file pesh karni parti hai — alag-alag kagaz dhoondhne me sab se zyada waqt zaya hota hai.
 
 ## Aksar Poche Jane Wale Sawal
 

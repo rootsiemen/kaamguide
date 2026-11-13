@@ -22,8 +22,16 @@ export default function ContactPage() {
         </p>
         <h2>Email</h2>
         <p>
-          Hum se email ke zariye rabta karein:
+          Hum se rabta karne ka sab se asan aur tez tareeqa email hai. Apna
+          sawal, sifarish ya nishandehi is email address par bhejein:
         </p>
+        <p>
+          <strong>Email:</strong>{" "}
+          <a href="mailto:neilsonsmarry@gmail.com">
+            neilsonsmarry@gmail.com
+          </a>
+        </p>
+        <p>Hum aam taur par in mozuaat par email wasool karte hain:</p>
         <ul>
           <li>
             Guide ki correction ya fee update ki maloomat
@@ -31,6 +39,40 @@ export default function ContactPage() {
           <li>Nayi guide ki sifarish</li>
           <li>Aam sawalat aur mashwara</li>
         </ul>
+        <h2>Jawab kab milega?</h2>
+        <p>
+          Hum har email parhte hain aur aam taur par{" "}
+          <strong>2 se 3 working days</strong> ke andar jawab dene ki poori
+          koshish karte hain. Guide ki correction ya fee update wali emails ko
+          sab se pehle tarjeeh di jati hai, kyunke un se baqi tamam readers ko
+          bhi faida hota hai. Agar aap ke sawal ka jawab kisi mojooda guide me
+          pehle se diya gaya hai, to hum aap ko us guide ka link bhej dete
+          hain takay aap ko intezar na karna pare.
+        </p>
+        <h2>Email me ye maloomat shamil karein</h2>
+        <ul>
+          <li>
+            Mutaliqa guide ka naam ya us ka link, takay hum foran sahi page
+            tak pohonch saken
+          </li>
+          <li>
+            Ghalti ya tabdeeli ki wazeh tafseel — masalan purani fee kya thi
+            aur nayi fee kya hai
+          </li>
+          <li>
+            Agar mumkin ho to official website ya notification ka hawala,
+            takay tasdeeq me asani ho
+          </li>
+        </ul>
+        <h2>Kya na bhejein</h2>
+        <p>
+          Meherbani karke email me apni zaati dastavezaat kabhi na bhejein —
+          CNIC ki copy, passport ki scan copy, bank statement ya aisi koi bhi
+          zaati maloomat humein darkar nahi hoti. KaamGuide kabhi bhi email
+          par personal documents nahi mangta. Agar koi shakhs KaamGuide ka
+          naam istemal karke aap se documents ya fees mange, to wo fraud hai —
+          usay jawab na dein aur isi email par humein ittila dein.
+        </p>
         <p>
           <strong>Note:</strong> Hum kisi qisam ki sarkari application process
           nahi karte aur na hi kisi fard ki personal maloomat (CNIC number,

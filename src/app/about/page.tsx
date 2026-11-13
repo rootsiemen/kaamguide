@@ -37,6 +37,17 @@ export default function AboutPage() {
           hai. Hamara kaam maloomat ko asaan banana hai; sarkari faislay aur
           services sirf mutaliqa idaray ke ikhtiyar me hain.
         </p>
+        <h2>Founder &amp; Editor</h2>
+        <p>
+          <strong>Muhamad Raza Haider — Founder &amp; Editor.</strong>{" "}
+          Muhamad Raza Haider aik web developer hain. Unhon ne October 2026
+          me KaamGuide ki buniyad isi maqsad se rakhi ke Pakistan ke log apne
+          sarkari kaam kisi agent ke baghair, sahi aur mukammal maloomat parh
+          kar khud mukammal kar saken. KaamGuide ki har guide ki tehqeeq,
+          tehreer aur editing ki nigrani wo khud karte hain — fees aur process
+          sirf official sources se liye jate hain, aur kisi ghalti ki
+          nishandehi ho to guide ko durust karke update kar diya jata hai.
+        </p>
         <h2>Editorial policy: hum maloomat kaise verify karte hain</h2>
         <ul>
           <li>

@@ -2,7 +2,7 @@
 title: "NADRA Marriage Certificate Banane Ka Tareeqa (2026): Nikah Registration Aur MRC"
 description: "Shadi ke baad NADRA computerized marriage certificate (MRC) banwane ka mukammal tareeqa — Union Council me Nikah registration, fee, zaroori kagzaat, CNIC update aur aksar poche jane wale sawal."
 date: "2026-10-19"
-category: "Certificates"
+category: "NADRA / CNIC"
 ---
 
 ## Nikah Nama Aur NADRA Marriage Certificate Me Farq
@@ -80,6 +80,18 @@ Bahir rehne walon ke liye rasta khula hai:
 4. **CNIC update na karna:** Certificate banwa kar CNIC purana chhor dena — dono ka match hona zaroori hai.
 5. **Agent ko hazaron dena:** UC ki fee chand sau hai — agent ka is me koi kirdaar nahi.
 
+## Aik Misal Se Samjhein: Shadi Ke Baad Pehle 30 Din Ka Schedule
+
+Faraz karein Nikah abhi hua hai — teeno marhale is tartib se karein to koi kaam nahi atkega:
+
+1. **Pehla hafta — indraj ki tasdeeq:** Nikah Registrar se poochne ke bajaye khud Union Council ja kar confirm karein ke Nikah ka indraj system me darj ho gaya hai. Yehi aik chakkar aage ke tamam kaam asaan kar deta hai.
+2. **Doosra hafta — MRC ki application:** Asal Nikah Nama, dono CNIC aur photographs le kar UC se computerized certificate ke liye apply karein. Fee ada karke raseed sambhalen.
+3. **Certificate milte hi — naam ki tasdeeq:** Ghar aa kar certificate par dono ke naam, walid ke naam aur tareekh **CNIC aur Nikah Nama se harf-ba-harf** milayen. Ghalti ho to usi hafte correction — der hui to wahi ghalti har jagah phelti hai.
+4. **Teesra-choutha hafta — CNIC update:** Certificate le kar NADRA center jayen aur [CNIC par marital status update](/guides/nadra-cnic-banane-ka-tareeqa) karwayen. Is ke baad khandan ke record ke liye [FRC banwane](/guides/nadra-frc-banane-ka-tareeqa) ka kaam bhi zehen me rakhein — bachon ki registration aane par yehi record buniyad banta hai.
+5. **Bahir jane ka plan ho to:** CNIC update ke baad hi [passport par spouse ka naam](/guides/pakistan-passport-banane-ka-tareeqa) darj karwana asaan hota hai, kyunke passport office bhi yehi certificate aur updated CNIC mangta hai.
+
+Ye schedule koi mushkil rocket science nahi — bas tartib sahi ho to shadi ke pehle mahine me hi tamam kagzaat mukammal ho jate hain.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Nikah Nama gum ho gaya, kya karun?**
@@ -96,6 +108,12 @@ Indraj ke liye aik bhi ja sakta hai, lekin **power of attorney** ke saath. Behta
 
 **Certificate par ghalti ho to?**
 Foran wapas UC jayen — Nikah Nama se mila kar correction karwayen. Der ki to har document me ghalti phel jayegi.
+
+**Nikah Registrar ne indraj kar diya ho — kya MRC ke liye phir bhi mujhe UC jana hoga?**
+Ji haan. Indraj aur certificate do alag marhale hain: indraj Nikah Nama ki bunyad par hota hai, lekin computerized certificate ke liye UC me alag se apply karna parta hai.
+
+**Certificate milne me der ho rahi hai, status kahan se maloom ho?**
+Apni Union Council ke office se raseed dikha kar maloom karein — MRC ka koi online tracking system nahi hota, ye kaam UC ke record se hi confirm hota hai.
 
 ## Marriage Certificate Ki Verification (Visa Ke Liye Ahem)
 

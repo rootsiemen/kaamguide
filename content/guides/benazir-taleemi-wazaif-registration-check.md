@@ -2,7 +2,7 @@
 title: "Pakistan Me Benazir Taleemi Wazaif Registration Aur Check Karne Ka Tareeqa (2026): Bachon Ka Wazifa Kaise Lein"
 description: "Benazir Taleemi Wazaif 2026 — BISP Kafaalat wali maaon ke bachon ko har quarter Rs 1,500 se 4,000 tak wazifa: ehliyaat (umar 4–22 saal), B-Form aur school admission slip, Tehsil office ya enrollment camp se registration, 70% attendance ki shart, 8171 par CNIC se check aur aam ghaltiyan."
 date: "2026-11-10"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Benazir Taleemi Wazaif Kya Hai

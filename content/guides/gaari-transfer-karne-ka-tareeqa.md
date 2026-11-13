@@ -95,6 +95,18 @@ Aik aam misal — **1300cc car, 3 saal purani, filer kharidar**:
 4. **Engine number na milana:** Transfer ke baad pata chale to qanooni masla aap ka hoga.
 5. **Nayi number plates:** Transfer ke baad apne naam ki registration ke mutabiq number plates/meter record update karna na bhoolein.
 
+## Aik Asal Misal: 1000cc Gaari Kharidi, Transfer Ka Din Kaisa Guzra
+
+Faraz karein aap ne aik 1000cc ki istemal-shuda gaari khareedi aur wohi hafte transfer ka faisla kiya:
+
+1. **Sauda se pehle waali shaam:** Aap ne MTMIS par gaari ka record check kiya — malik ka naam, engine aur chassis number book se mil gaye. Saath hi [token tax ka status](/guides/gaari-token-tax-online-jama-karwana) bhi dekh liya — token ada tha, to baad ka jhagra hi khatam.
+2. **Transfer wale din subah:** Kharidar aur bechne wala dono asal CNIC, registration book aur gaari ke saath Excise office pahunche. Counter se TO form lekar bhara, copies attach keen.
+3. **Biometric aur challan:** Dono ki biometric tasdeeq hui. System ne raqam gin kar di — 1000cc tak ki car ki transfer fee **Rs 1,200** (uper wali table ke mutabiq) aur is ke saath jo tax bana, wo challan me wazeh tha. Challan bank/ePay se ada kar diya.
+4. **File jama aur raseed:** File jama kar ke raseed le li — jab tak smart card nahi aata, yehi raseed malkiat ka saboot hai.
+5. **Transfer ke baad:** Kuch din me MTMIS par naam apna nazar ane laga. Saath hi ye bhi dekh liya ke koi [purana e-challan](/guides/punjab-e-challan-check-aur-pay-karne-ka-tareeqa) gaari par baqaya to nahi — hota to wo bhi clear karwana parta.
+
+Is misal ka sabak seedha hai: transfer mushkil nahi, bas **dono fard, asal kagzaat aur aik subah** chahiye. Der karna asal mehenga parta hai, transfer nahi.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya bechne wala mar gaya ho to transfer ho sakta hai?**
@@ -111,6 +123,12 @@ Sirf **Rs 150** — is ke ilawa WHT bike par aam tor par nahi lagta ya mamooli h
 
 **Khareed kar saal ho gaya, transfer nahi kiya — ab kya hoga?**
 Ab bhi transfer ho jata hai lekin late fee/token baqaya aap ko dena parega. Mazeed der na karein.
+
+**Transfer ki raseed ghum jaye to kya hoga?**
+Ghabrayen nahi — apna CNIC aur gaari ka number le kar Excise office jayen, wahan record se aap ki file ki tafseel mil jati hai. Lekin raseed hi aap ka saboot hai, is liye milte hi is ki photo mobile me bacha lein.
+
+**Company ya bank ke naam wali gaari ki transfer kaise hoti hai?**
+Bank lease wali gaari par pehle bank ki NOC lazmi hai (uper tafseel di gayi hai). Company ke naam ki gaari par company ka authority letter aur mutaliqa dastakhat chahiye hote hain — office se pehle confirm kar lein ke kaun hazir hoga.
 
 ## Transfer Se Mutalliq Kharchon Ka Checklist (Jeb Ki List)
 

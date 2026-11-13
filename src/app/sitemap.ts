@@ -3,7 +3,15 @@ import { SITE_URL } from "@/lib/site";
 import { getAllGuides } from "@/lib/guides";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPages = ["", "/guides", "/about", "/contact", "/privacy-policy"];
+  const staticPages = [
+    "",
+    "/guides",
+    "/about",
+    "/contact",
+    "/privacy-policy",
+    "/terms",
+    "/disclaimer",
+  ];
   const staticUrls = staticPages.map((p) => ({
     url: `${SITE_URL}${p}`,
     lastModified: new Date("2026-10-19"),

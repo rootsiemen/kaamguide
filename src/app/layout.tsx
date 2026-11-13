@@ -57,6 +57,12 @@ const orgLd = {
   logo: `${SITE_URL}/logo.png`,
   description:
     "Roman Urdu me sarkari kaamon ki guides — official sources se verified fees, documents aur process.",
+  founder: { "@type": "Person", name: "Muhamad Raza Haider" },
+  contactPoint: {
+    "@type": "ContactPoint",
+    email: "neilsonsmarry@gmail.com",
+    contactType: "customer support",
+  },
 };
 
 function Header() {
@@ -106,6 +112,8 @@ function Footer() {
           <a href="/about" className="hover:text-green-700">Hamare Baare Me</a>
           <a href="/contact" className="hover:text-green-700">Rabta</a>
           <a href="/privacy-policy" className="hover:text-green-700">Privacy Policy</a>
+          <a href="/terms" className="hover:text-green-700">Terms of Use</a>
+          <a href="/disclaimer" className="hover:text-green-700">Disclaimer</a>
         </div>
         <p className="mt-4 text-xs">© 2026 KaamGuide. Jami haqooq mehfooz hain.</p>
       </div>
@@ -124,6 +132,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgLd) }}
+        />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9075805757065172"
+          crossOrigin="anonymous"
         />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-1RP6FM2MJQ" />
         <script

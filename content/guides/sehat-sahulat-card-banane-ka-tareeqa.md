@@ -2,7 +2,7 @@
 title: "Pakistan Me Sehat Sahulat Card Ka Tareeqa (2026): Ehliyaat Check, Muft Ilaj Aur Hospital Ka Poora Process"
 description: "Sehat Sahulat Card 2026 — CNIC se ehliyaat kaise check karein (SMS 8500/9780), KP Sehat Card Plus aur Punjab PHIMC coverage, empanelled hospital me muft ilaj ka tareeqa, coverage limits, helplines aur aam ghaltiyan."
 date: "2026-10-24"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Sehat Card Kya Hai Aur Ye Kaise Kaam Karta Hai
@@ -100,6 +100,28 @@ Helpline par CNIC batane se ehliyaat, qareebi empanelled hospital aur coverage k
 5. **NADRA family record update na karna:** Nayi shadi ya bachay ki paidaish ke baad family record update karwayen, warna coverage me masla ho sakta hai.
 6. **Hospital ki cash demand par chup rehna:** Covered ilaj par paise mangna SOP ke khilaf hai — helpline par shikayat darj karwayen, aksar masla foran hal ho jata hai.
 
+## Aik Khadan Ka Asal Safar: Ghar Se Hospital Tak (Worked Example)
+
+Samajh lein aik khadan ko achanak ilaj ki zaroorat parti hai — ghar ke buzurg ko dil ki takleef hoti hai ya ghar me delivery ka waqt qareeb hai. Is surat me aam khadan aam tor par is tartib se aage barhta hai:
+
+1. **Pehle ehliyaat confirm karein:** Ghar bethe mobile se apna CNIC number **8500** par SMS karein (KP walay 8500 ya 9780). Reply me enrollment confirm ho jaye to samajh lein coverage mojood hai — hospital jaane se pehle ye aik minute ka kaam bare dhakke se bachata hai.
+2. **Hospital ka intikhab soch kar karein:** Qareebi empanelled hospital ka naam helpline (KP: 0800-89898, Punjab: 0800-09009) ya app se confirm karein. Private hospital ho ya sarkari, shart sirf ye hai ke woh program me shamil ho — jo hospital list me nahi, wahan card nahi chalega.
+3. **File tayyar rakhein:** Asal CNIC, aur agar mareez bacha hai to B-Form. Naya bacha peda hone wala hai to paidaish ke baad us ka record waqt par darj karwana bhi isi silsilay ka hissa hai — tafseel [birth certificate guide](/guides/birth-certificate-banane-ka-tareeqa) me hai.
+4. **Hospital me pehla stop Sehat Sahulat counter hai:** Wahan verification aam tor par 2–5 minute me ho jati hai. Advance ya deposit ki demand aye to paise diye baghair helpline par baat karein.
+5. **Discharge par kagazat sambhalein:** Satisfaction form sign karne ke saath apne ilaj ke documents ki copies le lein — ye aayenda ke ilaj aur record ke liye kaam aati hain.
+
+**Hospital jaane se pehle ki checklist:**
+
+| Cheez | Tayyar hai? |
+| --- | --- |
+| Asal, valid CNIC | Haan / Nahi |
+| Bache ke liye B-Form | Haan / Nahi |
+| Ehliyaat SMS (8500) ka jawab | Haan / Nahi |
+| Empanelled hospital confirm | Haan / Nahi |
+| Helpline number mobile me save | Haan / Nahi |
+
+Ye hi tartib maternity, surgery ya emergency — har indoor ilaj me kaam aati hai. Aur jo khadan sehat ke saath maashi sahulat ke dosre programs bhi check karna chahe, woh [BISP 8171 registration guide](/guides/bisp-8171-registration-check) bhi dekh sakta hai — aksar mustahiq khadan dono programs ke liye ehliyaat rakhte hain.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Sehat Card ke liye apply kaise karun? Koi form hai?**
@@ -116,6 +138,12 @@ Covered ilaj par koi cash demand **ghair-qanooni** hai. Paise na dein aur foran 
 
 **Kya card ki expiry hoti hai? Renew karna parta hai?**
 Card ki koi fixed expiry nahi — jab tak aap eligible hain, coverage **har saal auto-renew** hoti hai. Bas CNIC valid aur NADRA family record updated rakhein.
+
+**Mera CNIC expire ho chuka hai, ilaj se pehle kya karun?**
+Verification NADRA record se hoti hai, is liye expired CNIC par case atak sakta hai. Pehle CNIC renew karwayen — tareeqa oopar kagzaat wale section me diye gaye link par hai — phir 8500 par SMS karke apni ehliyaat dobara confirm kar lein.
+
+**Kya private hospital me bhi Sehat Card chal sakta hai?**
+Ji haan, agar woh private hospital program me empanelled hai. Sarkari ya private hona shart nahi — list me shamil hona shart hai. Jaane se pehle helpline ya app se us hospital ka naam zaroor confirm kar lein.
 
 
 ![Doctor mareez ka checkup — sehat sahulat program ke empaneled hospitals](https://images.pexels.com/photos/6129444/pexels-photo-6129444.jpeg?auto=compress&cs=tinysrgb&w=1200)

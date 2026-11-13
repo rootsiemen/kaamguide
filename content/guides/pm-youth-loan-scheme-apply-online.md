@@ -2,7 +2,7 @@
 title: "Pakistan Me PM Youth Loan Scheme Apply Karne Ka Tareeqa (2026): 75 Lakh Tak Karobar Loan Ka Poora Process"
 description: "PM Youth Business & Agriculture Loan Scheme (PMYB&ALS) 2026 — 5 lakh tak bila sood, 15 lakh tak 5% aur 75 lakh tak 7% markup: ehliyaat (umar 21-45), teen tiers, zaroori kagzaat, pmybals.pmyp.gov.pk par online apply ka step-by-step tareeqa aur aam ghaltiyan."
 date: "2026-11-09"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: PM Youth Loan Scheme Kya Hai

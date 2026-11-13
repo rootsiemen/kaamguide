@@ -2,7 +2,7 @@
 title: "Pakistan Me BISP 8171 Registration Check (2026): Ehliyaat, Naya Registration Aur Qist Ka Poora Tareeqa"
 description: "BISP 8171 check 2026 — apne CNIC se ehliyaat kaise check karein (SMS 8171 aur official portal), naya registration tehsil office se, Benazir Kafaalat ki sah-maahi qist, zaroori kagzaat, PMT score ki shartein aur fraud se bachne ke tareeqe."
 date: "2026-10-24"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: BISP Kya Hai Aur 2026 Me Qist Kitni Milti Hai

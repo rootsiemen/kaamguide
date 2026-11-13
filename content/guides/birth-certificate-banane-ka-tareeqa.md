@@ -9,7 +9,7 @@ category: "Certificates"
 
 Bache ki pedaish ke baad sab se pehla sarkari document **birth certificate (paidaish certificate)** hai — ye **Union Council** jari karti hai. Is ke baghair:
 
-- **B-Form (CRC)** nahi ban sakta — NADRA UC ka birth certificate mangta hai
+- **[B-Form (CRC)](/guides/b-form-banane-ka-tareeqa)** nahi ban sakta — NADRA UC ka birth certificate mangta hai
 - **School admission** me pareshani hoti hai
 - **Passport** aur mustaqbil me **CNIC** ke liye record adhoora rehta hai
 
@@ -90,6 +90,21 @@ Agar certificate banne ke baad ghalti nazar aye (naam ki spelling, date):
 3. **Raseed na lena:** Fee ki raseed na ho to baad me saboot nahi rehta.
 4. **Der karna:** B-Form aur school ke waqt bhag-daud se bachne ke liye pehle mahine me karwa lein.
 
+## Pehle Mahine Ka Plan: Hafta-ba-Hafta Checklist
+
+Walidain ke liye sab se asan tareeqa ye hai ke kaam ko pehle mahine me baant lein — is se na UC ke chakkar achanak parte hain, na school ke waqt pareshani hoti hai:
+
+| Waqt | Kaam |
+| --- | --- |
+| Paidaish wala din | Hospital se birth slip lein, bache ka naam ghar walon se mashware ke baad tay kar lein |
+| Pehla hafta | Union Council me indraj ki darkhwast aur fee jama karwayen |
+| Dusra hafta | Computerized birth certificate wasool karein, naam ki spelling aur date harf-ba-harf check karein |
+| Pehla mahina | Certificate ki photocopies aur mobile scan sambhalein, phir B-Form ki tayyari shuru karein |
+
+Is tartib ka faida ye hai ke har document agle document ki bunyad bantaa hai: birth certificate ke baad B-Form, B-Form ke baad [passport banane ka tareeqa](/guides/pakistan-passport-banane-ka-tareeqa), aur 18 saal ki umar par [CNIC banane ka tareeqa](/guides/nadra-cnic-banane-ka-tareeqa) — har marhale par pichla record durust ho to koi rukawat nahi aati. Khadan me kisi ke inteqal ki soorat me bhi Union Council ka indraj hi pehla qadam hota hai, jis ki tafseel [death certificate guide](/guides/death-certificate-banane-ka-tareeqa) me di gayi hai.
+
+**Shehar aur dehat me chhota sa farq:** Bare shehron me Union Council ke saath e-Khidmat Markaz ya Dastak jaisi sahulatain bhi mil jati hain, jabke dehati ilaaqon me aam tor par UC office hi wahid rasta hota hai. Dehat me jaane se pehle kagzaat ki mukammal file — hospital slip, dono walidain ke CNIC aur nikah-nama ki copy — aik saath le jayen, takay dusra chakkar na lage. Shehar ho ya dehat, raseed aur secretary ki stamp wala certificate lena dono jagah lazmi hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya birth certificate online ban sakta hai?**
@@ -106,6 +121,12 @@ UC se **duplicate** nikalwa lein — purana record un ke register me hota hai, m
 
 **Kya birth certificate se B-Form ban jayega?**
 Ji haan — B-Form ke liye UC ka birth certificate hi bunyadi document hai.
+
+**Kya birth certificate ke baghair school admission ho sakta hai?**
+Aksar schools admission ke waqt birth certificate ya B-Form mangte hain — baghair documents ke admission atak sakta hai ya waqti tor par ruk sakta hai. Is liye admission season se pehle hi certificate tayyar rakhein.
+
+**Certificate par English spelling ghalat ho to aage kya masla hoga?**
+Wohi spelling B-Form, passport aur CNIC tak jati hai — farq aye to har jagah correction karwani parti hai. Certificate milte hi English aur Urdu dono spellings check karein, ghalti ho to foran UC se theek karwayen.
 
 ## Birth Certificate Aur B-Form Ka Rishta (Poori Tasveer)
 

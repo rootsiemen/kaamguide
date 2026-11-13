@@ -20,7 +20,7 @@ FRC ki sab se zyada zaroorat **visa aur immigration** ke waqton par parti hai. J
 | **FRC by Adoption** | God liye hue (adopted) bachay | Qanooni sarparast (guardian) aur bachay |
 | **FRC by All** | Dono khandan aik saath | Alpha + beta family (tamam afraad) |
 
-Aksar log FRC aur **B-Form (CRC)** ko aik hi cheez samajhte hain — **nahi, dono alag hain**: B-Form 18 saal se kam umar ke bache ki apni paidaish ka record hai, jabke FRC poore khandan ke rishton ka record hai.
+Aksar log FRC aur [**B-Form (CRC)**](/guides/b-form-banane-ka-tareeqa) ko aik hi cheez samajhte hain — **nahi, dono alag hain**: B-Form 18 saal se kam umar ke bache ki apni paidaish ka record hai, jabke FRC poore khandan ke rishton ka record hai.
 
 ## Zaroori Kagzaat
 
@@ -107,10 +107,22 @@ NADRA ki official Fee Structure me FRC ka timeline **01 din** darj hai:
 
 ![Family ke documents — FRC ke liye sab afrad ke CNIC chahiye hote hain](https://images.pexels.com/photos/32206234/pexels-photo-32206234.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
+## FRC Se Pehle Family Record Ki Tayyari (Pre-Check)
+
+FRC me der ki sab se bari wajah record ki kami hoti hai — is liye apply karne se **pehle** ye pre-check kar lein, phir FRC waqai 1 din ka kaam ban jata hai:
+
+1. **Har fard ka 13-digit number likh lein** — walidain, behan-bhai, biwi aur bachon ke CNIC/NICOP numbers aik kagaz par jama kar lein.
+2. **Bachon ka B-Form confirm karein** — jis bache ka B-Form (CRC) nahi bana, us ka naam FRC me nahi ayega. Pehle [B-Form banane ka tareeqa](/guides/b-form-banane-ka-tareeqa) wali guide se ye kaam nipta lein.
+3. **Shadi ka record check karein** — FRC by Marriage ke liye shadi NADRA record me darj honi chahiye. Agar marriage certificate ka record maujood nahi to [NADRA marriage certificate ki guide](/guides/nadra-marriage-certificate) se pehle wo process poora karein.
+4. **Naamon ki spelling mila lein** — sab documents par aik jaisi spelling honi chahiye; farq ho to pehle [CNIC ki maloomat durust karwana](/guides/nadra-cnic-banane-ka-tareeqa) hoga.
+5. **Wafat shuda fard ka record** — marhoom fard ka naam record me shamil rehta hai, lekin us ki maloomat durust hona bhi zaroori hai.
+
+Ye tayyari ghar par 15-20 minute me ho jati hai, aur center par ja kar wapas ane ke chakkar se bacha leti hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **FRC aur B-Form me kya farq hai?**
-B-Form (CRC) 18 saal se kam umar ke bache ki apni paidaish aur pehchan ka record hai, jabke FRC poore khandan ke rishton (walidain, behan-bhai, biwi-bachay) ka certificate hai. Visa aur immigration ke liye aksar FRC manga jata hai, B-Form nahi.
+[B-Form (CRC)](/guides/b-form-banane-ka-tareeqa) 18 saal se kam umar ke bache ki apni paidaish aur pehchan ka record hai, jabke FRC poore khandan ke rishton (walidain, behan-bhai, biwi-bachay) ka certificate hai. Visa aur immigration ke liye aksar FRC manga jata hai, B-Form nahi.
 
 **Kya FRC ki koi expiry hoti hai?**
 Nahi, FRC ki koi fixed expiry date nahi hoti. Lekin agar khandan ki maloomat badal jaye (paidaish, shadi, talaaq, wafat) to **naya FRC** banwana chahiye, kyunke purana certificate ghalat maloomat dikhayega.

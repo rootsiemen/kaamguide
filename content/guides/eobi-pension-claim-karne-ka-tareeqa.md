@@ -2,7 +2,7 @@
 title: "Pakistan Me EOBI Pension Claim Karne Ka Tareeqa (2026): Buzurg, Bewa Aur Mazoor Pension Ka Poora Process"
 description: "EOBI pension claim karne ka mukammal tareeqa 2026 — ehliyaat (umar 60/55, 15 saal contribution), kam az kam Rs 11,500 mahana pension, zaroori kagzaat, claim form, regional office process, status check aur helpline 08000-3624."
 date: "2026-11-08"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: EOBI Pension Kya Hai Aur Kis Ko Milti Hai

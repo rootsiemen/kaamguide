@@ -50,9 +50,11 @@ export default async function GuidePage({
   if (!guide) notFound();
 
   const url = `${SITE_URL}/guides/${guide.slug}`;
-  const others = getAllGuides()
-    .filter((g) => g.slug !== guide.slug)
-    .slice(0, 3);
+  const allOthers = getAllGuides().filter((g) => g.slug !== guide.slug);
+  const others = [
+    ...allOthers.filter((g) => g.category === guide.category),
+    ...allOthers.filter((g) => g.category !== guide.category),
+  ].slice(0, 3);
 
   const articleLd = {
     "@context": "https://schema.org",
@@ -62,7 +64,11 @@ export default async function GuidePage({
     datePublished: guide.date,
     dateModified: guide.date,
     inLanguage: "ur-PK",
-    author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+    author: {
+      "@type": "Person",
+      name: "Muhamad Raza Haider",
+      url: `${SITE_URL}/about`,
+    },
     publisher: {
       "@type": "Organization",
       name: SITE_NAME,
@@ -136,7 +142,7 @@ export default async function GuidePage({
             month: "long",
             year: "numeric",
           })}{" "}
-          · {guide.readingMinutes} min padhai · Tehreer o tehqeeq: KaamGuide Team
+          · {guide.readingMinutes} min padhai · Tehreer o tehqeeq: KaamGuide Team · Editor: Muhamad Raza Haider
         </p>
         <img
           src={`/images/${guide.slug}.jpg`}

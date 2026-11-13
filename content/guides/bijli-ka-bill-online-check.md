@@ -110,6 +110,29 @@ Agar bill achanak bohat zyada aa gaya ho to pehle ye check karein:
 - **Wafaqi Mohtasib / NEPRA:** Bill durust na ho raha ho to **NEPRA** ko online complaint kar sakte hain (CMS portal: cms.nepra.org.pk) — ye bilkul muft hai aur companies ko jawab dena parta hai.
 - **Apne ilaake ka SDO office:** Meter ya connection ka masla ho to wahan jana parega.
 
+## Bill Ke Khano (Columns) Ko Samajhna
+
+Bill samajhna mushkil nahi — har khana aik maloomat deta hai:
+
+- **Previous / Present Reading:** Pichle aur is mahine ki meter reading — in ka farq hi aap ke **units** hain.
+- **Tariff Category:** Aap ka connection kis rate par hai (ghar-elu, commercial waghera) — slab isi se tay hota hai.
+- **Arrears:** Pichli koi baqaya raqam jo is bill me jama kar di gayi ho.
+- **Current Bill:** Is mahine ki asal raqam.
+- **Within Due Date / After Due Date:** Due date tak ada karne par kam raqam, us ke baad **late surcharge** ke saath zyada raqam.
+- **FPA Aur Taxes:** Fuel Price Adjustment aur sarkari taxes ki lines alag se di hoti hain.
+
+Bill zyada lage to pehle yehi khane tarteeb se check karein — aksar wajah arrears ya FPA hoti hai, reading ki ghalti nahi.
+
+## Kiraye Ke Ghar Ka Bill: Kirayedaar Ke Liye Hidayat
+
+Bijli ka bill hamesha **malik-e-makan ke naam** par ata hai, lekin check aur ada karna kirayedaar ke liye bhi mushkil nahi — sirf reference number chahiye hota hai. Naye ghar me shift hote hi ye kaam kar lein:
+
+1. Malik se **reference number** le kar note kar lein aur pehla bill khud online check karein.
+2. Shift se pehle **arrears ka khana** zaroor dekhein — purana baqaya ho to malik se pehle wazeh kar lein, warna wo aap ke bill me ata rahega.
+3. Meter ki **present reading** ghar lete waqt note kar lein, taake aap ke ane se pehle ke units aap par na paren.
+
+Ghar me connection hi mojood na ho to pehle [bijli ka naya connection lagwana](/guides/bijli-naya-connection-meter-lagwana) hoga. Aur yaad rahe, isi tareeqe se [gas ka bill bhi online check](/guides/gas-ka-bill-online-check) ho jata hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya online bill check karna muft hai?**
@@ -129,6 +152,12 @@ Meter ki asal reading se mila lein — farq ho to SDO office ya NEPRA portal par
 
 **Do mahine ka bill aik saath kyun aa gaya?**
 Kabhi meter reading late ho to do mahino ka jama bill aata hai — bill par "billing month" ghor se dekhein, shak ho to complaint karein.
+
+**Akhri tareekh nikal jaye to kya hota hai?**
+Bill par due date ke baad wali raqam alag likhi hoti hai jis me late payment surcharge shamil hota hai — is liye bill hamesha due date se pehle ada karne ki koshish karein.
+
+**Ghar shift karne par purane bill ka kya karein?**
+Akhri bill ada karke raseed sambhal lein aur arrears zero confirm kar lein, warna baqaya raqam baad me tanaza ban sakti hai.
 
 ## Meter Reader Se Ghalat Reading Ka Masla (Tafseel Se)
 
@@ -152,6 +181,8 @@ Agar naye ghar me bijli ka connection hi nahi:
 4. DISCO ki team **survey** karke meter lagayegi — ye process ilaaqe ke hisab se hafton se mahino tak le sakta hai.
 
 **Kharcha:** Demand notice ki raqam load (units ki capacity) par munhasir hoti hai — ghar ke liye aam tor par chand hazar hote hain. Office se pehle **estimate** zaroor le lein.
+
+Naye connection ka poora step-by-step process, kagzaat aur demand notice ki tafseel ke liye [bijli ka naya connection lagwane ki guide](/guides/bijli-naya-connection-meter-lagwana) parhein.
 
 
 ![Bijli ka meter — meter number bill par likha hota hai jo online check ke liye chahiye](https://images.pexels.com/photos/11924298/pexels-photo-11924298.jpeg?auto=compress&cs=tinysrgb&w=1200)

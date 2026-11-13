@@ -2,7 +2,7 @@
 title: "Pakistan Me Apni Chhat Apna Ghar Loan Apply Karne Ka Tareeqa (2026): 15 Lakh Tak Bila Sood Ghar Ka Loan"
 description: "Apni Chhat Apna Ghar 2026 — Punjab me apne plot par ghar banane ke liye 15 lakh tak bila sood loan: ehliyaat (5 marla shehri / 10 marla dehati plot, PMT 60 ya kam), fees (darkhwast muft, 7 saal muddat, taqreeban 14,000 mahana qist), zaroori kagzaat aur acag.punjab.gov.pk par online apply ka step-by-step tareeqa."
 date: "2026-11-08"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Apni Chhat Apna Ghar Kya Hai

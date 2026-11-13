@@ -2,7 +2,7 @@
 title: "Pakistan Me Asaan Karobar Card Apply Karne Ka Tareeqa (2026): 10 Lakh Tak Bila Sood Loan Ka Poora Process"
 description: "Asaan Karobar Card 2026 — Punjab ke chhote karobario ke liye 10 lakh tak bila sood loan: ehliyaat (umar 21-57), fees (Rs 500 processing, 33 qistein), zaroori kagzaat, akc.punjab.gov.pk par online apply ka step-by-step tareeqa aur aam ghaltiyan."
 date: "2026-11-08"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Asaan Karobar Card Kya Hai

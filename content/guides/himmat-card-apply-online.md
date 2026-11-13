@@ -2,7 +2,7 @@
 title: "Pakistan Me Himmat Card Apply Karne Ka Tareeqa (2026): Mazoor Afrad Ko Har 3 Mahine 10,500 Rupay"
 description: "Himmat Card 2026 — Punjab me mazoor afrad ko har teen mahine 10,500 rupay: ehliyaat (Social Welfare ka disability certificate, Not Fit to Work, PMT 45 ya kam), zaroori kagzaat, DPMIS portal dpmis.punjab.gov.pk par registration aur status check ka step-by-step tareeqa."
 date: "2026-11-11"
-category: "Certificates"
+category: "Schemes"
 ---
 
 ## Pehli Baat: Himmat Card Kya Hai

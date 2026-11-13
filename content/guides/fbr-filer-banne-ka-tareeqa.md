@@ -31,7 +31,7 @@ NTN (National Tax Number) ke liye koi office nahi jana — poora process online 
 
 **Bohat ahem:** Fard (individual) ke liye **NTN aap ka CNIC number hi hota hai** — alag se koi number yaad nahi rakhna. Companiyon aur firms ko alag 7-hinson ka NTN milta hai.
 
-**Registration fail ho to?** Sab se aam wajah hai ke aap ka **mobile number aap ke apne CNIC par registered nahi** hai. Pehle apni SIM apne CNIC par hone ki tasdeeq karein (biometric verification franchise se ho jati hai), phir dobara koshish karein. Bar-bar ghalat submit na karein — CNIC manual review me ja sakta hai.
+**Registration fail ho to?** Sab se aam wajah hai ke aap ka **mobile number aap ke apne CNIC par registered nahi** hai. Pehle apni SIM apne CNIC par hone ki tasdeeq karein (biometric verification franchise se ho jati hai), phir dobara koshish karein. Apne CNIC par registered SIMs ki tadaad [is guide](/guides/apne-naam-par-kitni-sim-hain-check-karne-ka-tareeqa) se ghar bethe check ki ja sakti hai. Bar-bar ghalat submit na karein — CNIC manual review me ja sakta hai.
 
 
 ![Tax return aur filer banne ke liye documents aur hisaab kitab](https://images.pexels.com/photos/6863178/pexels-photo-6863178.jpeg?auto=compress&cs=tinysrgb&w=1200)
@@ -56,6 +56,8 @@ Return file hone ke **24 se 72 ghante** ke andar aap ka naam ATL me aa jata hai.
 - **SMS:** Apna CNIC number (bina dashes) **9966** par bhej dein — "Active" ka jawab aaye to aap filer hain.
 - **Website:** **atl.fbr.gov.pk** par ja kar CNIC darj karein.
 
+ATL check karne ka poora step-by-step tareeqa hamari [FBR ATL status check wali guide](/guides/fbr-atl-status-check-ka-tareeqa) me bhi diya hai.
+
 ## Deadline Aur Late Filing
 
 - Individuals ke liye return ki aakhri tareekh aam tor par **30 September** hoti hai (har saal FBR confirm karta hai).
@@ -79,6 +81,26 @@ Return file hone ke **24 se 72 ghante** ke andar aap ka naam ATL me aa jata hai.
 4. **Wealth statement me farq:** Assets aur aamdani ka hisab na mile to system rok dega — numbers pehle kagaz par bana lein.
 5. **Deadline par bharosa karna:** "Extension mil jayegi" soch kar intezar karna mehenga parta hai — extension ki koi guarantee nahi hoti.
 
+## Salaried Afraad Ke Liye Khas Check-List
+
+Naukri-pesha afraad ki return sab se seedhi hoti hai, lekin aik ghalti aam hai: **employer ke kata hue tax aur return me darj tax ka farq**. File karne se pehle ye mila lein:
+
+1. Employer se **tax deduction certificate** lein — saal bhar me kata hua kul tax is par likha hota hai.
+2. **Salary slips** se tankhwah ki kul raqam mila lein — bonus aur allowances bhi aamdani me shamil hote hain.
+3. Bank ne **profit ya cash withdrawal** par withholding kata ho to wo bhi return me darj karein — ye tax me adjust hota hai.
+4. Koi aur aamdani (kiraya, side kaam) ho to wo bhi lazmi likhein.
+
+Ye hisab pehle mila lene se notice ke chances kam ho jate hain.
+
+## Return File Karne Ke Baad Saboot Sambhalein
+
+Return submit karna adha kaam hai — us ke **saboot sambhalna** doosra adha:
+
+- **Acknowledgement number** aur submitted return ki copy (PDF ya print) aik alag folder me rakhein.
+- **Wealth statement** ke figures aur un ke documents (bank statement, jaidad ke kagzaat) bhi isi folder me hon.
+
+Kal ko FBR ka notice aye ya filer hone ka saboot manga jaye to yehi file kaam ayegi — ATL check ka tareeqa upar Step 3 me diya hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya NTN registration ki koi fee hai?**
@@ -99,11 +121,14 @@ Ji haan — filer rehne ke liye har saal ki return lazmi hai. Aik saal miss kiya
 **Kya main khud file kar sakta hun ya wakil lazmi hai?**
 Seedhi salaried ya nil return **khud** file kar sakte hain. Karobari ya paycheeda hisab ho to tax consultant se mashwara behtar hai.
 
+**Return file karne ke baad ghalti ka pata chale to?**
+Ghabrayen nahi — IRIS me **revised return** file karne ki sahoolat hoti hai. Durust figures ke saath revised return jama kar dein aur nayi acknowledgement sambhal lein.
+
 ## IRIS 2.0: Naye Portal Ki Khaasiyat
 
 FBR ne apna portal **IRIS 2.0** me upgrade kar diya hai — kuch faide:
 
-- **Pre-filled data:** FBR ke paas jo record hai (bank withholding, gaari ka record, utility connections) wo form me **pehle se bhara** aata hai — aap ko sirf tasdeeq karni hoti hai.
+- **Pre-filled data:** FBR ke paas jo record hai (bank withholding, gaari ka record, utility connections) wo form me **pehle se bhara** aata hai — aap ko sirf tasdeeq karni hoti hai. Apna [bijli ka bill online check](/guides/bijli-ka-bill-online-check) karke aap khud bhi dekh sakte hain ke utility connection aap ke naam par sahi darj hai ya nahi.
 - **Ahem:** Pre-filled figures ko apne documents se **mila kar** hi aage barhein — ghalat data par submit karna aap ki zimmedari hogi.
 
 ## Filer Rehne Ke Liye Har Saal Kya Karna Hai

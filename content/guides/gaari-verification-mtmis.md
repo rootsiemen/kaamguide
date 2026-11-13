@@ -77,6 +77,17 @@ Sirf online verification kaafi nahi — ye poori checklist follow karein:
 - SMS wala tareeqa bhi try karein.
 - Agar dono par kuch na mile — **gaari na khareedin** jab tak Excise office se tasdeeq na ho jaye. Asal record ka na milna bara khatra hai.
 
+## Dealer Ya Showroom Se Gaari Lete Waqt Extra Tasdeeq
+
+Private bechne wale se lena aur dealer se lena — verification dono jagah zaroori hai, lekin dealer ke case me chand cheezen aur dekhni hoti hain:
+
+1. **Dealer malik nahi hota:** Showroom par khari gaari ka asal malik koi aur hota hai. MTMIS record me malik ka naam dekhein aur dealer se poochein ke transfer ke din asal malik biometric ke liye aayega ya us ka transfer letter mojood hai — baghair is ke [gaari transfer ka process](/guides/gaari-transfer-karne-ka-tareeqa) atak jayega.
+2. **"Open letter" wali gaari se ehtiyaat:** Dealer aksar khuli transfer letter wali gaari deta hai — kagzaat naam par na hona wohi purana khatra hai jo is guide ke shuru me bayan hua. Aisi gaari par raqam rok kar pehle asal malik se rabta confirm karein.
+3. **Token tax ka hisab likhit me:** Dealer kehte hain "token clear hai" — MTMIS par khud check karein aur baqaya ho to qeemat me adjust karwayen. [Token tax online jama karwana](/guides/gaari-token-tax-online-jama-karwana) baad me bhi ho sakta hai, lekin baqaya aap ke hisse aane se pehle tay hona chahiye.
+4. **Challan ka record bhi dekhein:** Gaari par [purane e-challan baqaya](/guides/punjab-e-challan-check-aur-pay-karne-ka-tareeqa) hon to transfer ke waqt masla ban sakte hain — sauda se pehle ye check bhi 2 minute ka hai.
+
+Dealer se lena bura nahi — bas ye yaad rakhein ke showroom ki chamak kagzaat ki tasdeeq ka badal nahi hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya gaari verification muft hai?**
@@ -96,6 +107,12 @@ Ji haan — Punjab me **ePay Punjab** app ya bank se token tax online ada ho sak
 
 **Doosre soobe ki gaari Punjab me khareed sakte hain?**
 Khareed sakte hain lekin transfer ke liye **NOC aur mutaliqa soobe ka process** lagega — pehle Excise office se poora tareeqa maloom kar lein.
+
+**Verification me malik ki jagah bank ka naam aye to kya matlab hai?**
+Is ka matlab hai gaari **bank se leased** hai — lease clear aur NOC mile baghair is ka transfer nahi ho sakta. Aisi gaari sirf tab lein jab bechne wala pehle bank se clearance ka saboot dikhaye.
+
+**Kya company ke naam par registered gaari bhi online verify ho jati hai?**
+Ji haan — registration number dalne se record aa jata hai, chahe malik fard ho, company ho ya bank. Verification ka tareeqa sab ke liye aik hi hai.
 
 ## Gaari Khareedne Se Pehle Ke In "Signal" Jin Par Foran Ruk Jayen
 

@@ -90,6 +90,19 @@ Bahir rehne walon ke liye teen raste hain:
 3. **Authority letter ghair-attested:** Bahir se bheja letter attested na ho to counter wapas bhej deta hai.
 4. **Waqt ki ghalat andaza:** Visa ki deadline se pehle aakhri dinon me bhagna — kam az kam **2 hafte pehle** apply karein.
 
+## PKM Jane Se Pehle: Aik Din Pehle Ki Tayyari Checklist
+
+Character certificate ka process waise to seedha hai, lekin aadha waqt wahi zaya hota hai jahan kagzaat adhoore hon. Jane se aik din pehle ye tayyari kar lein:
+
+1. **Address ki list bana lein:** Pichle saalon me jin jin shehron aur pate par rahe hain, un ki list tareekhon ke saath kagaz par likh lein — counter par yehi maloomat form me darj hoti hain.
+2. **Naam ki spelling ka aik hi version:** CNIC, passport aur application — teeno par naam aik jaisa hona chahiye. Agar [CNIC par naam ya pata purana hai](/guides/nadra-cnic-banane-ka-tareeqa) to pehle wahi theek karwayen, warna certificate aur CNIC ka farq visa file me rukawat bane ga.
+3. **Passport tayyar rakhein:** Visa ke maqsad ke liye passport lazmi hai — agar passport hi nahi bana to pehle [passport banane ka process](/guides/pakistan-passport-banane-ka-tareeqa) mukammal karein.
+4. **Copies ka set:** Asal CNIC aur passport ke saath 2-2 photocopies aur aik passport-size tasveer pehle se rakhein.
+5. **Fee ka bandobast:** PSID se payment mobile banking, Easypaisa ya JazzCash se bhi hoti hai — balance pehle se rakhein.
+6. **Tracking number ki hifazat:** Apply karte hi tracking number mobile me note kar lein — status check aur duplicate download dono isi se hote hain.
+
+Ye 15 minute ki tayyari center ka chakkar aik hi dafa me mukammal karwa deti hai.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Character certificate kitne din valid hota hai?**
@@ -106,6 +119,12 @@ Certificate par record nazar aayega — is soorat me pehle **wakil se mashwara**
 
 **Certificate urgent chahiye to?**
 Punjab me 3 working days hi standard time hai — is se tez official option nahi; agenton ke jhoote wado par paisa zaya na karein.
+
+**Main do alag shehron me raha hun — kya do certificate banenge?**
+Nahi — aik hi application me dono rehaish ke pate darj karein; PKM aap ke tamam darj karda ilaaqon ki verification karke certificate deta hai. Isi liye guzishta pate ki list pehle se tayyar rakhna faida deta hai.
+
+**Online wala certificate print kar ke chalega ya asal courier wala chahiye?**
+QR code wala certificate print bhi aam tor par qabool hota hai kyunke QR se verification ho jati hai. Lekin kuch embassies asal certificate mangti hain — apni embassy ya employer ki requirement pehle confirm kar lein.
 
 ## Doosre Soobon Ka Mukhtasir Jaiza
 

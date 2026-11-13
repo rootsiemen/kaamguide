@@ -90,7 +90,7 @@ Punjab me license **1 se 5 saal** tak ki validity par ban sakta hai. Fee usi his
 
 ## Zaroori Kagzaat (Test Aur License Ke Liye)
 
-- Asal **CNIC**
+- Asal **[CNIC](/guides/nadra-cnic-banane-ka-tareeqa)**
 - **Learner license** (42 din purana)
 - 2-3 **passport-size tasveeren**
 - **Medical certificate** — sirf 50 saal se zyada umar walon ke liye (sarkari doctor se)
@@ -148,6 +148,32 @@ Agar aap ka license **Sindh, KPK ya Balochistan** se bana hai aur ab Punjab me r
 4. **Ghalat category:** Sirf bike ka license hai to car nahi chala sakte — har category ka alag license hota hai.
 5. **E-license na rakhna:** Card na aaya ho to e-license phone me zaroor rakhein.
 
+## Sign Test Ki Tayyari: Ye Signs Lazmi Yaad Karein
+
+Sign test me aam tor par roz-marra ke traffic signs poche jate hain. Ye bunyadi signs pehle se yaad kar lein to test asan ho jata hai:
+
+| Sign Ki Qisam | Matlab |
+| --- | --- |
+| Laal ghaira (circle) wala board | Mamnoo / rok — jaise no entry, no U-turn |
+| Takon (triangle) wala board | Khabardar — aage khatra ya ehtiyaat |
+| Neela board | Lazmi hidayat — jaise direction ya lane ka ishara |
+| Stop sign | Mukammal rukna lazmi hai |
+| Speed limit wala board | Us se zyada raftaar mamnoo hai |
+
+Tayyari ka behtareen tareeqa ye hai ke test se aik din pehle Punjab Traffic Police ki website ya kisi bhi driving manual se signs ki list aik nazar parh lein, aur phir sarak par chalte hue har sign ko khud pehchanna practice karein. Sign test me fail hona aam tor par driving na aane ki wajah se nahi, tayyari na karne ki wajah se hota hai.
+
+## Test Wale Din Ki Mukammal Checklist
+
+Test wale din ye cheezain saath hon to wapas lotne ki nobat nahi aati:
+
+- Asal CNIC aur learner license (42 din purana hona chahiye)
+- Test fee ada karne ke liye mobile payment app ya cash
+- Passport-size tasveeren
+- Apni practised gaari ya bike — jis par haath set hai
+- Waqt se pehle center pohanchna — token aur tartib me waqt lagta hai
+
+Test pass ho jaye to usi din permanent license ki fee ka process shuru ho jata hai. License milne ke baad is ki muddat par nazar rakhein — expiry qareeb aye to [Punjab driving license renewal guide](/guides/punjab-driving-license-renewal-ka-tareeqa) se waqt par renew karwayen, aur bahir mulk chalane ka irada ho to [international driving permit ki guide](/guides/international-driving-permit-pakistan) bhi parh lein.
+
 ## Aksar Poche Jane Wale Sawal
 
 **Kya learner license ke baghair gaari chala sakta hun?**
@@ -167,6 +193,12 @@ Nahi — driving license ke liye 18 saal ki umar lazmi hai.
 
 **License gum ho jaye to?**
 DLIMS se **duplicate** ke liye apply karein — motorcycle ke liye Rs 100, car ke liye Rs 150 fee hai. Gumshudgi ki FIR bhi katwa lein.
+
+**Kya e-license par gaari chala sakta hun jab tak card na aye?**
+Ji haan — traffic police ki tasdeeq ke mutabiq e-license qanooni tor par valid hai. DLIMS se PDF download karke phone me rakh lein, yehi kaafi hai.
+
+**Learner license expire ho jaye to kya hoga?**
+Learner license 6 mahine valid hota hai. Muddat guzar jaye to permanent test ke liye jaane se pehle learner dobara online banwana parega — tareeqa oopar Step 1 wala hi hai.
 
 
 ![Gaari chalate hue — driving test ki tayyari](https://images.pexels.com/photos/19477337/pexels-photo-19477337.jpeg?auto=compress&cs=tinysrgb&w=1200)
